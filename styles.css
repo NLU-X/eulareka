@@ -54,7 +54,6 @@ button:hover {
   box-sizing: border-box;
   padding: 1em;
   border-radius: 5px;
-  background-color: #C5E99B;
 }
 
 #content {
@@ -90,4 +89,142 @@ button:hover {
 
 .search {
   background-color: green;
+}
+
+.query-0 {
+  background-color: #AA3939;
+  color: white;
+  font-weight: bold;
+}
+
+.query-1 {
+  background-color: #AA5939;
+  color: white;
+  font-weight: bold;
+}
+
+.query-2 {
+  background-color: #AA6B39;
+  color: white;
+  font-weight: bold;
+}
+
+.query-3 {
+  background-color: #AA7939;
+  color: white;
+  font-weight: bold;
+}
+
+.query-4 {
+  background-color: #AA8439;
+  color: white;
+  font-weight: bold;
+}
+
+.query-5 {
+  background-color: #AA8E39;
+  color: white;
+  font-weight: bold;
+}
+
+.query-6 {
+  background-color: #AA9539;
+  color: white;
+  font-weight: bold;
+}
+
+.query-7 {
+  background-color: #AA9F39;
+  color: white;
+  font-weight: bold;
+}
+
+.query-8 {
+  background-color: #AAA939;
+  color: white;
+  font-weight: bold;
+}
+
+.query-9 {
+  background-color: #AAA537;
+  color: white;
+  font-weight: bold;
+}
+
+.query-10 {
+  background-color: #7A9F35;
+  color: white;
+  font-weight: bold;
+}
+
+.query-11 {
+  background-color: #5E9732;
+  color: white;
+  font-weight: bold;
+}
+
+.query-12 {
+  background-color: #2D882D;
+  color: white;
+  font-weight: bold;
+}
+
+.query-13 {
+  background-color: #267257;
+  color: white;
+  font-weight: bold;
+}
+
+.query-14 {
+  background-color: #226666;
+  color: white;
+  font-weight: bold;
+}
+
+.query-15 {
+  background-color: #2A4F6E;
+  color: white;
+  font-weight: bold;
+}
+
+.query-16 {
+  background-color: #2E4372;
+  color: white;
+  font-weight: bold;
+}
+
+.query-17 {
+  background-color: #353377;
+  color: white;
+  font-weight: bold;
+}
+
+.query-18 {
+  background-color: #403075;
+  color: white;
+  font-weight: bold;
+}
+
+.query-19 {
+  background-color: #4C2D73;
+  color: white;
+  font-weight: bold;
+}
+
+.query-20 {
+  background-color: #592A71;
+  color: white;
+  font-weight: bold;
+}
+
+.query-21 {
+  background-color: #71266E;
+  color: white;
+  font-weight: bold;
+}
+
+.query-22 {
+  background-color: #8B2E5F;
+  color: white;
+  font-weight: bold;
 }
