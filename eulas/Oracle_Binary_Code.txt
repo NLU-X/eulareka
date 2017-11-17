@@ -1,0 +1,93 @@
+oracle binary code license agreement for the java platform products and javafxoracle america inc
+oracle for and behalf itself and its subsidiaries and affiliates under common control willing license the software you only upon the condition that you accept all the terms contained this binary code license agreement and supplemental license terms collectively agreement
+please read the agreement carefully
+selecting the accept license agreement the equivalent button andor using the software you acknowledge that you have read the terms and agree them
+you are agreeing these terms behalf company other legal entity you represent that you have the legal authority bind the legal entity these terms
+you not have such authority you not wish bound the terms then select the decline license agreement the equivalent button and you must not use the software this site any other media which the software contained1
+definitions
+software means the software identified above binary form that you selected for download install use the version you selected for download install use from oracle its authorized licensees andor those portions such software produced jlink output using programs code when such output unmodified form combination and for sole use with that program well any other machine readable materials including but not limited libraries source files header files and data files any updates error corrections provided oracle and any user manuals programming guides and other documentation provided you oracle under this agreement
+the java linker jlink available with java and later versions general purpose desktop computers and servers means computers including desktop and laptop computers servers used for general computing functions under end user control such but not specifically limited email general purpose internet browsing and office suite productivity tools
+the use software systems and solutions that provide dedicated functionality other than mentioned above designed for use embedded functionspecific software applications for example but not limited software embedded bundled with industrial control systems wireless mobile telephones wireless handheld devices kiosks tvstb bluray disc devices telematics and network control switching equipment printers and storage management systems and other related systems are excluded from this definition and not licensed under this agreement
+programs means java technology applets and applications intended run the java platform standard edition platform javaenabled general purpose desktop computers and servers and javafx technology applications intended run the javafx runtime javafxenabled general purpose desktop computers and servers
+java lium means the licensing information user manual oracle java and oracle java embedded products document accessible athttpwwworaclecomtechnetworkjavajavasedocumentationindexhtml
+commercial features means those features that are identified such the java lium under the description product editions and permitted features section2
+license use
+subject the terms and conditions this agreement including but not limited the java technology restrictions the supplemental license terms oracle grants you nonexclusive nontransferable limited license without license fees reproduce and use internally the software complete and unmodified for the sole purpose running programs
+the license set forth this section does not extend the commercial features
+your rights and obligations related the commercial features are set forth the supplemental terms along with additional licenses for developers and publishers3
+restrictions
+software copyrighted
+title software and all associated intellectual property rights retained oracle andor its licensors
+unless enforcement prohibited applicable law you may not modify decompile reverse engineer software
+you acknowledge that the software developed for general use variety information management applications not developed intended for use any inherently dangerous applications including applications that may create risk personal injury
+you use the software dangerous applications then you shall responsible take all appropriate failsafe backup redundancy and other measures ensure its safe use
+oracle disclaims any express implied warranty fitness for such uses
+right title interest any trademark service mark logo trade name oracle its licensors granted under this agreement
+additional restrictions for developers andor publishers licenses are set forth the supplemental license terms4
+disclaimer warranty
+the software provided without warranty any kind
+oracle further disclaims all warranties express and implied including without limitation any implied warranties merchantability fitness for particular purpose noninfringement5
+limitation liability
+event shall oracle liable for any indirect incidental special punitive consequential damages damages for loss profits revenue data data use incurred you any third party whether action contract tort even oracle has been advised the possibility such damages
+oracles entire liability for damages hereunder shall event exceed one thousand dollars 10006
+termination
+this agreement effective until terminated
+you may terminate this agreement any time destroying all copies software
+this agreement will terminate immediately without notice from oracle you fail comply with any provision this agreement
+either party may terminate this agreement immediately should any software become either partys opinion likely become the subject claim infringement any intellectual property right
+upon termination you must destroy all copies software7
+export regulations
+you agree that export control laws and other applicable export and import laws govern your use the software including technical data additional information can found oracles global trade compliance web site httpwwworaclecomusproductsexport
+you agree that neither the software nor any direct product thereof will exported directly indirectly violation these laws will used for any purpose prohibited these laws including without limitation nuclear chemical biological weapons proliferation8
+trademarks and logos
+you acknowledge and agree between you and oracle that oracle owns the oracle and java trademarks and all oracle and javarelated trademarks service marks logos and other brand designations oracle marks and you agree comply with the third party usage guidelines for oracle trademarks currently located athttpwwworaclecomuslegalthirdpartytrademarksindexhtml
+any use you make the oracle marks inures oracles benefit9
+government license rights
+software being acquired behalf the government government prime contractor subcontractor any tier then the governments rights software and accompanying documentation shall only those set forth this agreement10
+governing law
+this agreement governed the substantive and procedural laws california
+you and oracle agree submit the exclusive jurisdiction and venue the courts san francisco santa clara counties california any dispute arising out relating this agreement11
+severability
+any provision this agreement held unenforceable this agreement will remain effect with the provision omitted unless omission would frustrate the intent the parties which case this agreement will immediately terminate12
+integration
+this agreement the entire agreement between you and oracle relating its subject matter
+supersedes all prior contemporaneous oral written communications proposals representations and warranties and prevails over any conflicting additional terms any quote order acknowledgment other communication between the parties relating its subject matter during the term this agreement
+modification this agreement will binding unless writing and signed authorized representative each partysupplemental license termsthese supplemental license terms add modify the terms the binary code license agreement
+capitalized terms not defined these supplemental terms shall have the same meanings ascribed them the binary code license agreement
+these supplemental terms shall supersede any inconsistent conflicting terms the binary code license agreement any license contained within the softwarea
+commercial features
+you may not use the commercial features for running programs java applets applications your internal business operations for any commercial production purpose for any purpose other than set forth sections and these supplemental terms
+you want use the commercial features for any purpose other than permitted this agreement you must obtain separate license from oracleb
+software internal use for development license grant
+subject the terms and conditions this agreement and restrictions and exceptions set forth the java lium incorporated herein reference including but not limited the java technology restrictions these supplemental terms oracle grants you nonexclusive nontransferable limited license without fees reproduce internally and use internally the software complete and unmodified for the purpose designing developing and testing your programsc
+license distribute software
+subject the terms and conditions this agreement and restrictions and exceptions set forth the java lium including but not limited the java technology restrictions and limitations redistribution these supplemental terms oracle grants you nonexclusive nontransferable limited license without fees reproduce and distribute the software provided that you distribute the software complete and unmodified and only bundled part and for the sole purpose running your programs the programs add significant and primary functionality the software iii you not distribute additional software intended replace any components the software you not remove alter any proprietary legends notices contained the software you only distribute the software subject license agreement that complete unmodified reproduction this agreement protects oracles interests consistent with the terms contained this agreement and that includes the notice set forth section and you agree defend and indemnify oracle and its licensors from and against any damages costs liabilities settlement amounts andor expenses including attorneys fees incurred connection with any claim lawsuit action any third party that arises results from the use distribution any and all programs andor software
+the license set forth this section does not extend the software identified section license distribute redistributables
+subject the terms and conditions this agreement and restrictions and exceptions set forth the java lium including but not limited the java technology restrictions and limitations redistribution these supplemental terms oracle grants you nonexclusive nontransferable limited license without fees reproduce and distribute those files specifically identified redistributable the java lium redistributables provided that you distribute the redistributables complete and unmodified and only bundled part programs the programs add significant and primary functionality the redistributables iii you not distribute additional software intended supersede any components the redistributables unless otherwise specified the applicable java lium you not remove alter any proprietary legends notices contained the redistributables you only distribute the redistributables pursuant license agreement that complete unmodified reproduction this agreement protects oracles interests consistent with the terms contained the agreement and includes the notice set forth section you agree defend and indemnify oracle and its licensors from and against any damages costs liabilities settlement amounts andor expenses including attorneys fees incurred connection with any claim lawsuit action any third party that arises results from the use distribution any and all programs andor software
+the license set forth this section does not extend the software identified section distribution publishers
+this section pertains your distribution the javatm development kit software jdk with your printed book magazine those terms are commonly used the industry relating java technology publication
+subject and conditioned upon your compliance with the restrictions and obligations contained the agreement oracle hereby grants you nonexclusive nontransferable limited right reproduce complete and unmodified copies the jdk electronic media the media for the sole purpose inclusion and distribution with your publications subject the following terms you may not distribute the jdk standalone basis must distributed with your publications you are responsible for downloading the jdk from the applicable oracle web site iii you must refer the jdk javatm development kit the jdk must reproduced its entirety and without any modification whatsoever including with respect all proprietary notices and distributed with your publication subject license agreement that complete unmodified reproduction this agreement the media label shall include the following information copyright year oracle america inc
+all rights reserved
+use subject license terms
+oracle and java trademarks and all oracle and javarelated trademarks service marks logos and other brand designations are trademarks registered trademarks oracle the and other countries year the year oracles release the software the year information can typically found the softwares about box screen
+this information must placed the media label such manner only apply the jdk you must clearly identify the jdk oracles product the media holder media label and you may not state imply that oracle responsible for any thirdparty software contained the media vii you may not include any third party software the media which intended replacement substitute for the jdk viii you agree defend and indemnify oracle and its licensors from and against any damages costs liabilities settlement amounts andor expenses including attorneys fees incurred connection with any claim lawsuit action any third party that arises results from the use distribution the jdk andor the publication and you shall provide oracle with written notice for each publication such notice shall include the following information title publication authors date publication and isbn issn numbers
+such notice shall sent oracle america inc 500 oracle parkway redwood shores california 94065 usa attention general counself
+java technology restrictions
+you may not create modify change the behavior authorize your licensees create modify change the behavior classes interfaces subpackages that are any way identified java javax sun oracle similar convention specified oracle any naming convention designationg
+limitations redistribution
+you may not redistribute otherwise transfer patches bug fixes updates made available oracle through oracle premier support including those made available under oracles java support programh
+commercial features notice
+for purpose complying with supplemental term section cvb and dvb your license agreement shall include the following notice where the notice displayed manner that anyone using the software will see the noticeuse the commercial features for any commercial production purpose requires separate license from oracle
+commercial features means those features that are identified such the licensing information user manual oracle java and oracle java embedded products document accessible athttpwwworaclecomtechnetworkjavajavasedocumentationindexhtml under the description product editions and permitted features sectioni
+source code
+software may contain source code that unless expressly licensed for other purposes provided solely for reference purposes pursuant the terms this agreement
+source code may not redistributed unless expressly provided for this agreementj
+third party code
+additional copyright notices and license terms applicable portions the software are set forth the java lium accessible athttpwwworaclecomtechnetworkjavajavasedocumentationindexhtml
+addition any terms and conditions any third party opensourcefreeware license identified the java lium the disclaimer warranty and limitation liability provisions paragraphs and the binary code license agreement shall apply all software this distributionk
+termination for infringement
+either party may terminate this agreement immediately should any software become either partys opinion likely become the subject claim infringement any intellectual property rightl
+installation and autoupdate
+the softwares installation and autoupdate processes transmit limited amount data oracle its service provider about those specific processes help oracle understand and optimize them
+oracle does not associate the data with personally identifiable information
+you can find more information about the data oracle collects result your software download athttpwwworaclecomtechnetworkjavajavasedocumentationindexhtmlfor inquiries please contact oracle america inc 500 oracle parkwayredwood shores california 94065 usalast updated september 2017

@@ -1,0 +1,68 @@
+end user license agreement please scroll down and read all the following terms and conditions this end user license agreement agreement carefully before clicking agree similar button installing using the program this agreement legally binding contract between you and oracle america inc
+that sets forth the terms and conditions that govern your use the program
+clicking agree similar button installing andor using the program you agree abide all the terms and conditions stated referenced herein
+you not agree abide these terms and conditions not click agree similar button and not install use the program
+you must accept and abide these terms and conditions presented you any changes additions deletions you these terms and conditions will not accepted oracle and will not part this agreement
+oracle refers oracle america inc for and behalf itself and its subsidiaries and affiliates under common control
+you and your refer the individual entity that has agreed use the program defined below accordance with this agreement
+apple refers apple inc
+and its majority owned affiliates
+device means the compatible apple ios product you own control
+program refers the oracle crm demand connected mobile sales software application and any program documentation provided oracle and licensed you subject the terms and conditions this agreement
+server product refers the separately licensed oracle crm demand oracle mobile sales data access products which you are authorized user pursuant the terms the server product agreement
+server product agreement refers the oracle license agreement for the server product
+this agreement governed and construed accordance with the substantive and procedural laws the united states and the state california except that body california law concerning conflicts law
+you and oracle agree submit the exclusive jurisdiction and venue the courts san francisco santa clara counties california any dispute arising out relating this agreement
+the united nations convention contracts for the international sale goods and the uniform computer information transactions act not apply this agreement
+introduction once installed and properly configured your device the program will enable you use your device access server product permitted the server product agreement
+your use the program and server product subject the terms referenced herein including the terms the server product agreement
+license subject the terms set forth this agreement and the app store terms service oracle grants you nonexclusive nontransferable nonsublicensable revocable limited right install and run the program your device solely connection with your authorized use server product
+your use server product governed the terms the server product agreement
+your right use the program will cease upon the earlier the expiration termination suspension the server product agreement the expiration termination suspension your status authorized user server product
+oracle may audit your use the program
+you are not permitted use the program for any purpose other than connection with your authorized use server product
+you agree comply with any applicable third party terms agreement when using the program
+consent use locationbased services and data the program may contain use locationbased services
+you use access such locationbased services connection with the program you hereby consent the collection transmission and use your location data the program
+information about the programs collection and use location data will specified the programs about section
+the program provides realtime location route guidance you assume all risks associated with your use such real time location data route guidance
+location data may not accurate
+data collection and privacy the program may collect information about your use the program including information you provide directly through automated means such geolocation only you choose share progam usage time stamp device and identification login credentials and other information outlined oracles applicable privacy policy available httpwwworaclecomuslegalprivacyindexhtml
+oracle may use this information for purposes specified the applicable privacy policy such identity management security auditing
+marketing service delivery and product improvement
+export restrictions export laws and regulations the united states and any other relevant local export laws and regulations apply the program
+you agree that such export control laws govern your use the program including technical data and you agree comply with all such export laws and regulations including deemed export and deemed reexport regulations
+you agree that data information andor program will exported directly indirectly violation these laws will used for any purpose prohibited these laws including without limitation nuclear chemical biological weapons proliferation development missile technology
+you represent and warrant that you are not located country that subject government embargo that has been designated the government terrorist supporting country and you are not listed any government list prohibited restricted parties
+ownership and restrictions oracle its licensors retain all ownership and intellectual property rights the program
+you may not remove modify any program markings any notice oracles its licensors proprietary rights make the program available any manner any third party use the program provide third party training assign this agreement give transfer the program interest them another individual entity cause permit reverse engineering unless required law for interoperability disassembly decompilation the program the foregoing prohibition includes but not limited review data structures similar materials produced programs create derivative works based the program disclose results any program benchmark tests without oracles prior written consent use any oracle name trademark logo
+disclaimer warranties and exclusive remedies the extent not prohibited law oracle hereby disclaims all express implied representations warranties guarantees and conditions any kind arising law otherwise with regard the program including but not limited representations warranties guarantees and conditions merchantability fitness for particular purpose title noninfringement and quality service
+oracle makes representations warranties regarding the content effectiveness usefulness reliability availability timeliness quality suitability accuracy completeness the program the results you may obtain using the program that the program will uninterrupted errorfree that completely secure
+without limiting the generality the foregoing oracle does not represent warrant that the operation use the program will timely secure uninterrupted errorfree the quality any products services information other material you purchase obtain through the program will meet your requirements
+you acknowledge that oracle does not control the transfer data over communications facilities including the internet and that the program may subject limitations delays and other problems inherent the use such communications facilities
+oracle not responsible for any delays delivery failures other damage resulting from such problems
+except where expressly provided otherwise oracle the program provided you basis
+the event any failure the program conform any applicable warranty you may notify apple and apple will refund the purchase price for the program and the maximum extent permitted applicable law apple shall have warranty obligation whatsoever with respect the program and obligation address any your claims claims any third party relating the program your possession andor use the program including but not limited product liability claims any claim that the program fails conform any applicable legal regulatory requirement and iii claims arising under consumer protection similar legislation
+event shall oracle liable you any third party for any direct indirect incidental special punitive consequential damages damages for loss profits goodwill business opportunity revenue data data use incurred you any third party whether action contract tort otherwise arising from related the use the program any data derived therefrom even oracle had been advised the possibility such damages
+technical support you and oracle acknowledge that neither oracle nor apple has any obligation under this agreement furnish technical support updates for the program
+indemnification third party makes claim against you that your use the program provided this agreement infringes its intellectual property rights oracle its sole cost and expense will defend you against the claim and indemnify you from the damages liabilities costs and expenses awarded the court the third party claiming infringement the settlement agreed oracle you the following notify oracle promptly writing not later than days after you receive notice the claim sooner required applicable law give oracle sole control the defense and any settlement negotiations and give oracle the information authority and assistance needs defend against settle the claim
+oracle believes determined that the program may have violated third partys intellectual property rights oracle may choose either modify the program noninfringing while substantially preserving its utility functionality obtain license allow for continued use these alternatives are not commercially reasonable oracle may end the license for and require return the program and refund any fees you may have paid for oracle will not indemnify you you alter the program use outside the scope use identified the programs user documentation you use version the program which has been superseded the infringement claim could have been avoided using unaltered current version the program
+oracle will not indemnify you the extent that infringement claim based upon any material not furnished oracle
+oracle will not indemnify you the extent that infringement claim based upon the combination the program with any products services not provided oracle
+oracle will not indemnify you for infringement caused your actions against any third party the program delivered you and used accordance with the terms this agreement would not otherwise infringe any third party intellectual property rights
+you and oracle acknowledge that apple will not responsible for the investigation defense settlement discharge any third party claim that the program your possession and use thereof infringes that third partys intellectual property rights
+this section provides your exclusive remedy for any infringement claims damages
+end agreement you may terminate this agreement destroying all copies the program
+your right use the program shall end immediately you fail comply with any the terms set forth this agreement otherwise set forth the license section above which case you shall destroy all copies the program
+except expressly set forth the server product agreement the terms and conditions governing the server product agreement are not affected the termination your right use the program under this agreement
+the provisions this agreement that their nature continue shall survive any expiration termination this agreement
+relationship between the parties the relationship between you and oracle that licenseelicensor
+entire agreement you agree that this agreement the complete agreement pertaining the subject matter hereof including references information contained url referenced policy and this agreement supersedes all prior contemporaneous written oral agreements representations existing between you and oracle with respect such subject matter
+you acknowledge that the terms this agreement including the license for the program are separate from the terms governing server product and that this agreement does not include the grant any right use server product
+any term this agreement found invalid unenforceable the remaining provisions will remain effective
+oracles failure enforce any right provisions this agreement will not constitute waiver such provision any other provision this agreement
+you are located the province quebec canada the following clause applies the parties hereby confirm that they have requested that this agreement and all related documents drafted english
+les parties ont exig que present contrat tous les documents connexes soient rediges anglais
+acknowledgments both parties acknowledge and agree that this agreement between oracle and you and that apple not party this agreement that oracle solely responsible for the program and the content thereof iii that apple and apples subsidiaries are third party beneficiaries this agreement and that upon your acceptance the terms and conditions this agreement apple will have the right and will deemed have accepted the right enforce this agreement against you third party beneficiary hereof
+contact information for any questions complaints claims with respect the program please contact oracle global customer support 18006330738 online httpssupportoraclecom
+last updated may 2013 

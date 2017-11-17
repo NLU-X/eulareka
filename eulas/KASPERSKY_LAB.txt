@@ -1,0 +1,75 @@
+kaspersky lab end user license agreement
+important legal notice all users carefully read the following legal agreement before you start using the software
+downloading using the software you consent bound the terms and conditions this license agreement
+you not agree all the terms and conditions this agreement not download use this software
+definitions11softwaremeans software for which this agreement provided and related materials12rightholderowner all rights whether exclusive otherwise the software means kaspersky lab zao company incorporated according the laws the russian federation13computersmeans hardware including personal computers laptops workstations personal digital assistants smart phones handheld devices other electronic devices for which the software was designed where the software will installed andor used14end user youyourmeans individuals installing using the software their own behalf who are legally using copy the software the software being downloaded installed behalf organization such employer you further means the organization for which the software downloaded installed and represented hereby that such organization has authorized the person accepting this agreement its behalf
+for purposes hereof the term organization without limitation includes any partnership limited liability company corporation association joint stock company trust joint venture labor organization unincorporated organization governmental authority15partnersmeans organizations individuals who distribute the software based agreement and license with the rightholder16windows storemeans online store the rightholder which the microsoft corporation later microsoft intended for the redistribution the software applications17user manualmeans user manual administrator guide reference book and related explanatory other materials
+grant license21
+the rightholder hereby grants you nonexclusive license store load install execute and display use the free charge software that will substantially perform within the scope functionality set forth the user manual subject agreement the terms and conditions this agreement the license22
+you have the right use the software five the computers that are affiliated with your windows store account23
+you modify your computer make changes other vendors software installed you may required the rightholder repeat installation the software24
+without prejudice any other remedy law equity that the rightholder may have the event any breach you any the terms and conditions this agreement the rightholder shall any time without notice you entitled terminate this license use the software25
+you acknowledge and agree microsoft releases new version the windows store the terms the license may terminated and the software will automatically removed from the computer
+technical support31
+technical support provided the rightholder means the addition the information about the working the software the rightholders knowledge base
+the knowledge base available athttpsupportkasperskycommetro32
+microsoft will not provide any technical support for the software
+limitations41
+you shall not emulate clone rent lend lease sell modify decompile reverseengineer the software disassemble create derivative works based the software any portion thereof with the sole exception nonwaiverable right granted you applicable legislation and you shall not otherwise reduce any part the software humanreadable form transfer the licensed software any subset the licensed software nor permit any third party except the extent the foregoing restriction expressly prohibited applicable law
+neither the softwares binary code nor source may used reverseengineered recreate the program algorithm which proprietary
+all rights not expressly granted herein are reserved rightholder andor its suppliers applicable
+any such unauthorized use the software shall result immediate and automatic termination this agreement and the license granted hereunder and may result criminal andor civil prosecution against you
+limited warranty and disclaimer51
+you acknowledge accept and agree that software errorfree and you are advised back the computer with the frequency and reliability suitable for you52
+the software provided and the rightholder makes representation and gives warranty its use performance
+except for any warranty condition representation term the extent which cannot excluded limited applicable law
+the rightholder and its partners make warranty condition representation term expressed implied whether statute common law custom usage otherwise any matter including without limitation noninfringement thirdparty rights merchantability satisfactory quality integration applicability for particular purpose
+you assume all faults and the entire risk performance and responsibility for selecting the software achieve your intended results and for the installation use and results obtained from the software
+without limiting the foregoing provisions the rightholder makes representation and gives warranty that the software will errorfree free from interruptions other failures that the software will meet any all your requirements whether not disclosed the rightholder
+exclusion and limitation liability61
+the maximum extent permitted applicable law event shall the rightholder its partners liable for any special incidental punitive indirect consequential damages whatsoever including but not limited damages for loss profits confidential other information for business interruption for loss privacy for corruption damage and loss data programs for failure meet any duty including any statutory duty duty good faith duty reasonable care for negligence for economic loss and for any other pecuniary other loss whatsoever arising out any way related the use inability use the software the provision failure provide support other services information software and related content through the software otherwise arising out the use the software otherwise under connection with any provision this agreement arising out any breach contract any tort including negligence misrepresentation any strict liability obligation duty any breach statutory duty any breach warranty the rightholder any its partners even the rightholder any partner has been advised the possibility such damages
+you agree that the event the rightholder andor its partners are found liable the liability the rightholder andor its partners shall limited the costs the software
+case shall the liability the rightholder andor its partners exceed the fees paid for the software the rightholder the partner may applicable
+nothing this agreement excludes limits any claim for death and personal injury
+further the event any disclaimer exclusion limitation this agreement cannot excluded limited according applicable law then only such disclaimer exclusion limitation shall not apply you and you continue bound all the remaining disclaimers exclusions and limitations
+intellectual property ownership71
+you agree that the software and the authorship systems ideas methods operation documentation and other information contained the software are proprietary intellectual property andor the valuable trade secrets the rightholder its partners and that the rightholder and its partners applicable are protected civil and criminal law and the law copyright trade secret trademark and patent the russian federation european union and the united states well other countries and international treaties
+this agreement does not grant you any rights the intellectual property including any trademarks service marks the rightholder andor its partners trademarks
+you may use the trademarks only insofar identify printed output produced the software accordance with accepted trademark practice including identification the trademark owners name
+such use any trademark does not give you any rights ownership that trademark
+the rightholder andor its partners own and retain all right title and interest and the software including without limitation any error corrections enhancements updates other modifications the software whether made the rightholder any third party and all copyrights patents trade secret rights trademarks and other intellectual property rights therein
+your possession installation use the software does not transfer you any title the intellectual property the software and you will not acquire any rights the software except expressly set forth this agreement
+all copies the software made hereunder must contain the same proprietary notices that appear and the software
+except stated herein this agreement does not grant you any intellectual property rights the software and you acknowledge that the license further defined herein granted under this agreement only provides you with right limited use under the terms and conditions this agreement
+rightholder reserves all rights not expressly granted you this agreement72
+you agree not modify alter the software any way
+you may not remove alter any copyright notices other proprietary notices any copies the software
+governing law81
+except provided clauses and below this agreement shall governed and construed accordance the laws specified below for the country territory which you obtained the software without reference application conflicts lawsprinciplesarussia
+you obtained the software russia the laws the russian federationbunited states puerto rico american samoa guam and virginia islands
+you obtained the software the united states puerto ricoamerican samoa guam the virgin islands the laws the state massachusetts usa provided however that the laws the state where you live will govern claims under state consumer protection unfair competition similar laws
+the fullest extent permitted law the rightholder and you expressly agree hereby waive any right trial juryccanada
+you obtained the software canada the laws the province ontariodmexico
+you obtained the software mexico the federal laws the republic mexicoeeuropean union you obtained the software member country the the laws englandfaustralia
+you obtained the software australia the laws the state territory which you obtained the licenseghong kong special administration region sar and macau sar
+you obtained the software hong kong sar macau sar the lawsof hong kong sarhtaiwan
+you obtained the software taiwan the laws taiwanijapan
+you obtained the software japan the laws japanjany other country territory
+you obtained the software any other country the substantive laws the country where the purchase took place would effect82
+notwithstanding the foregoing the mandatory laws public policy any country territory which this agreement enforced construed prohibit the application the law specified herein then the laws such country territory shall instead apply the extent required such mandatory laws public policy
+similarly you are individual consumer the provisions clause shall not affect any mandatory right you may have take action your country residence under the laws that country83
+this agreement shall not governed the united nations convention contracts for the international sale goods the application which expressly excluded
+period for bringing actions91
+action regardless form arising out the transactions under this agreement may brought either party hereto more than one year after the cause action has occurred was discovered have occurred except that action for infringement intellectual property rights may brought within the maximum applicable statutory period
+entire agreement severability waiver101
+this agreement the entire agreement between you and rightholder and supersedes any other prior agreements proposals communications advertising oral written with respect the software the subject matter this agreement
+you acknowledge that you have read this agreement understand and agree bound its terms
+any provision this agreement found court competent jurisdiction invalid void unenforceable for any reason whole part such provision will more narrowly construed that becomes legal and enforceable and the entire agreement will not fail account thereof and the balance the agreement will continue full force and effect the maximum extent permitted law equity while preserving the fullest extent possible its original intent
+waiver any provision condition herein shall valid unless writing and signed you and authorized representative rightholder provided that waiver any breach any provisions this agreement will constitute waiver any prior concurrent subsequent breach
+rightholders failure insist upon enforce strict performance any provision this agreement any right shall not construed waiver any such provision right
+rightholder contact information
+should you have any questions concerning this agreement you desire contact the rightholder for any reason please contact our customer service department kaspersky lab zao build
+1st volokolamsky proezdmoscow 123060 russian federationemailinfokasperskycomweb sitewwwkasperskycom
+2012 kaspersky lab zao
+all rights reserved
+the software and any accompanying documentation are copyrighted and protected copyright laws and international copyright treaties well other intellectual property laws and treaties

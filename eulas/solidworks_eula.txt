@@ -1,0 +1,223 @@
+dassault systmes solidworks corporation license online and subscription services agreement
+the terms and conditions that follow and any other terms that are specific terms relating identified software online services and published athttpwww3dscomtermsost hereby incorporated reference set forth legal agreement agreement between you either individual entity the end user and dassault systmes solidworks corporation delaware corporation with its principal place business 175 wyman street waltham massachusetts 02451 usa solidworks relating different offerings consisting the computer software known solidworksand certain other software licensed solidworks which may include without limitation the solidworks simulation line analysis products solidworks composer and the solidworks line product data management products all countries the software andor online servicesie online access and use the offering and other related services the online services collectively the offering
+the term offering includes and these terms and conditions also apply any updates upgrades the offering that you may receive from time time under subscription service other support arrangement any addin modules the offering you may order and install from time time and iii software from third parties such the adobepdf library that incorporated into the solidworks offering
+you may not load use the offering any computer copy without right from solidworks
+solidworks hereby offers you nonexclusive right access andor download and use accordance with the terms and conditions set out this agreement
+you should carefully read these terms and conditions before opening the case that contains the offering installing and using the offering the online services
+opening the case containing the offering installing and using the offering the online services will signify your agreement bound these terms and conditions
+you not agree these terms and conditions promptly return the case containing the offering and the accompanying items including written materials for refund
+for the offering this license agreement and not agreement for sale
+1agrant license and use rights
+solidworks grants you nonexclusive nontransferable right use the offering and the printed andor electronic user documentation the documentation accompanying the offering accordance with this agreement
+you have paid the license fee for singleuser license the offering this agreement permits you install and use one copy the offering any single computer any time the country which you have your principal place business one your branches has acquired the license from your reseller which this branch located andsubject applicable law regulationprovidedyou have acquired the offering from solidworks reseller located the country which will used
+you change computers you must move the license from the old computer the newupgraded computer
+you may move this offering another country with the prior written approval solidworks
+such move approved may subject payment fee
+you have network license version the offering snl then any time you may have many copies the offering use the country which licensed you have licenses see section 1ab below
+the offering use computer when loaded into the temporary memoryie ram when user logged the number computers which the offering installed the potential number users the offering exceeds the number licenses you have acquired then you must have snl version the offering installed assure that the number concurrent users the offering does not exceed the number licenses acquired
+license suites consisting bundles separate modules such solidworks professional cannot float separately from each other for example where there one solidworks professional license toolbox cannot floated one computer while photoview 360 floated different computer
+the time registration see article below you must inform the maximum number potential users the offerings that you acquire
+recommend that you also inform the names all potential users that can notify them upcoming updates and other pertinent information
+you will keep accurate and uptodate records the numbers and locations all copies the offering will supervise and control the use the offering accordance with the terms this agreement and will provide copies such records solidworks upon reasonable request
+the use online services granted named userbased modeie authorized for single user identified with unique username and password use the online services from single machine any given time named user
+you shall ensure that users online services not share use the same username and password
+named users may replaced necessary reflect permanent personnel changes provided the number individuals authorized use the online services does not exceed the maximum number rights granted you for such offering
+upon solidworks request you shall provide solidworks with signed document listing the number named users the type use the offerings and iii the locations and types the systems which online services operate which you have installed the offerings applicable
+determine usage you solidworks may provide you with one more utilities either included within the offerings separately for the purpose analyzing access rights and utilization
+such case you shall provide applicable the unedited and unmodified output files andor reports resulting from the operations such utility utilities along with signed declaration that the file files are representative actual offerings usage
+you are responsible for implementing all reasonable means monitor your compliance with the terms this agreement
+you have paid the license fee for the snl version the offering are using solidworks pdm standard professional the following additional terms apply your license
+the snl version the offering must installed network server with dongle embedded software security mechanism that will permit only the number licenses you have acquired use one time
+additional licenses can added the network license from time time such licenses are acquired
+the network may include snls used different countries long the respective snls are licensed for the country which they are usediesubject applicable law regulation the required number snls used country has acquired from solidworks reseller such country
+for example snls managed from and installed server the united states may used one person brazil and one person mexico long one snl was acquired brazil and the other snl was acquired mexico
+however the server which snl installed located country different from the country for which the snl has been licensed you should inform your solidworks reseller about this the time the order that the snls can administered properly
+addition the network which the snl version installed may only serve licenses client machines the same legal entity group located the same global territory the server
+for this purpose solidworks considers there three global territories the western hemisphere europemideastafrica and the rest asiaaustralia
+for example all licenses used server located the western hemisphere must licensed for countries the western hemisphereregardless server location you must always continue comply with and export control laws
+with respect subsections through above only subsection applies solidworks pdm standard professional licenses
+additional terms and conditions applicable solidworks pdm standard professional licenses are set forth section below
+when working with the adobepdf software you may embed copies the font software into your electronic documents for the purpose printing viewing and editing the document
+the font software you are embedding identified licensed for editable embedding adobes website athttpwwwadobecomtypebrowserlegalembeddingeulahtml you may also embed copies that font software for the additional purpose editing your electronic documents
+other embedding rights are implied permitted under this license
+the offering permanently installed the hard disk other storage device computer other than network server then the person using that computer may also use the offering portable home computer while the original copy not useprovidedthe offering under active subscription service such described this agreement
+1badditional license terms for edrawingsprofessional
+solidworksedrawings professional software collaboration tool
+solidworks edrawings professional thus enables you and solidworks grants you license make copies portion solidworks edrawings professional along with model files you have created and deliver such files third parties with whom you collaborate order enable them among other things view markup and measure your models
+1cadditional license terms for workgroup pdm
+each license for solidworks workgroup pdm workgroup pdm contributor client license includes the right install the workgroup pdm vault functionality unlimited number servers you determine
+separate workgroup pdm viewer license required for each workgroup pdm vault you wish enable with the workgroup pdm viewer application
+1dadditional license terms for solidworks pdm standard professional
+solidworks licenses the solidworks pdm professional software server client access license cal model per processor model for microsoftsql server 2008 and prior versions per core model for sql server 2014 and later versions
+you may use the solidworks pdm standard professional software within network other multistationclient environmentprovidedyou have one solidworks pdm standard professional license per user concurrently connected the solidworks pdm standard professional database archive server and with respect solidworks pdm professional licenses only the solidworks pdm professional web server
+the sql server 2014 standard edition runtime restricteduse offering license contains other provisions regarding concurrent use
+the terms the sql server 2014 express edition license and the terms the sql server 2014 standard edition runtime restricteduse offering license are delivered with orders for respectively solidworks pdm standard software and solidworks pdm professional software and are incorporated herein reference
+solidworks pdm professional contains embedded software programs provided oracle corporation and its affiliated companies oracle the oracle programs and notwithstanding the provisions section above oracle its licensors retain all ownership and intellectual property rights the oracle programs and are each thirdparty beneficiary this agreement
+the oracle programs are subject restricted license and can used only with their associated application package and cannot modified you
+some the oracle programs may contain source code that oracle may provide part its standard shipment such programs and such code shall governed the terms this agreement
+thirdparty technology that may appropriate necessary for use with some the oracle programs specified the application program documentation otherwise notified solidworks and such technology licensed you only for use with the application package under the terms the thirdparty license agreement specified the application package documentation otherwise notified solidworks and not under the terms this agreement
+you agree allow solidworks audit your use the oracle programs provide solidworks with reasonable assistance and access information the course such audit and iii allow solidworks report the results such audit oracle assign oracle solidworks right conduct the audit without any obligation liability oracle pay your solidworks costs incurred result the audit
+you acknowledge that solidworks pdm professional contains software and technical data that are subject the export control laws the united states the united kingdom and you agree not directly indirectly export reexport solidworks pdm professionalie move solidworks pdm professional from the country which you first licensed without the appropriate united states foreign government licenses and the written approval solidworks and its licensors
+1eadditional terms for online services
+solidworks will provide online services accordance with the thenapplicable service level agreement published atwww3dscomtermsslaservice level agreement
+all data data provided you any authorized users solidworks through the use the online services including any kind information relating individual about whom information collected which can individually together with other information the individual lead directly indirectly identifying such individual personal data will remain your sole property the property the authorized users who posted such data
+you shall have sole responsibility for the accuracy quality integrity legality reliability appropriateness and obtaining copyright permissions for all data
+subject the terms and conditions this agreement you grant solidworks nonexclusive license use copy store and transmit customer data the extent reasonably necessary provide and maintain the online services
+you acknowledge and agree that solidworks employees and its subcontractors including solidworks and its affiliated companies may have access your data connection with the performance this agreement
+you shall defend solidworks and its affiliated companies against all thirdparty claims arising from relating your use the online services violation applicable laws regulations andor any violation infringement misappropriation the rights third party resulting from the data
+addition you shall pay all costs damages and expenses including reasonable legal fees finally awarded against solidworks court competent jurisdiction agreed written settlement agreement signed you arising out such claim provided solidworks provides you with prompt written notice the claim and solidworks gives you sole control the defense the claim and any related settlement discussions and provides reasonable cooperation the defense and settlement the claim
+cdata storage
+part the online services solidworks will provide storage your data for the duration the online services and within the storage size limits defined the applicable offering specific terms ost
+should you exceed such storage limits you shall remedy this situation within fifteen days notice from solidworks ordering the necessary additional storage capacity reducing the size the stored data
+ddata privacy
+you are the data controller data controller you determine the purposes and the means the processing any operation set operations including without limitation collection organization adaptation deletion storage use recording interconnection consultation disclosure and transfer your personal data and have the bulk compliance with all applicable data protection legislation
+you acknowledge and agree that you are and shall all times remain the sole data controller your personal data and therefore shall responsible for complying with all applicable data privacy law and all other regulations that may apply the processing your personal data including but not limited transfer personal data information individuals about whom personal data collected and used and iii access modification and deletion rights those individuals
+esecurity
+solidworks will make commercially reasonable efforts implement security processes for the online services and your data consistent with industry standards for similar services
+fconfidentiality
+confidential information means nonpublic information confidential nature that when disclosed writing clearly marked with restrictive legend such confidential confidential information does not include ideas and concepts that may occur individuals who have been exposed confidential information
+during the period when the online services are provided and for period one year following termination expiration thereof you and solidworks each undertakes protect the other partys confidential information received the context such online services using the same degree care that you solidworks uses with respect its own confidential information similar nature avoid disclosure publication dissemination such confidential information
+solidworks authorized disclose your confidential information third parties who have entered into appropriate confidential disclosure agreement with solidworks the extent necessary provide the online services
+the obligation confidentiality shall not apply any information that already the possession the receiving party without any obligation confidentiality the time the information was received from the disclosing party independently developed the receiving party without reference the confidential information the disclosing party iii becomes publicly available without breach this agreement rightfully received the receiving party from third party without obligation confidentiality released for disclosure the disclosing party with its written consent required disclosed accordance with judicial administrative decision provided the receiving party provides prompt information the disclosing party and reasonably cooperates with the disclosing party limit the disclosure and use the applicable information according the decision
+your exclusive remedy and solidworks sole liability for any breach solidworks its confidentiality obligations pursuant this section for you terminate this agreement
+gthirdparty content
+solidworks exercises control over and assumes responsibility liability for any your content thirdparty content provided published via the online services
+1fsecurity mechanisms
+solidworks and its affiliated companies take all legal steps eliminate piracy their software products
+this context the offering may include security mechanism that can detect the installation use illegal copies the offering and collect and transmit data about those illegal copies
+data collected will not include any customer data created with the offering
+using the offering you consent such detection and collection data well its transmission and use illegal copy detected
+solidworks also reserves the right use hardware lock device license administration software andor license authorization key control access the offering
+you may not take any steps avoid defeat the purpose any such measures
+use any offering without any required lock device authorization key provided solidworks prohibited
+1ginternet tools and services
+from time time license basic subscription service for offering may include integration with and access certain internet tools and services developed solidworks
+base level usage may available extra charge for each license with additional usage available additional charge
+please see description any internet tools with the offering our website atwwwsolidworkscomfor additional details
+your use internet tools and services also subject the terms use applicable such tools and services
+these are found athttpwwwsolidworkscomswtermsofusehtmland incorporated herein reference
+when provided additional charge these tools and services are provided free charge and may modified andor withdrawn any time
+2ownership the offeringrestrictions copying
+solidworks its licensors own and will retain all copyright trademark trade secret and other proprietary rights and the offering and the documentationthe offering and the documentation are protected copyright laws and other intellectual property laws
+each solidworks licensor thirdparty beneficiary this agreement
+you obtain only such rights are specifically provided this agreement
+you may copy the offering into any machinereadable form for backup purposes and within the license restrictions article you may not remove from the offering documentation any copyright other proprietary rights notice any disclaimer and you shall reproduce all copies the offering made accordance with this agreement all such notices and disclaimers
+3other restrictions use
+this agreement your proof license exercise the rights granted herein and must retained you
+other than permitted under the rights grant article you may not use any portion the offering separately from independently the offering for example the microsoft sql server software can only used with the rest the solidworks pdm standard professional offering provided such offering under the server cal model the per processor model and other than for your normal business purposes and you may not provide access use the offering any third party other than third party requiring access solidworks pdm standard professional via web client directly via vpn consequently you may not sell license sublicense transfer assign lease rent including via timeshare arrangement the offering the right access and use granted this agreement
+you may not use the offering the documentation develop applications for distribution third parties unless you are member good standing the solidworks partner program have entered into agreement with solidworks for such usagedistribution
+you may not install use the offering over the internet including without limitation use connection with web hosting similar service make the offering available third parties via the internet your computer system otherwise
+you may not modify make works derivative the offering make compilations collective works that include the offering and you may not analyze for purposes competitive solidworks reverseengineer decompile disassemble otherwise attempt discover the source code the offering except permitted under applicable law contains trade secrets such the offerings structure organization and code solidworks and its licensors
+4subscription service
+you acquire subscription service from your reseller for the offering you have licensed hereunder paying the fee therefor your reseller will provide you for such copy online web access download the latest updates the offering all major upgrades for the offering released during the subscription period and telephone support services
+subscription service automatically included with any offering ordered under yearly quarterly term license and with the online services and cannot terminated separately
+from time time solidworks may redistribute microsoft software components part update the offering
+you are eligible for such microsoft components and warrant that you will install them only you possess validly licensed copy the microsoft products which they relate
+the term this service runs for one year
+may renewed from year year thereafter paying the appropriate renewal fee
+offering that delivered upgrade update previous version the licensed offering must replace the previous version additional license granted you may install only such number updates equal the number subscription service fees for which you have paid
+support services policy applicable online services detailed the websitewww3dscomtermssupportpoliciesfor the term the serviceie one year
+subject change however any changes will not become effective until the commencement the immediatelyfollowing support services term
+5privacy policy
+obtain the offering you may need provide solidworks with certain information about yourself including but not limited your name and email address
+solidworks may also query your computer during the installation process determine information including but not limited whether you have solidworks other dassault systmes products installed and the characteristics the computer which you will operate the offering such the video controller operating system
+condition downloading and using the offering you also agree the terms the solidworks privacy policy athttpwwwsolidworkscomswprivacypolicyhtm which may updated from time time without notice
+information collected solidworks connection with your registration for the offering may stored and processed the united states any other country which solidworks its affiliates its agents maintain facilities
+accordingly using the offering you consent the transfer such information outside your country
+6term
+this agreement remains effect until terminated provided hereunder upon expiration follows for offerings provided under term licenses granted accordance with this agreement until the expiration all such licenses for online services the expiration the contract term for which online services are ordered under this agreement the expiration the subscription that you have paid for the offering the case may solidworks may terminate the license andor offering granted herein immediately upon written notice you for justified cause including without limitation breach any provision article this agreement you breach any provision this agreement and fail cure such breach within fifteen days notice thereof
+you may terminate online services solidworks fails provide the online services accordance with the applicable service level agreement and such failure has not been remedied within thirty days receipt written notice
+you solidworks may terminate any online services providing notice the other party least thirty days prior the renewal date the online services
+absent such notification the online services shall automatically renew and subject the thenapplicable service level agreement
+solidworks may change modify the online services any time
+solidworks will not materially diminish the online services during the term the offering
+nothing this paragraph shall require solidworks continue provide any portion the online services this would result solidworks violating the rights any third party any applicable law
+upon the termination the right access and use the offering granted hereunder you will promptly cease all such use and return solidworks destroy all copies the offering and documentation covered such right instructed solidworks and shall longer have access the online services and subscription service
+you terminate online services for noncompliance solidworks the service level agreement solidworks will reimburse you for any prepaid but unused recurring fees the termination date
+this refund represents solidworks sole liability and your sole remedy for solidworks failure provide online services
+the provisions articles 1eb 1ed 1ee 1ef and this agreement shall survive any termination this agreement
+7responsibility for selection and use offering
+you are responsible for the supervision management and control the use offering and output the offering including but not limited selection the offering achieve your intended results determining the appropriate uses the offering and the output the offering your business establishing adequate independent procedures for testing the accuracy the offering and any output and establishing adequate backup prevent the loss data the event offering malfunctionthe offering tool that intended used only trained professionals
+not substitute for professional judgment independent testing physical prototypes for product stress safety and utility you are solely responsible for any results obtained from using the offering
+neither the offering nor any its components are intended for use the design operation nuclear facilities life support systems aircraft other activities which the failure the offering such components both could lead death personal injury severe physical environmental damage
+caution certain content such the fasteners provided the solidworks toolbox constitutes approximate representations only and may not appropriate for all uses
+8limited warranty exceptions disclaimers intellectual property indemnification
+alimited warranty
+solidworks warrants that the offerings will free defects materials and will perform substantially accordance with the documentation for period ninety days from the date receipt you
+solidworks also warrants that any services provides from time time will performed workmanlike manner accordance with reasonable commercial practice
+solidworks does not warrant that the offering service will meet your requirements that the operation the offering will uninterrupted errorfree that any internet tool service will completely secure
+solidworks entire liability and your sole remedy under this warranty shall use reasonable efforts repair replace the nonconforming media software reperform the service
+such effort fails solidworks solidworks distributor reseller shall refund the price you paid for the software upon return the nonconforming software and copy your receipt the price you paid for the service appropriate provide such other remedy may required law
+any replacement software will warranted for the remainder the original warranty period thirty days from the date receipt you whichever longer
+bexceptions
+solidworks limited warranty void breach the warranty has resulted from accident corruption misuse neglect the software acts omissions someone other than solidworks iii combination the software with products material software not provided solidworks not intended for combination with the software failure you incorporate and use all updates the software available from solidworks
+climitations warranties
+the express warranty set forth this article the only warranty given solidworks with respect the offering and documentation furnished hereunder and any service supplied from time time the maximum extent permitted applicable law solidworks and its licensors including without limitation adobe make other warranties express implied arising custom trade usage and specifically disclaim the warranties merchantability fitness for particular purpose and noninfringement
+event may you bring any claim action proceeding arising out the warranty set forth this article more than one year after the date which the alleged breach warranty occurred
+dlimitations liability
+you recognize that the price paid for the license right access and use the offering may substantially disproportionate the value the products designed stored managed distributed conjunction with the offering
+for the express purpose limiting the liability solidworks and its licensors extent that reasonably proportionate the commercial value this transaction you agree the following limitations solidworks and its licensors liability
+except required under local law the liability solidworks and its licensors whether contract tort including negligence otherwise arising out connection with the offering documentation furnished hereunder and any service supplied from time time shall not exceed the fee that you paid for such offering the twelve 12month period immediately preceding the cause action that gave rise such liability
+event shall solidworks its licensors liable for direct special indirect incidental punitive consequential damages including without limitation damages resulting from loss use loss data loss profits loss goodwill loss business arising out connection with the use inability use the offering documentation furnished hereunder and any service supplied from time time even solidworks its licensors have been advised the possibility such damages
+however certain the above limitations may not apply some jurisdictions
+the maximum extent permitted applicable law any legal action against solidworks must filed with the appropriate judicial jurisdiction within two years after the applicable cause action has arisen
+eintellectual property indemnification
+solidworks will defend you against any claims made third party that offering delivered under this agreement infringes copyright any country patent the united states japan member state the european patent organization and will pay all costs damages and expenses including reasonable legal fees finally awarded against you court competent jurisdiction agreed written settlement agreement signed solidworks arising out such claim provided you provide with prompt written notice the claim and customer gives solidworks sole control the defense the claim and any related settlement discussions and provides reasonable cooperation the defense and settlement the claim
+such claim made solidworks reasonable opinion offering likely become the subject such claim likely made solidworks may solidworks expense either secure the right for you continue using the applicable offering modify that not infringing replace with another program which functionally equivalent
+none the foregoing options available terms which are reasonable solidworks judgment solidworks may terminate the licenses the offering andor terminate the online services
+for perpetual licenses solidworks shall either refund provide you credit your option amount equal the corresponding onetime fee paid for the licenses depreciated straightline over three years upon return destruction all copies the affected offering certified one your officer
+for online services licenses that are not perpetual solidworks shall refund all prepaid but unused fees paid hereunder for the affected online services licenses
+solidworks shall have obligation defend indemnify you against any claim related any modification offering anybody other than solidworks the use one more offerings combination with other hardware data programs not specified solidworks iii the use corrective patches releases other than the most recent one
+this section states solidworks entire liability and your exclusive remedy for any claim infringement intellectual property rights
+9shutdown feature
+you acknowledge and agree that the offering contains automatic shutdown feature the shutdown feature that activated will render the offering inoperable
+the shutdown feature will automatically activate thirty days after the offering installed unless access code that overrides the shutdown feature validated license entered
+obtain your validated license you must register with solidworks providing solidworks electronically the information requested the installation process
+upon receipt the registration information solidworks will issue you validated license
+10export rules
+export you the offering and documentation subject all applicable countries export and reexport laws and regulations including but not limited the export control laws the united states the united kingdom
+solidworks and its licensors shall have liability towards you necessary authorizations licenses approvals are not obtained
+you shall not export reexport either directly indirectly the offering when such export reexport requires export license other governmental approval without first obtaining such license approval
+you hereby warrant solidworks that all offerings ordered hereunder shall not used violation any applicable export laws including for proliferation any nuclear chemical biological weapons missile delivery systems and shall not diverted any country company individual prohibited the applicable export laws any country
+you recognize that your data may transferred stored any country
+you undertake abstain from and shall ensure all users abstain from processing storing uploading its datasharing environment any information data the export which controlled regulated subject any permit license under any applicable law regulation
+you shall deemed the exporter your data
+solidworks may terminate this agreement and all licenses and access the online services hereunder upon written notice you violate these provisions
+11audit
+during the term this agreement and for period three years thereafter you shall establish and maintain accurate information records relating the use the offering including without limitation the list users accessing and using the offering
+when applicable such information shall include destruction the offering and the measures put place you protect access and use the offering
+solidworks shall have the right any time its own expense and under reasonable conditions time and place audit and copy these records andor your use the offering
+you also hereby authorize solidworks verify your compliance with the terms this agreement
+for such purpose solidworks may conduct audit your premises during normal business hours manner that minimizes disruption your business
+solidworks may require you provide any third party that solidworks engages conduct such verification with machine access copies system tools outputs other electronic hardcopy system information appropriate
+the audit reveals unauthorized use the offering you shall promptly pay solidworks any amounts owed result such unauthorized use the offerings thencurrent list price
+such unauthorized use five percent greater your authorized use with respect the applicable offering then addition you paying the applicable charges you shall reimburse solidworks for the cost such audit
+invoking the rights and procedures described above solidworks does not waive its right enforce this agreement protect its intellectual property any other means permitted law
+12compliance with laws and indemnity
+you agree comply with all local laws and regulations regarding the download installation andor use the offering the documentation both
+you agree hold harmless and indemnify solidworks and its subsidiaries affiliates officers and employees from and against any and all claims suits actions arising from any way related your use the offering andor documentation your violation this agreement
+13general provisions
+this agreement the complete and exclusive statement your agreement with solidworks relating the offering and subscription service and supersedes any other agreement oral written any other communications between you and solidworks relating the offering and subscription service provided however this agreement shall not supersede the terms any signed agreement between you and solidworks relating the offering and subscription service
+this agreement shall governed and construed and enforced accordance with the substantive laws the commonwealth massachusetts without regard the united nations convention contracts for the international sale goods and will deemed contract under seal
+the englishlanguage version this agreement shall the authorized text for all purposes despite translations interpretations this agreement into other languages
+for any reason court competent jurisdiction finds any provision this agreement portion thereof unenforceable that provision shall enforced the maximum extent permissible and the remainder this agreement shall remain full force and effect
+14us
+government restricted rights
+the offering commercial item that term defined cfr
+2101 oct 1995 consisting commercial computer software and commercial software documentation such terms are used cfr
+12212 sept 1995 and provided the government for acquisition behalf civilian agencies consistent with the policy set forth cfr
+12212 for acquisition behalf units the department defense consistent with the policies set forth cfr
+22772021 jun 1995 and 22772024 jun 1995
+the event that you receive request from any agency the government provide offering with rights beyond those set forth above you will notify solidworks the scope the request and solidworks will have five business days its sole discretion accept reject such request
+contractormanufacturer dassault systmes solidworks corporation 175 wyman street waltham massachusetts 02451 usa
+15licenses canada
+you acquired your licenses canada you agree the following
+the parties hereto confirm that their wish that this agreement well other documents relating hereto including notices have been and shall written the english language only
+les parties aux prsentes confirment leur volont que cette convention mme que tous les documents compris tout avis qui rattache soient rdigs langue anglaise
+adobe either registered trademark trademark adobe systems incorporated the united states and other countries
+16windows desktop search
+microsoft corporation based where you live one its affiliates licenses this supplement you
+you may use copy this supplement with each validly licensed copy microsoft windows software identified for use with the microsoft windows software
+you may not use you not have license for the microsoft windows software
+the license terms for the microsoft windows software apply your use this supplement
+windows desktop search covered the msn privacy statement httpsprivacymicrosoftcomenusprivacystatement

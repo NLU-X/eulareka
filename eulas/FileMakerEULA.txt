@@ -1,0 +1,109 @@
+filemaker server software license important read carefully installing copying downloading accessing otherwise using the software you agree bound the terms this license
+you not agree the terms this license not install access use the software and promptly return applicable your place purchase for full refund
+you licensed this software under filemaker volume license agreement then the terms such agreement will supersede these terms and these terms not constitute the granting additional license the software
+the software and documentation accompanying this license software are licensed not sold you filemaker inc
+andor filemaker international collectively referred fmi for use only under the terms this license and fmi reserves any rights not expressly granted you
+the rights granted are limited fmis and its licensors intellectual property rights the software and not include any other patents intellectual property rights
+you own the media which the software recorded fixed but fmi and its licensors retain ownership the software itself
+you received trial version the software for your limited evaluation programmed cease functioning certain date section below modified allow you use twentyfive user connections during the trial period and section below modified that the trial version the software provided and without warranty any kind
+the other terms below apply both the trial and full versions the software
+upon expiration the trial software unless you have paid for the full upgrade version the software you must immediately discontinue use the trial software
+license
+general license
+the software includes the following components database server web publishing engine web server module script engine and odbcjdbc connectivity apis
+you may either install all the software components single computer install the web publishing engine component one computer and all the other components one other computer
+you may also install all the software components one additional computer for the sole purpose configuring standby server when paired with primary server using fmis standby server technology
+you may not use run more than one instance the software from the same operating system using virtualization other technologies the same time
+client drivers
+the filemaker odbcjdbc client drivers are the driver portions the software that allow third party applications custom applications access filemaker server odbc jdbc data source
+you may copy and distribute the client drivers for use more than one computer provided that the client drivers may only used with the software
+user access
+the software includes the rights access data stored the database server using the filemaker webdirect web browser client the filemaker pro for user connections client and the filemaker client collectively clients
+you are required purchase appropriate access for all users that will access the software
+you are purchasing access the software under the user connections model you must purchase separate access for each individual user that will access the software
+you are purchasing access the software under the concurrent connections model you must purchase individual access for the maximum number users that will concurrently access filemaker server any given time
+each user may connect the software using only one client time
+the case filemaker webdirect each web browser tab open and connected filemaker server counts separate client
+one user accesses multiple filemaker servers using single client user connection required for each filemaker server accessed that user
+when you purchase filemaker server software you receive one concurrent connection access use for evaluation purposes and this concurrent connection cannot used production environment
+the foregoing notwithstanding each full version filemaker pro computer license purchased allows access filemaker server for the computer which computer license installed and such access does not count against any other user access model you may have purchased
+annual licenses and limited term licenses
+you license the software under annual license other limited term license annual volume license agreement annual site license agreement then you may only use the software during the term the license agreement and you must cease all use the software upon the expiration your license agreement
+backup
+you may make one copy the software machine readable form solely for backup purposes
+express condition this license you must reproduce each copy any copyright notice other proprietary notice that the original copy supplied fmi
+upgrades updates
+the software licensed version feature upgrade update then you may only use the software replace validly licensed version the same software
+you agree that the upgrade update does not constitute the granting second license the software you may not use the upgrade update addition the software replacing nor may you transfer the software which being replaced third party
+education
+the software licensed education discount then the software may only used enrolled students faculty teachers and administrators accredited k12 educational institution equivalent higher education institution exclusively for educational purposes
+restrictions
+filemaker server development license
+you have licensed the filemaker server development license then your use this software limited the maximum number filemaker pro odbcjdbc filemaker clients and filemaker webdirect clients and the maximum number web sessions specified for the development license
+addition the software provided under the development license may only used for development and testing purposes and may not used production environment
+other limitations
+you may not reverse engineer decompile disassemble the software except and only the extent expressly permitted applicable law
+you may not modify adapt translate rent lease loan create derivative works based upon the software any part thereof
+restricted uses
+the software not intended for use the operation nuclear facilities aircraft navigation communication systems air traffic control systems life support machines other equipment which the failure the software could lead death personal injury severe physical environmental damage
+transfer restriction
+you may not transfer assign your rights under this license another party without fmis prior written consent
+third party acknowledgements
+certain components the software and third party open source programs included with the software have been may made available fmi its web site httpwwwfilemakercomsupportdownloads
+acknowledgements licensing terms and disclaimers for such material are contained the online electronic documentation for the software may otherwise accompany such material and your use such material governed their respective terms
+commercial hosting restrictions
+you provide commercial hosting you may only allow one customer access each software license
+you must obtain least one filemaker server software license for each customer that you provide hosting services
+you may not use the software provide any commercial hosting you license the software under fmis site license agreement annual site license agreement
+termination
+this license effective until terminated
+this license will limited warranty
+fmi warrants for period ninety days from your date export law assurances
+you may not use otherwise export reexport the terminate automatically without notice from fmi judicial resolution you fail comply with any provision this license
+you license the software under annual license limited term license then your licenses will immediately terminate and you must cease all use the software upon the expiration your license unless you have paid renew the license prior its expiration
+upon such termination you must destroy the software all accompanying written materials and all copies thereof and sections and will survive any termination cancellation this license
+software except authorized united states law and the laws the jurisdiction which the software was obtained
+particular but without limitation the software may not exported reexported into any embargoed countries anyone the treasury departments list specially designated nationals the department commerces denied persons list entity list
+using the software you represent and warrant that you are not located under control national resident any such country any such list
+you also agree that you will not use the software for any purposes prohibited united states law including without limitation the development design manufacture production nuclear chemical biological weapons
+purchase that the software provided fmi will perform substantially accordance with the accompanying documentation
+fmis entire liability and your sole and exclusive remedy for any breach the foregoing limited warranty will fmis option replacement the software refund the purchase price repair the software
+this limited warranty the only warranty provided fmi and fmi and its licensors expressly disclaim all other warranties conditions other terms either express implied whether collaterally statute otherwise including but not limited implied warranties conditions other terms merchantability satisfactory quality andor fitness for particular purpose with regard the software and accompanying written materials
+furthermore there warranty against interference with your enjoyment the software against infringement third party proprietary rights the software
+fmi does not warrant that the operation the software will uninterrupted errorfree that defects the software will corrected
+oral written information advice given fmi fmi authorized representative shall create warranty
+because some jurisdictions not allow the exclusion limitation implied warranties conditions other terms the above limitation may not apply you
+the terms this disclaimer and the limited warranty under this section not affect prejudice the statutory rights consumer acquiring the software otherwise than the course business neither they limit exclude any liability for death personal injury caused fmis negligence
+exclusion and limitation remedies and damages
+exclusion
+event will fmi its parent subsidiaries any its licensors directors officers employees affiliates any the foregoing liable you for any consequential incidental indirect special damages whatsoever including without limitation damages for loss business profits business interruption loss business information and the like direct loss business business profits revenue whether foreseeable unforeseeable arising out the use inability use the software accompanying written materials regardless the basis the claim whether under contract negligence other tort under statute otherwise howsoever arising and even fmi fmi representative has been advised the possibility such damage
+limitation
+fmis total liability you for damages for any cause whatsoever not excluded section above howsoever caused whether contract negligence other tort under statute otherwise howsoever arising will limited the greater us500 the money paid for the software that caused the damages
+the parties agree that this limitation remedies and damages provision shall enforced independently and survive the failure essential purpose any warranty remedythis limitation will not apply case death personal injury caused fmis negligence only where and the extent that applicable law requires such liability
+because some jurisdictions not allow the exclusion limitation liability for consequential incidental damages the limitation liability this section may not apply you
+nothing this license affects prejudices the statutory rights consumer acquiring the software otherwise than the course business
+filemaker data api trial license
+the filemaker data api trial feature consent use data
+you agree that fmi and its subsidiaries and agents may collect maintain process and use diagnostic technical and related information including but not limited information about your computer system and application software and peripherals that gathered periodically facilitate the provision software updates product support and other services you any related the fmi software and verify compliance with the terms this license
+fmi may also use aggregate information long form that does not personally identify you improve our products provide services technologies you
+all times information will treated accordance with filemakers privacy policy which incorporated reference into this license and can viewed httpwwwfilemakercomlegal
+data api feature available for use the software for limited time until september 2018 trial period
+the data api feature allows you pull and push data from and your database making rest api data requests each data request your database
+during the trial period you may use the data api feature make unlimited data requests your database
+notwithstanding anything the contrary this agreement the data api feature provided and without warranty any kind
+fmi reserves the right extend the trial period its sole discretion
+fmi not obligated provide any maintenance technical other support for the data api feature provided hereunder any updates you for the data api feature
+you acknowledge that fmi has express implied obligation announce make available full commercial version this data api feature anyone the future
+should full commercial version made available may have features functionality that are different from those found this data api feature hereunder andor may subject additional fees
+was purchased then the local law which the subsidiary sits shall govern this license
+otherwise this license shall governed the laws the united states and the state california
+the parties agree that the united nations convention contracts for the international sale goods 1980 amended specifically excluded from application this license
+this license constitutes the entire agreement between the parties with respect the software licensed under these terms and supersedes all prior contemporaneous agreement arrangement and understanding regarding such subject matter
+you acknowledge and agree that you have not relied any representations made fmi however nothing this license shall limit exclude liability for any representation made fraudulently
+amendment modification this license will binding unless writing and signed fmi
+any provision this license shall held court competent jurisdiction contrary law that provision will enforced the maximum extent permissible and the remaining provisions this general
+there local subsidiary fmi the country which this license license will remain full force and effect
+failure delay fmi exercising its rights remedies shall operate waiver unless made specific written notice
+single partial exercise any right remedy fmi shall operate waiver preclude any other further exercise that any other right remedy
+all software provided the government pursuant solicitations issued after december 1995 provided with the commercial license rights and restrictions described this license
+all software provided the government pursuant solicitations issued prior december 1995 provided with restricted rights provided for far cfr 5222714 june 1987 dfar cfr 2522277013 oct 1988 applicable

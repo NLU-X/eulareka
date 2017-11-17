@@ -1,0 +1,89 @@
+/*vert: #C5E99B*/
+/*violet: #D1B6E1*/
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0;
+
+  background-color: #FEFEFE;
+  font-family: helvetica;
+}
+
+select {
+  box-sizing: border-box;
+  padding: 1em;
+}
+
+button {
+  box-sizing: border-box;
+  padding: 1em 2em;
+
+  border-radius: 5px;
+  border-width: 2px;
+  border-style: solid;
+  background-color: rgba(0,0,0,0);
+  border-color: #D1B6E1;
+  color: #D1B6E1;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #D1B6E1;
+  color: white;
+}
+
+#sidebar {
+  display: flex;
+  flex-flow: column;
+  flex: 0 0 400px;
+  margin-right: 5px;
+  box-sizing: border-box;
+  padding: 1em;
+  overflow-y: auto;
+}
+
+.checkbox {
+  margin: 5px 0;
+  box-sizing: border-box;
+  padding: 1em;
+  border-radius: 5px;
+  background-color: #C5E99B;
+}
+
+#content {
+  flex-grow: 1;
+  display: flex;
+  flex-flow: column;
+}
+
+#select {
+  display: flex;
+  flex-flow: column;
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin: 5px 0;
+}
+
+#preview {
+  box-sizing: border-box;
+  flex-grow: 1;
+  margin: 5px 0;
+  overflow-y: auto;
+}
+
+#preview-content {
+  overflow-y: auto;
+}
+
+#action {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin: 5px 0;
+}
