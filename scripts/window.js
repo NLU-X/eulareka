@@ -110,6 +110,38 @@ $(() => {
     });
   }
 
+  /*  Get the list of selected queries.
+
+      PARAMS
+        queries: see queries.js
+
+      RETURN
+        selectedQueries (array of objects)
+          text (string)
+          style (string): style class
+  */
+  const getSelectedQueries = queries => {
+
+      let checkboxes = $('input[type="checkbox"]');
+
+      let selectedQueries = [ ];
+      for (let i = 0 ; i < checkboxes.length ; i++) {
+        let c = $(checkboxes[i]);
+        if (c.prop('checked')) {
+          let id = c.val();
+
+          let query = {
+            text: queries[id],
+            style: `query-${id}`
+          };
+
+          selectedQueries.push(query);
+        }
+      }
+
+      return selectedQueries;
+  }
+
   /*  Display the results of the analysis.
 
       PARAMS
@@ -247,5 +279,5 @@ $(() => {
   listQueries(queries);
 
   // handle change of select tag
-  $('#action-analyze').click(onAnalyze);
+  $('#action-analyze').click(() => onAnalyze());
 });
