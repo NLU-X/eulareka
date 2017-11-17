@@ -28,15 +28,15 @@ button {
   border-radius: 5px;
   border-width: 2px;
   border-style: solid;
-  background-color: rgba(0,0,0,0);
+  background-color: #D1B6E1;
+  color: white;
   border-color: #D1B6E1;
-  color: #D1B6E1;
   font-weight: bold;
 }
 
 button:hover {
-  background-color: #D1B6E1;
-  color: white;
+  background-color: rgba(0,0,0,0);
+  color: #D1B6E1;
 }
 
 #sidebar {
@@ -106,6 +106,7 @@ button:hover {
   box-sizing: border-box;
   flex: 0 0 auto;
   margin: 5px 0;
+  text-align: center;
 }
 
 .search {
