@@ -28,7 +28,7 @@ $(() => {
     let contentSplit = content.split('\n');
     let htmlElement = '';
     contentSplit.forEach(c => {
-      htmlElement += `<p>${c}</p>`;
+      htmlElement += `<p class="eula-paragraph">${c}</p>`;
     });
 
     $('#preview-content').empty();
@@ -148,14 +148,15 @@ $(() => {
         results (array of objects): information on paragraphs
           text (string)
           weight (float)
+        query (object): see return of getSelectedQueries
 
       RETURN
         none
   */
-  const displayResults = results => {
+  const displayResults = (results, query) => {
 
     let bestResult = results[0];
-    if (bestResult.weight < 0.3) return;
+    // if (bestResult.weight < 0.3) return;
 
     let ps = $('#preview-content p');
 
@@ -163,7 +164,11 @@ $(() => {
       pElement = $(ps[i]);
 
       if (pElement.text() === bestResult.text) {
-        pElement.addClass('search');
+        pElement.addClass(query.style);
+
+        let tooltip = `<div class="tooltip"> query: ${query.text} <br> confidence: ${bestResult.weight} </div>`;
+
+        pElement.append(tooltip);
       }
     };
   }
@@ -171,7 +176,7 @@ $(() => {
   /*  Fetch information in an EULA.
 
       PARAMS
-        query (string)
+        query (object): see return of getSelectedQueries
 
       RETURN
         none
@@ -181,7 +186,7 @@ $(() => {
     let child_process = require('child_process');
 
     let scriptPath = path.join(__dirname, 'scripts', 'IR_better.py');
-    let process = child_process.spawn('python', [ scriptPath, $('#select-eulas').val(), query ]);
+    let process = child_process.spawn('python', [ scriptPath, $('#select-eulas').val(), query.text ]);
 
     let stdout = '';
     process.stdout.on('data', data => {
@@ -212,7 +217,7 @@ $(() => {
         paragraphs.push(info);
       });
 
-      displayResults(paragraphs);
+      displayResults(paragraphs, query);
     });
   };
 
@@ -242,19 +247,22 @@ $(() => {
   /*  Handle click on analyze button.
 
       PARAMS
-        none
+        queries: see queries.js
 
       RETURN
         none
   */
-  const onAnalyze = () => {
+  const onAnalyze = queries => {
 
     let eula = $('#select-eulas').val();
     if (eula === null) return;
 
-    let queries = "What is the name of the software";
+    let selectedQueries = getSelectedQueries(queries);
+    if (!selectedQueries) return;
 
-    analyzeEula(queries);
+    selectedQueries.forEach(q => {
+      analyzeEula(q);
+    });
   };
 
 
@@ -279,5 +287,5 @@ $(() => {
   listQueries(queries);
 
   // handle change of select tag
-  $('#action-analyze').click(() => onAnalyze());
+  $('#action-analyze').click(() => onAnalyze(queries));
 });
