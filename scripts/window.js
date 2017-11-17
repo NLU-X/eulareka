@@ -92,17 +92,27 @@ $(() => {
   /*  Display the results of the analysis.
 
       PARAMS
-        paragraphs (array of objects): information on paragraphs
+        results (array of objects): information on paragraphs
           text (string)
           weight (float)
 
       RETURN
         none
   */
-  const displayResults = paragraphs => {
-    paragraphs.forEach(p => {
-      console.log(p);
-    });
+  const displayResults = results => {
+
+    let bestResult = results[0];
+    if (bestResult.weight < 0.3) return;
+
+    let ps = $('#preview-content p');
+
+    for (let i = 0 ; i < ps.length ; i++) {
+      pElement = $(ps[i]);
+
+      if (pElement.text() === bestResult.text) {
+        pElement.addClass('search');
+      }
+    };
   }
 
   /*  Fetch information in an EULA.
