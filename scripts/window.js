@@ -89,6 +89,27 @@ $(() => {
     });
   };
 
+  /*  List queries in sidebar.
+
+      PARAMS
+        queries (array of objects): see queries.js
+
+      RETURN
+        none
+  */
+  const listQueries = queries => {
+      queries.forEach((query, i) => {
+
+      let htmlElement = `
+        <div class="checkbox query-${i}">
+          <input type="checkbox" id="query-${i}" value="${i}">
+          <label for="query-${i}"> ${query} </label>
+        </div>
+      `;
+      $('#sidebar').append(htmlElement);
+    });
+  }
+
   /*  Display the results of the analysis.
 
       PARAMS
@@ -214,30 +235,7 @@ $(() => {
 
 
 
-  let queries = [
-    "What is the name of the software",
-    "What is the name of the company",
-    "Where is the headquarter of the company",
-    "Who owns the software",
-    "Who has the intellectual property of the software",
-    "What are the terms of the license grant",
-    "Is the product licensed or sold",
-    "How long is the license",
-    "How many downloads are authorized",
-    "How long is the period of evaluation",
-    "Is there a reverse engineering clause",
-    "What are the restriction on use for users",
-    "Is there any related agreements",
-    "Is your application collecting personal information from users",
-    "Is there a termination of licensing",
-    "Is there a Maintenance Policies",
-    "What is the period of warranty",
-    "What is the disclaimer of warranty",
-    "Is it possible that the product will be updated regularly in the future",
-    "For any material changes, what is the period of time that the company has to notice the user in advance",
-    "Under the law of which jurisdiction this agreement is referring to ",
-    "Is there a specific export information"
-  ];
+  let queries = require(path.join(__dirname, 'scripts', 'queries'));
 
   // handle change of select tag
   $('#select-eulas').change(onEulaSelected);
@@ -246,16 +244,7 @@ $(() => {
   listEulas();
 
   // create queries in sidebar
-  queries.forEach((query, i) => {
-
-    let htmlElement = `
-      <div class="checkbox">
-        <input type="checkbox" id="query-${i}" value="${i}">
-        <label for="query-${i}"> ${query} </label>
-      </div>
-    `;
-    $('#sidebar').append(htmlElement);
-  });
+  listQueries(queries);
 
   // handle change of select tag
   $('#action-analyze').click(onAnalyze);
