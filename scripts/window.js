@@ -28,7 +28,7 @@ $(() => {
     let contentSplit = content.split('\n');
     let htmlElement = '';
     contentSplit.forEach(c => {
-      htmlElement += `<p class="eula-paragraph">${c}</p>`;
+      htmlElement += `<p>${c}</p>`;
     });
 
     $('#preview-content').empty();
@@ -164,6 +164,7 @@ $(() => {
       pElement = $(ps[i]);
 
       if (pElement.text() === bestResult.text) {
+        pElement.addClass('eula-paragraph');
         pElement.addClass(query.style);
 
         let tooltip = `<div class="tooltip"> query: ${query.text} <br> confidence: ${bestResult.weight} </div>`;
@@ -260,6 +261,11 @@ $(() => {
     let selectedQueries = getSelectedQueries(queries);
     if (!selectedQueries) return;
 
+    // clean previous analysis
+    $('.tooltip').remove();
+    $('#preview-content p').removeClass((i, className) => className);
+
+    // perform analysis
     selectedQueries.forEach(q => {
       analyzeEula(q);
     });

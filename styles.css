@@ -83,6 +83,9 @@ button:hover {
 
 .eula-paragraph {
   position: relative;
+  box-sizing: border-box;
+  padding: 1em;
+  border-radius: 5px;
 }
 
 .tooltip {
