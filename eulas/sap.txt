@@ -1,173 +1,511 @@
-software license and support agreement general terms and conditions gtc definitions
-addon means any development that adds new and independent functionality but does not modify existing sap functionality and developed using sap application programming interfaces other sap code that allows other software products communicate with call sap software
-affiliate means any legal entity the territory which the licensee directly indirectly holds more than fifty percent the shares voting rights
-any such legal entity shall considered affiliate for only such time such interest maintained
-agreement means the agreement defined the software order form
-business partner means legal entity individual that requires access the software connection with licensees internal business operations such customers distributors andor suppliers licensee
-confidential information means with respect licensee licensees marketing and business plans andor financial information and with respect sap the software and documentation and other sap materials including without limitation the following information regarding the software computer software object and source codes programming techniques and programming concepts methods processing system designs embodied the software benchmark results manuals program listings data structures flow charts logic diagrams functional specifications file formats and iii discoveries inventions concepts designs flow charts documentation product specifications application program interface specifications techniques and processes relating the software the research and development investigations sap and product offerings content partners product pricing product availability technical drawings algorithms processes ideas techniques formulas data schematics trade secrets knowhow improvements marketing plans forecasts and strategies
-addition confidential information either sap licensee the party disclosing such information being the disclosing party includes information which the disclosing party protects against unrestricted disclosure others that the disclosing party its representatives identifies confidential the time disclosure should reasonably understood confidential given the nature the information and the circumstances surrounding its disclosure including without limitation information from about concerning any third party that disclosed under this agreement
-designated unit means information technology devices hard disks central processing units identified licensee pursuant this agreement that have been officially made known the public appropriate for use interoperation with the software
-delivered made available licensee with the software under this agreement
-intellectual property rights means patents any type design rights utility models other similar invention rights copyrights mask work rights trade secret confidentiality rights trademarks trade names and service marks and any other intangible property rights including applications and registrations for any the foregoing any country arising under statutory common law contract and whether not perfected now existing hereafter filed issued acquired
-modification means change the delivered source code metadata any development other than change the delivered source code metadata that customizes enhances changes existing functionality the software including but not limited the creation any new application program interfaces alternative user interfaces the extension sap data structures iii any other change the software other than addon utilizing incorporating any sap materials defined below
-110 sap materials means any software programs tools systems data other materials made available sap licensee prior the course the performance under this agreement documentation means saps thencurrent technical andor functional documentation which sap general terms and conditions encav102017 page including but not limited the software and documentation well any information materials feedback provided licensee sap relating the software and documentation
-111 sap support means saps thencurrent sap support offering made available licensee stated the applicable software order form and made part hereof
-112 software means any and all software products licensed licensee under this agreement specified software order forms hereto all developed for sap sap andor any their affiliated companies and delivered licensee hereunder any new releases updates versions thereof made available through unrestricted shipment pursuant sap support warranty obligation and iii any complete partial copies any the foregoing
-113 software order form means the order form for the software third party software and related sap support ordered licensee thereunder including information software third party software sap support fees and other information necessary for the delivery such items licensee
-114 territory means the world except for those countries prohibited applicable export laws and further subject section 124 the gtc
-115 third party software means any and all software products and content licensed licensee under this agreement specified software order forms hereto all developed companies other than sap sap andor any their affiliated companies and delivered licensee hereunder any new releases updates versions thereof made available through sap support warranty obligations and iii any complete partial copies any the foregoing
-116 use means directly indirectly activate the processing capabilities the software load execute access employ the software display information resulting from such capabilities
-117 use terms means the software use rights document defined the software order form
-license grant
-license
-211 subject licensees compliance with all the terms and conditions this agreement sap grants licensee nonexclusive nontransferable perpetual except for subscription based licenses license use the software documentation and other sap materials specified sites within the territory run licensees and its affiliates internal business operations including customer backup and passive disaster recovery and provide internal training and testing for such internal business operations unless terminated accordance with the terms this agreement
-licensee may make modifications andor addons the software furtherance its permitted use under this agreement and shall permitted use modifications and addons with the software accordance with this section 211 and section 63licensee shall not use the sap materials provide services third parties business process outsourcing service bureau applications third party training other than affiliates subject section lease loan resell sublicense otherwise distribute the sap materials other than distribution affiliates subject section iii distribute publish keycodes make any use perform any acts with respect the sap materials other than expressly permitted accordance with the terms this agreement use software components other than those specifically identified the software order form even also technically possible for licensee access other software components
-licensee may permit business partners use the software only through screen access solely conjunction with licensees use and may not use the software run any business partners business operations
-212 licensee agrees install the software only designated units located licensees facilities and licensees direct possession
-with advance written notice sap the information technology devices may also located the facilities affiliate and the affiliates direct possession
-licensee must appropriately licensed stated the use terms for any individuals that use the software including employees agents affiliates and business partners
-use may occur way interface delivered with part the software licensee thirdparty interface another intermediary system
-licensee receives licensed software that replaces previously licensed software its rights under this agreement with regard the previously licensed software end when deploys the replacement software for use productive systems following reasonable testing sap general terms and conditions encav102017 page period
-the date the rights the previously licensed software end licensee shall comply with section this agreement with respect such previously licensed software
-213 the terms and conditions this agreement relative software apply third party software except licensee shall not make modifications andor addons third party software otherwise modify third party software unless expressly authorized sap and subject section 129 otherwise stated the use terms
-affiliate use
-affiliates use the software documentation and other sap materials run their internal business operations permitted under section 211 subject the following licensee ensures that the affiliate agrees writing comply with the terms this agreement and breach such affiliate use agreement affiliate shall considered breach licensee hereunder
-licensee has affiliate subsidiary with separate agreement for sap software licenses andor support services with sap any sap affiliate including sap any other distributor sap software the software shall not used run such affiliates subsidiarys business operations and such affiliate subsidiary shall not receive any support services under this agreement even such separate agreement has expired terminated unless otherwise agreed writing the parties
-services providers
-with saps prior written consent licensee may permit services providers access the software solely for the purpose providing facility implementation systems application management disaster recovery services licensee connection with the business licensee for which the software herein licensed provided these rights will continue only while licensee and such services provider have place written agreement that includes provisions requiring such services providers compliance with the terms this agreement prior such access including without limitation nondisclosure sap confidential information licensee must appropriately licensed for all employees such services provider authorized access the software iii such services provider shall permitted use the software solely install and configure the software accordance with the business licensee set forth herein the case disaster recovery vendor provide disaster recovery services only under circumstances may such services provider use the software operate provide processing services licensee any other party connection with such services providers own business operations licensee shall responsible for any additional software migration tools third party software needed effect such transition and licensee expressly agrees indemnify sap its officers employees agents and subcontractors from and against all claims liabilities losses damages and costs including reasonable legal fees suffered sap arising from breach the services provider the conditions this agreement
-upon sap request licensee shall provide written confirmation sap that items iiv are fulfilled
-sap shall permitted audit least once annually and accordance with sap standard procedures which may include onsite andor remote audit the usage the sap materials
-licensee shall cooperate reasonably the conduct such audits
-the event audit reveals that licensee underpaid license fees andor sap support fees sap andor that licensee has used the software excess the license quantities levels stated the software order form licensee shall pay such underpaid fees andor for such excess usage based the thencurrent sap price list terms and conditions effect the time the audit and shall execute additional software order form affect the required licensing any additional quantities levels
-reasonable costs saps audit shall paid licensee the audit results indicate usage excess the licensed quantities levels
-sap reserves all rights law and equity with respect both licensees underpayment license fees sap support fees and usage excess the license quantities levels
-fees
-licensee shall pay sap the software license fees and the support fees specified the software order forms
-any fees not paid when due shall accrue interest the rate per annum but not exceed the maximum amount allowed law
-licensee fees include costs initial delivery and packaging for physical shipment
-cases electronic delivery sap makes the software available for download from network its own cost and licensee responsible for the cost downloading the software
-licensee acknowledges that purchase order for administrative price and payment
-verification
-sap general terms and conditions encav102017 page convenience only and that licensor has the right issue invoice and collect payment without corresponding purchase order
-taxes
-fees and other charges described this agreement not include federal provincial local sales pst gst hst foreign withholding use property excise service similar transaction taxes taxes now hereafter levied all which shall for licensees account
-any applicable direct pay permits valid taxexempt certificates must provided sap prior the execution this agreement
-sap required pay taxes licensee shall reimburse sap for such amounts
-licensee hereby agrees indemnify sap for any taxes and related costs interest and penalties paid payable sap
-term
-term
-this agreement and the license granted hereunder shall become effective the date first set forth the applicable software order form and shall continue effect thereafter unless terminated upon the earliest occur the following thirty days after licensee gives sap written notice licensees direction terminate this agreement for any reason but only after payment all license and sap support fees then due and owing thirty days after sap gives licensee written notice licensees material breach any provision this agreement other than licensees breach its obligations under sections which breach shall result immediate termination including licensees failure pay any money due hereunder unless licensee has cured such breach during such thirty day period iii immediately licensee files for bankruptcy becomes insolvent makes assignment for the benefit creditors
-for the avoidance any doubt termination this agreement shall strictly apply all software licensed under this agreement its appendices schedules addenda and order documents and any partial termination this agreement licensee shall not permitted respect any part this agreement its appendices schedules addenda order documents
-end term duties
-upon any termination hereunder licensee and its affiliates shall immediately cease use all sap materials and confidential information
-within thirty days after any termination licensee shall irretrievably destroy upon saps request deliver sap all copies the sap materials and confidential information every form except the extent legally required keep for longer period which case such return destruction shall occur the end such period
-licensee must certify sap writing that has satisfied its obligations under this section licensee agrees certify writing sap that and each its affiliates has performed the foregoing
-sections 124 126 127 and 129 shall survive such termination
-the event any termination hereunder licensee shall not entitled any refund any payments made licensee
-termination shall not relieve licensee from its obligation pay fees that remain unpaid
-intellectual property rights
-reservation rights
-the sap materials and all intellectual property rights embodied therein shall the sole and exclusive property sap sap the parent company sap its their licensors subject any rights expressly granted licensee section and herein
-except for the rights set forth sections and herein licensee not permitted modify otherwise make derivative works the software other sap materials
-protection rights
-licensee shall not copy translate disassemble decompile nor reverse engineer the software other sap materials
-licensee shall not create attempt create the source code from the object code the software other sap materials
-licensee permitted back data accordance with good information technology practice and for this purpose create the necessary backup copies the software
-backup copies transportable discs other data media must marked backup copies and bear the same copyright and authorship notice the original discs other data media unless technically infeasible
-licensee must not change remove saps copyright trade mark and authorship notices
-modificationsaddons
-631 licensee shall comply with saps registration procedure prior making modifications add
-ons
-all modifications and all rights associated therewith shall the exclusive property sap sap its their licensors
-all addons developed sap either independently jointly with sap general terms and conditions encav102017 page performance warranty
-licensee and all rights associated therewith shall the exclusive property sap sap its their licensors
-licensee agrees execute those documents reasonably necessary secure saps rights the foregoing modifications and addons
-all addons developed behalf licensee without saps participation licensee addon and all rights associated therewith shall the exclusive property licensee subject saps rights and the software and sap materials provided licensee shall not commercialize market distribute license sublicense transfer assign otherwise alienate any such licensee addons
-sap retains the right independently develop its own modifications addons the software and licensee agrees not take any action that would limit saps sale assignment licensing use its own software modifications addons thereto
-632 any modification developed behalf licensee without saps participation licensee addon must not and subject other limitations set forth herein enable the bypassing circumventing any the restrictions set forth this agreement andor provide licensee with access the software which licensee not directly licensed nor unreasonably impair degrade reduce the performance security the software nor render provide any information concerning sap software license terms software any other information related sap materials
-633 licensee covenants behalf itself and its successors and assigns not assert against sap its affiliated companies their resellers distributors suppliers commercial partners and customers any rights any licensee addons modifications other functionality the sap software accessed such licensee addons modifications
-warranty
-sap warrants that the software will substantially conform the specifications contained the documentation for six months following delivery
-the warranty shall not apply the software not used accordance with the documentation the defect caused modification addon other than modification addon made sap and which provided through sap support under warranty licensee thirdparty software iii any licensee unlicensed activities
-sap does not warrant that the software will operate uninterrupted that will free from minor defects errors that not materially affect such performance that the applications contained the software are designed meet all licensees business requirements
-provided licensee notifies sap writing with specific description the softwares nonconformance within the warranty period and sap validates the existence such nonconformance sap will its option repair replace the nonconforming software refund the license fees paid for the applicable nonconforming software exchange for return such nonconforming software
-this licensees sole and exclusive remedy under this warranty
-express disclaimer
-sap and its licensors disclaim all other warranties express implied including without limitation any implied warranties merchantability merchantable quality fitness for particular purpose except the extent that any warranties implied law cannot validly waived
-third party claims
-infringement and defense licensee
-sap shall defend licensee against claims brought against licensee canada any third party alleging that licensees use the software accordance with the terms and conditions this agreement constitutes direct infringement misappropriation such third partys canadian patent claims copyright trade secret rights and sap will pay damages finally awarded against licensee the amount any settlement sap enters into with respect such claims
-this obligation sap shall not apply the alleged infringement misappropriation results from use the software conjunction with any other software use the software with apparatus other than designated unit iii failure promptly use update provided sap such infringement misappropriation could have been avoided use the update any use not permitted this agreement
-this obligation sap also shall not apply licensee fails timely notify sap writing any such claim however licensees failure provide delay providing such notice shall not relieve sap its obligations under this section except the extent sap prejudiced licensees failure provide delay providing such notice
-sap permitted control fully the defense and any settlement any such claim long such settlement shall not include financial obligation admission liability licensee
-the event licensee declines saps proffered defense otherwise fails give full control the defense saps designated counsel then licensee waives saps obligations under this section licensee shall sap general terms and conditions encav102017 page limitations liability
-reasonably cooperate the defense such claim and may appear its own expense through counsel reasonably acceptable sap
-sap expressly reserves the right cease such defense any claims the event the software longer alleged infringe misappropriate held not infringe misappropriate the third partys rights
-sap may settle mitigate damages from any claim potential claim substituting alternative substantially equivalent noninfringing programs and supporting documentation for the software
-licensee shall not undertake any action response any infringement misappropriation alleged infringement misappropriation the software that prejudicial saps rights
-the provisions this section state the sole exclusive and entire liability sap and its licensors licensee and licensees sole remedy with respect the infringement misappropriation thirdparty intellectual property rights
-not responsible
-sap and its licensors will not responsible under this agreement the software not used accordance with the documentation the defect liability caused licensee modification addon other than modification addon made sap which provided through sap support under warranty thirdparty software iii the software used conjunction with any third party software for which the licensee lacks sufficient rights from the third party vendor for such use for any licensee activities not permitted under this agreement
-sap and its licensors shall not liable for any claims damages arising from inherently dangerous use the software andor thirdparty software licensed hereunder
-exclusion damages limitation liability
-anything the contrary herein notwithstanding except for damages resulting from unauthorized use disclosure confidential information bdeath personal injury arising from either partys gross negligence arising from either partys willful misconduct saps obligations under section iii saps right collect unpaid fees under circumstances and regardless the nature any claim shall sap its licensors licensee liable each other any other person entity for amount excess the paid license fees for the software directly causing the damages liable any amount for loss good will profits work stoppage data loss computer failure malfunction legal fees court costs interest exemplary punitive damages andor for any and all special incidental consequential indirect damages
-exclusions and limitations for third party software
-subject the exclusion damages stated section and with respect third party software under circumstances and regardless the nature any claim shall sap its licensors liable for amount excess the paid license fees for the third party software directly causing the damages
-the provisions this agreement allocate the risks between sap and licensee
-the license fees reflect this allocation risk and the limitations liability herein
-confidentiality
-101 use confidential information
-confidential information shall not reproduced any form except required accomplish the intent this agreement
-any reproduction any confidential information the other shall remain the property the disclosing party and shall contain any and all confidential proprietary notices legends which appear the original
-with respect the confidential information the other each party shall take all reasonable steps defined below keep all confidential information strictly confidential and shall not disclose any confidential information the other any person other than its bona fide individuals whose access necessary enable exercise its rights andor perform its obligations hereunder and who are under obligations confidentiality substantially similar those set forth herein
-used herein reasonable steps means those steps the receiving party takes protect its own similar proprietary and confidential information which shall not less than reasonable standard care
-confidential information either party disclosed prior execution this agreement shall subject the protections afforded hereunder
-sap general terms and conditions encav102017 page 102 exceptions
-the above restrictions the use disclosure the confidential information shall not apply any confidential information that independently developed the receiving party without reference the disclosing partys confidential information lawfully received free restriction from third party having the right furnish such confidential information has become generally available the public without breach this agreement the receiving party the time disclosure was known the receiving party free restriction the disclosing party agrees writing free such restrictions
-103 confidential terms and conditions publicity
-licensee shall not disclose the terms and conditions this agreement the pricing contained herein any third party
-neither party shall use the name the other party publicity advertising similar activity without the prior written consent the other except that licensee agrees that sap and its affiliated companies may use licensees name customer listings times mutually agreeable the parties part saps marketing efforts including without limitation reference calls and stories press testimonials site visits sapphire participation
-sap will make reasonable efforts avoid having the reference activities unreasonably interfere with licensees business
-licensee agrees that sap may share information licensee with its affiliated companies for marketing and other business purposes and that licensee has secured permission from its employees allow sap share business contact information with its affiliates
-assignment
-licensee may not without saps prior written consent assign delegate pledge otherwise transfer this agreement any its rights obligations under this agreement the sap materials sap confidential information any party whether voluntarily operation law including way sale assets merger consolidation
-sap may assign this agreement any its affiliates
-general provisions
-121 severability
-the intent the parties that case any one more the provisions contained this agreement shall held invalid unenforceable any respect such invalidity unenforceability shall not affect the other provisions this agreement and this agreement shall construed such invalid unenforceable provision had never been contained herein
-122 waiver
-either party should waive any breach any provision this agreement shall not thereby deemed have waived any preceding succeeding breach the same any other provision hereof
-123 counterparts
-this agreement may signed two counterparts each which shall deemed original and which shall together constitute one agreement
-signatures sent electronic means facsimile scanned and sent via email signed electronic signature service where legally permitted shall deemed original signatures
-124 regulatory matters
-the software documentation and sap materials are subject the export control laws various countries including without limit the laws canada the united states and germany
-licensee agrees that will not submit the software documentation other sap materials any government agency for licensing consideration other regulatory approval without the prior written consent sap and will not export the software documentation and sap materials countries persons entities prohibited such laws
-licensee shall also responsible for complying with all applicable governmental regulations the country where licensee registered and any foreign countries with respect the use the software documentation other sap materials licensee andor its affiliates
-125 arbitration
-except for the right either party apply court competent jurisdiction for interim interlocutory injunction other provisional remedy preserve the status quo prevent irreparable harm pending final award the arbitrator any controversy claim arising out relating this agreement other than the ownership any intellectual property rights proprietary information shall finally settled arbitration toronto ontario accordance with the ontario arbitrations act and judgment upon the award rendered the arbitrator may entered any court having jurisdiction thereof
-the parties fail appoint the arbitrator within ten days service notice intention arbitrate which notice shall include description the sap general terms and conditions encav102017 page claim concise statement the facts supporting and the relief sought either party may apply judge the ontario court justice general division for the appointment such arbitrator
-the arbitrator shall have background training computer law computer science marketing computer products
-the written decision and reasons the arbitrator shall communicated the parties later than thirty days after the close argument the arbitration
-126 governing law limitations period
-this agreement and any claims arising out relating this agreement and its subject matter shall governed and construed under the laws the province ontario without reference its conflicts law principles
-the event any conflicts between foreign law rules and regulations and canadian law rules and regulations canadian law rules and regulations shall prevail and govern
-the united nations convention contracts for the international sale goods shall not apply this agreement
-the uniform computer information transactions act enacted shall not apply
-licensee must initiate cause action for any claims arising out relating this agreement and its subject matter within one year from the date when licensee knew should have known after reasonable investigation the facts giving rise the claims
-127 notices
-all notices reports which are required may given pursuant this agreement shall writing and shall deemed duly given when delivered the respective executive offices sap and licensee the addresses first set forth any software order form
-where this section 127 elsewhere this agreement written form required except for any notice termination notice material breach which shall occur exchange letters that requirement can met facsimile transmission exchange letters other written form including email
-128 force majeure
-any delay nonperformance any provision this agreement other than for the payment amounts due hereunder caused conditions beyond the reasonable control the performing party shall not constitute breach this agreement and the time for performance such provision any shall deemed extended for period equal the duration the conditions preventing performance
-129 entire agreement
-this agreement constitutes the complete and exclusive statement the agreement between sap and licensee and all previous representations discussions and writings are merged and superseded this agreement and the parties disclaim any reliance any such representations discussions and writings
-this agreement may modified only writing signed both parties
-this agreement shall prevail over any additional conflicting inconsistent terms and conditions which may appear any purchase order other document furnished licensee sap
-this agreement shall prevail over any additional conflicting inconsistent terms and conditions which may appear any clickwrap end user agreement included the software
-signatures sent electronic means facsimile scanned and sent via email shall deemed original signatures
-this agreement does not create any partnership joint venture principalandagent relationship
-1210 hierarchy
-the following order precedence shall applied the event conflict inconsistency between provisions the components this agreement the software order form the schedules iii the gtc and the use terms except with respect third party pass
-through terms for third party software stated the use terms which case the use terms prevail over any conflict inconsistency any component this gtc solely with respect such third party passthrough terms
-sap general terms and conditions encav102017 page 
+SOFTWARE LICENSE AND SUPPORT AGREEMENT
+General Terms and Conditions
+(IIGTCII)
+
+1. DEFINITIONS.
+
+1.1 “Add—on” means any development that adds new and independent functionality, but does not
+modify existing SAP functionality, and is developed using SAP application programming interfaces or
+other SAP code that allows other software products to communicate with or call on SAP Software.
+
+ 
+
+1.2 “Affiliate” means any legal entity in the Territory in which the Licensee, directly or indirectly,
+holds more than fifty percent (50%) of the shares or voting rights. Any such legal entity shall be
+considered an Affiliate for only such time as such interest is maintained.
+
+1.3 “Agreement” means the agreement as defined in the Software Order Form.
+
+1.4 “Business Partner” means a legal entity or individual that requires access to the Software in
+connection with Licensee’s internal business operations, such as customers, distributors and/or
+suppliers of Licensee.
+
+1.5 "Confidential Information" means, with respect to Licensee: Licensee’s marketing and business
+plans and/or financial information, and with respect to SAP : (a) the Software and Documentation and
+other SAP Materials, including without limitation the following information regarding the Software: (i)
+computer software (object and source codes), programming techniques and programming concepts,
+methods of processing, system designs embodied in the Software; (ii) benchmark results, manuals,
+program listings, data structures, flow charts, logic diagrams, functional specifications, file formats;
+and (iii) discoveries, inventions, concepts, designs, flow charts, documentation, product specifications,
+application program interface specifications, techniques and processes relating to the Software; (b)
+the research and development or investigations of SAP; and (c) product offerings, content partners,
+product pricing, product availability, technical drawings, algorithms, processes, ideas, techniques,
+formulas, data, schematics, trade secrets, know-how, improvements, marketing plans, forecasts and
+strategies. In addition, Confidential Information of either SAP or Licensee (the party disclosing such
+information being the “Disclosing Party”) includes information which the Disclosing Party protects
+against unrestricted disclosure to others that (i) the Disclosing Party or its representatives identifies
+as confidential at the time of disclosure; or (ii) should reasonably be understood to be confidential
+given the nature of the information and the circumstances surrounding its disclosure; including,
+without limitation, information from, about or concerning any third party that is disclosed under this
+Agreement.
+
+1.6 “Designated Unit” means information technology devices (e.g. hard disks or central processing
+units) identified by Licensee pursuant to this Agreement that have been officially made known to the
+public as appropriate for Use or interoperation with the Software.
+
+1.7 "Documentation" means SAP's then-current technical and/or functional documentation which is
+delivered or made available to Licensee with the Software under this Agreement.
+
+1.8 “ nte||ectua| Progerty Rights” means patents of any type, design rights, utility models or other
+similar invention rights, copyrights, mask work rights, trade secret or confidentiality rights,
+trademarks, trade names and service marks and any other intangible property rights, including
+applications and registrations for any of the foregoing, in any country, arising under statutory or
+common law or by contract and whether or not perfected, now existing or hereafter filed, issued, or
+acquired.
+
+1.9 "Modification" means (i) a change to the delivered source code or metadata; or (ii) any
+development, other than a change to the delivered source code or metadata, that customizes,
+enhances, or changes existing functionality of the Software including, but not limited to, the creation
+of any new application program interfaces, alternative user interfaces or the extension of SAP data
+structures; or (iii) any other change to the Software (other than an Add—on) utilizing or incorporating
+any SAP Materials (defined below).
+
+1.10 “SAP Materials” means any software, programs, tools, systems, data or other materials made
+available by SAP to Licensee prior to or in the course of the performance under this Agreement
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 1 of 8
+
+including, but not limited to, the Software and Documentation, as well as any information, materials
+or feedback provided by Licensee to SAP relating to the Software and Documentation.
+
+1.11 “SAP Support” means SAP’s then-current SAP support offering made available to Licensee, as
+stated in the applicable Software Order Form and made a part hereof.
+
+1.12 "Software" means (i) any and all software products licensed to Licensee under this Agreement
+as specified in Software Order Forms hereto, all as developed by or for SAP, SAP SE and/or any of
+their affiliated companies and delivered to Licensee hereunder; (ii) any new releases, updates or
+versions thereof made available through unrestricted shipment pursuant to SAP Support or warranty
+obligation and (iii) any complete or partial copies of any of the foregoing.
+
+1.13 “Software Order Form” means the order form for the Software, Third Party Software and related
+SAP Support ordered by Licensee thereunder, including information on Software, Third Party Software,
+SAP Support, fees, and other information necessary for the delivery of such items to Licensee.
+
+1.14 "Territory" means the world except for those countries prohibited by applicable export laws and
+further subject to Section 12.4 of the GTC.
+
+1.15 “Third Party Software" means (i) any and all software products and content licensed to Licensee
+under this Agreement as specified in Software Order Forms hereto, all as developed by companies
+other than SAP, SAP SE and/or any of their affiliated companies and delivered to Licensee hereunder;
+(ii) any new releases, updates or versions thereof made available through SAP Support or warranty
+obligations and (iii) any complete or partial copies of any of the foregoing.
+
+1.16 "Use" means to directly or indirectly activate the processing capabilities of the Software, load,
+execute, access, employ the Software, or display information resulting from such capabilities.
+
+1.17 “Use Terms" means the Software Use Rights document as defined in the Software Order Form.
+2. LICENSE GRANT.
+
+2.1 License.
+
+2.1.1 Subject to Licensee’s compliance with all the terms and conditions of this Agreement, SAP
+grants to Licensee a non—exclusive, non—transferable, perpetual (except for subscription based
+licenses) license to Use the Software, Documentation, and other SAP Materials at specified site(s)
+within the Territory to run Licensee’s and its Affiliates’ internal business operations (including
+customer back—up and passive disaster recovery) and to provide internal training and testing for such
+internal business operations, unless terminated in accordance with the terms of this Agreement.
+Licensee may make Modifications and/or Add—ons to the Software in furtherance of its permitted Use
+under this Agreement, and shall be permitted to use Modifications and Add-ons with the Software in
+accordance with this Section 2.1.1 and Section 6.3.Licensee shall not: (i) use the SAP Materials to
+provide services to third parties (e.g., business process outsourcing, service bureau applications or
+third party training) other than to Affiliates (subject to Section 2.2); (ii) lease, loan, resell, sublicense
+or otherwise distribute the SAP Materials, other than distribution to Affiliates (subject to Section 2.2);
+(iii) distribute or publish keycode(s); (iv) make any Use of or perform any acts with respect to the SAP
+Materials other than as expressly permitted in accordance with the terms of this Agreement; (v) use
+Software components other than those specifically identified in the Software Order Form, even if it is
+also technically possible for Licensee to access other Software components. Licensee may permit
+Business Partners to Use the Software only through screen access, solely in conjunction with
+Licensee’s Use, and may not Use the Software to run any of Business Partners’ business operations.
+
+2.1.2 Licensee agrees to install the Software only on Designated Units located at Licensee’s facilities
+and in Licensee’s direct possession. With advance written notice to SAP, the information technology
+devices may also be located in the facilities of an Affiliate and be in the Affiliate’s direct possession.
+Licensee must be appropriately licensed as stated in the Use Terms for any individuals that Use the
+Software, including employees or agents of Affiliates and Business Partners. Use may occur by way of
+an interface delivered with or as a part of the Software, a Licensee or third—party interface, or another
+intermediary system. If Licensee receives licensed Software that replaces previously licensed
+Software, its rights under this Agreement with regard to the previously licensed Software end when it
+deploys the replacement Software for Use on productive systems following a reasonable testing
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 2 of 8
+
+period. At the date the rights to the previously licensed Software end, Licensee shall comply with
+Section 5.2 of this Agreement with respect to such previously licensed Software.
+
+2.1.3 The terms and conditions of this Agreement relative to “Software” apply to Third Party Software
+except (i) Licensee shall not make Modifications and/or Add-ons to Third Party Software or otherwise
+modify Third Party Software unless expressly authorized by SAP; and (ii) subject to Section 12.9, as
+otherwise stated in the Use Terms.
+
+2.2 Affiliate Use. Affiliates’ Use of the Software, Documentation and other SAP Materials to run their
+internal business operations as permitted under Section 2.1.1 is subject to the following: (i) Licensee
+ensures that the Affiliate agrees in writing to comply with the terms of this Agreement; and (ii) a
+breach of such Affiliate Use Agreement by Affiliate shall be considered a breach by Licensee
+hereunder. If Licensee has an affiliate or subsidiary with a separate agreement for SAP software
+licenses and/or support services with SAP SE, any SAP SE affiliate (including SAP) or any other
+distributor of SAP software, the Software shall not be Used to run such affiliate’s or subsidiary’s
+business operations and such affiliate or subsidiary shall not receive any support services under this
+Agreement even if such separate agreement has expired or is terminated, unless otherwise agreed to
+in writing by the parties.
+
+2.3 Services Providers. With SAP’s prior written consent, Licensee may permit services providers to
+access the Software solely for the purpose of providing facility, implementation, systems, application
+management or disaster recovery services to Licensee in connection with the business of Licensee for
+which the Software is herein licensed grovided: (i) these rights will continue only while Licensee and
+such services provider have in place a written agreement that includes provisions requiring such
+services provider’s compliance with the terms of this Agreement prior to such access, including
+without limitation non—disclosure of SAP Confidential Information; (ii) Licensee must be appropriately
+licensed for all employees of such services provider authorized to access the Software; (iii) such
+services provider shall be permitted to Use the Software solely to install and configure the Software in
+accordance with the business of Licensee as set forth herein (or in the case of a disaster recovery
+vendor, to provide disaster recovery services only); (iv) under no circumstances may such services
+provider Use the Software to operate or provide processing services to Licensee or any other party, or
+in connection with such services provider’s own business operations; (v) Licensee shall be responsible
+for any additional Software, migration tools, or third party software needed to effect such transition;
+and (vi) Licensee expressly agrees to indemnify SAP, its officers, employees, agents and
+subcontractors from and against all claims, liabilities, losses, damages and costs (including reasonable
+legal fees) suffered by SAP arising from a breach by the services provider of the conditions of this
+Agreement. Upon SAP request, Licensee shall provide written confirmation to SAP that items (i)—(iv)
+are fulfilled.
+
+3. VERIFICATION.
+
+SAP shall be permitted to audit (at least once annually and in accordance with SAP standard
+procedures, which may include on-site and/or remote audit) the usage of the SAP Materials. Licensee
+shall cooperate reasonably in the conduct of such audits. In the event an audit reveals that (i)
+Licensee underpaid license fees and/or SAP Support fees to SAP and/or (ii) that Licensee has Used the
+Software in excess of the license quantities or levels stated in the Software Order Form, Licensee shall
+pay such underpaid fees and/or for such excess usage based on the then-current SAP price list, terms
+and conditions in effect at the time of the audit, and shall execute an additional Software Order Form
+to affect the required licensing of any additional quantities or levels. Reasonable costs of SAP’s audit
+shall be paid by Licensee if the audit results indicate usage in excess of the licensed quantities or
+levels. SAP reserves all rights at law and equity with respect to both Licensee’s underpayment of
+License fees or SAP Support fees and usage in excess of the license quantities or levels.
+
+4. PRICE AND PAYMENT.
+
+4.1 E. Licensee shall pay to SAP the software license fees and the support fees as specified in
+the Software Order Forms. Any fees not paid when due shall accrue interest at the rate of 12% per
+annum, but not to exceed the maximum amount as allowed by law. Licensee fees include costs of
+initial delivery and packaging for physical shipment. In cases of electronic delivery, SAP makes the
+Software available for download from a network at its own cost, and Licensee is responsible for the
+cost of downloading the Software. Licensee acknowledges that a purchase order is for administrative
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 3 of 8
+
+convenience only and that Licensor has the right to issue an invoice and collect payment without a
+corresponding purchase order.
+
+4.2 Taxes. Fees and other charges described in this Agreement do not include federal, provincial or
+local sales, PST, GST, HST, foreign withholding, use, property, excise, service, or similar transaction
+taxes (“TaX(es)”) now or hereafter levied, all of which shall be for Licensee’s account. Any applicable
+direct pay permits or valid taX-exempt certificates must be provided to SAP prior to the execution of
+this Agreement. If SAP is required to pay Taxes, Licensee shall reimburse SAP for such amounts.
+Licensee hereby agrees to indemnify SAP for any Taxes and related costs, interest and penalties paid
+or payable by SAP.
+
+ 
+
+5. TERM.
+
+ 
+
+5.1. Term. This Agreement and the license granted hereunder shall become effective as of the date
+first set forth in the applicable Software Order Form and shall continue in effect thereafter unless
+terminated upon the earliest to occur of the following: (i) thirty days after Licensee gives SAP written
+notice of Licensee's direction to terminate this Agreement, for any reason, but only after payment of
+all License and SAP Support fees then clue and owing; (ii) thirty days after SAP gives Licensee written
+notice of Licensee's material breach of any provision of this Agreement (other than Licensee's breach
+of its obligations under Sections 6, 10 or 11, which breach shall result in immediate termination),
+including Licensee’s failure to pay any money due hereunder, unless Licensee has cured such breach
+during such thirty day period; (iii) immediately if Licensee files for bankruptcy, becomes insolvent, or
+makes an assignment for the benefit of creditors. For the avoidance of any doubt, termination of this
+Agreement shall strictly apply to all Software licensed under this Agreement, its appendices,
+schedules, addenda and order documents and any partial termination of this Agreement by Licensee
+shall not be permitted in respect of any part of this Agreement, its appendices, schedules, addenda,
+order documents.
+
+ 
+
+5.2 End of Term Duties. Upon any termination hereunder, Licensee and its Affiliates shall
+immediately cease Use of all SAP Materials and Confidential Information. Within thirty (30) days after
+any termination, Licensee shall irretrievably destroy or upon SAP’s request deliver to SAP all copies of
+the SAP Materials and Confidential Information in every form, except to the extent it is legally required
+to keep it for a longer period in which case such return or destruction shall occur at the end of such
+period. Licensee must certify to SAP in writing that it has satisfied its obligations under this Section
+5.2. Licensee agrees to certify in writing to SAP that it and each of its Affiliates has performed the
+foregoing. Sections 3, 4, 5.2, 6, 7.2, 8, 9, 10, 12.4, 12.6, 12.7 and 12.9 shall survive such
+termination. In the event of any termination hereunder, Licensee shall not be entitled to any refund of
+any payments made by Licensee. Termination shall not relieve Licensee from its obligation to pay fees
+that remain unpaid.
+
+6. INTELLECTUAL PROPERTY RIGHTS.
+
+6.1 Reservation of Rights. The SAP Materials, and all Intellectual Property Rights embodied therein,
+shall be the sole and exclusive property of SAP, SAP SE (the parent company of SAP) or its or their
+licensors, subject to any rights expressly granted to Licensee in Section 2 and 6.3 herein. Except for
+the rights set forth in Sections 2 and 6.3 herein, Licensee is not permitted to modify or otherwise
+make derivative works of the Software or other SAP Materials.
+
+6.2 Protection of Rights. Licensee shall not copy, translate, disassemble, decompile, nor reverse
+engineer the Software or other SAP Materials. Licensee shall not create or attempt to create the
+source code from the object code of the Software or other SAP Materials. Licensee is permitted to
+back up data in accordance with good information technology practice and for this purpose to create
+the necessary backup copies of the Software. Backup copies on transportable discs or other data
+media must be marked as backup copies and bear the same copyright and authorship notice as the
+original discs or other data media, unless technically infeasible. Licensee must not change or remove
+SAP’s copyright, trade mark and authorship notices.
+
+6.3 ModificationsZAdd-ons.
+
+6.3.1 Licensee shall comply with SAP’s registration procedure prior to making Modifications or Add—
+ons. All Modifications and all rights associated therewith shall be the exclusive property of SAP, SAP
+SE or its or their licensors. All Add—ons developed by SAP (either independently or jointly with
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 4 of 8
+
+Licensee) and all rights associated therewith shall be the exclusive property of SAP, SAP SE or its or
+their licensors. Licensee agrees to execute those documents reasonably necessary to secure SAP’s
+rights in the foregoing Modifications and Add-ons. All Add-ons developed by or on behalf of Licensee
+without SAP’s participation (“Licensee Add-on”), and all rights associated therewith, shall be the
+exclusive property of Licensee subject to SAP’s rights in and to the Software and SAP Materials;
+provided, Licensee shall not commercialize, market, distribute, license, sublicense, transfer, assign or
+otherwise alienate any such Licensee Add—ons. SAP retains the right to independently develop its own
+Modifications or Add-ons to the Software, and Licensee agrees not to take any action that would limit
+SAP’s sale, assignment, licensing or use of its own Software or Modifications or Add-ons thereto.
+
+6.3.2 Any Modification developed by or on behalf of Licensee without SAP’s participation or Licensee
+Add-on must not (and subject to other limitations set forth herein): enable the bypassing or
+circumventing any of the restrictions set forth in this Agreement and/or provide Licensee with access
+to the Software to which Licensee is not directly licensed; nor unreasonably impair, degrade or reduce
+the performance or security of the Software; nor render or provide any information concerning SAP
+software license terms, Software, or any other information related to SAP Materials.
+
+6.3.3 Licensee covenants, on behalf of itself and its successors and assigns, not to assert against SAP
+or its affiliated companies, or their resellers, distributors, suppliers, commercial partners and
+customers, any rights in any (i) Licensee Add-ons or Modifications, or (ii) other functionality of the
+SAP Software accessed by such Licensee Add-ons or Modifications.
+
+7. PERFORMANCE WARRANTY.
+
+7.1 Warranty. SAP warrants that the Software will substantially conform to the specifications
+contained in the Documentation for six months following delivery. The warranty shall not apply: (i) if
+the Software is not used in accordance with the Documentation; or (ii) if the defect is caused by a
+Modification or Add-on (other than a Modification or Add-on made by SAP and which is provided
+through SAP Support or under warranty), Licensee or third-party software; or (iii) to any Licensee
+unlicensed activities. SAP does not warrant that the Software will operate uninterrupted or that it will
+be free from minor defects or errors that do not materially affect such performance, or that the
+applications contained in the Software are designed to meet all of Licensee's business requirements.
+Provided Licensee notifies SAP in writing with a specific description of the Software’s nonconformance
+within the warranty period and SAP validates the existence of such nonconformance, SAP will, at its
+option: a) repair or replace the nonconforming Software, or b) refund the license fees paid for the
+applicable nonconforming Software in exchange for a return of such nonconforming Software. This is
+Licensee’s sole and exclusive remedy under this warranty.
+
+7.2 EXQreSS Disclaimer. SAP AND ITS LICENSORS DISCLAIM ALL OTHER WARRANTIES EXPRESS OR
+IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY,
+MERCHANTABLE QUALITY OR FITNESS FOR A PARTICULAR PURPOSE EXCEPT TO THE EXTENT THAT
+ANY WARRANTIES IMPLIED BY LAW CANNOT BE VALIDLY WAIVED.
+
+8. THIRD PARTY CLAIMS.
+
+8.1 Infringement and Defense of Licensee. SAP shall defend Licensee against claims brought
+against Licensee in Canada by any third party alleging that Licensee's Use of the Software, in
+accordance with the terms and conditions of this Agreement, constitutes a direct infringement or
+misappropriation of such third party’s Canadian patent claim(s), copyright or trade secret rights, and
+SAP will pay damages finally awarded against Licensee (or the amount of any settlement SAP enters
+into) with respect to such claims. This obligation of SAP shall not apply if the alleged infringement or
+misappropriation results from (i) Use of the Software in conjunction with any other software; (ii) Use
+of the Software with an apparatus other than a Designated Unit; (iii) failure to promptly use an update
+provided by SAP if such infringement or misappropriation could have been avoided by use of the
+update; or (iv) any Use not permitted by this Agreement. This obligation of SAP also shall not apply if
+Licensee fails to timely notify SAP in writing of any such claim; however Licensee’s failure to provide
+or delay in providing such notice shall not relieve SAP of its obligations under this Section except to
+the extent SAP is prejudiced by Licensee’s failure to provide or delay in providing such notice. SAP is
+permitted to control fully the defense and any settlement of any such claim as long as such settlement
+shall not include a financial obligation on or admission of liability by Licensee. In the event Licensee
+declines SAP’s proffered defense, or otherwise fails to give full control of the defense to SAP’s
+designated counsel, then Licensee waives SAP’s obligations under this Section 8.1. Licensee shall
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 5 of 8
+
+reasonably cooperate in the defense of such claim and may appear, at its own expense, through
+counsel reasonably acceptable to SAP. SAP expressly reserves the right to cease such defense of any
+c|aim(s) in the event the Software is no longer alleged to infringe or misappropriate, or is held not to
+infringe or misappropriate, the third party’s rights. SAP may settle or mitigate damages from any
+claim or potential claim by substituting alternative substantially equivalent non—infringing programs
+and supporting documentation for the Software. Licensee shall not undertake any action in response
+to any infringement or misappropriation, or alleged infringement or misappropriation of the Software
+that is prejudicial to SAP’s rights.
+
+8.2 THE PROVISIONS OF THIS SECTION 8 STATE THE SOLE, EXCLUSIVE, AND ENTIRE LIABILITY OF
+SAP AND ITS LICENSORS TO LICENSEE, AND IS LICENSEE'S SOLE REMEDY, WITH RESPECT TO THE
+INFRINGEMENT OR MISAPPROPRIATION OF THIRD-PARTY INTELLECTUAL PROPERTY RIGHTS.
+
+9. LIMITATIONS OF LIABILITY.
+
+9.1 Not Resgonsible. SAP and its licensors will not be responsible under this Agreement (i) if the
+Software is not used in accordance with the Documentation; or (ii) if the defect or liability is caused by
+Licensee, a Modification or Add-on (other than a Modification or Add-on made by SAP which is
+provided through SAP Support or under warranty), or third-party software; or (iii) if the Software is
+used in conjunction with any third party software for which the Licensee lacks sufficient rights from
+the third party vendor for such use; or (iv) for any Licensee activities not permitted under this
+Agreement. SAP AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY CLAIMS OR DAMAGES
+ARISING FROM INHERENTLY DANGEROUS USE OF THE SOFTWARE AND/OR THIRD—PARTY SOFTWARE
+LICENSED HEREUNDER.
+
+9.2 Exclusion of Damages; Limitation of Liability. ANYTHING TO THE CONTRARY HEREIN
+NOTWITHSTANDING, EXCEPT FOR (I) DAMAGES RESULTING FROM (a) UNAUTHORIZED USE OR
+DISCLOSURE OF CONFIDENTIAL INFORMATION; OR (b)DEATH OR PERSONAL INJURY ARISING FROM
+EITHER PARTY’S GROSS NEGLIGENCE OR ARISING FROM EITHER PARTY’S WILLFUL MISCONDUCT;
+OR (II) SAP’S OBLIGATIONS UNDER SECTION 8.1; OR (III) SAP’S RIGHT TO COLLECT UNPAID FEES,
+UNDER NO CIRCUMSTANCES AND REGARDLESS OF THE NATURE OF ANY CLAIM SHALL SAP, ITS
+LICENSORS OR LICENSEE BE LIABLE TO EACH OTHER OR ANY OTHER PERSON OR ENTITY FOR AN
+AMOUNT IN EXCESS OF THE PAID LICENSE FEES FOR THE SOFTWARE DIRECTLY CAUSING THE
+DAMAGES OR BE LIABLE IN ANY AMOUNT FOR LOSS OF GOOD WILL OR PROFITS, WORK STOPPAGE,
+DATA LOSS, COMPUTER FAILURE OR MALFUNCTION, LEGAL FEES, COURT COSTS, INTEREST OR
+EXEMPLARY OR PUNITIVE DAMAGES, AND/OR FOR ANY AND ALL SPECIAL, INCIDENTAL,
+CONSEQUENTIAL, OR INDIRECT DAMAGES.
+
+9.3 Exclusions and Limitations for Third Party Software. SUBJECT TO THE EXCLUSION OF DAMAGES
+STATED IN SECTION 9.2 AND WITH RESPECT TO THIRD PARTY SOFTWARE, UNDER NO
+CIRCUMSTANCES AND REGARDLESS OF THE NATURE OF ANY CLAIM SHALL SAP OR ITS LICENSORS’
+BE LIABLE FOR AN AMOUNT IN EXCESS OF THE PAID LICENSE FEES FOR THE THIRD PARTY
+SOFTWARE DIRECTLY CAUSING THE DAMAGES.
+
+9.4 The provisions of this Agreement allocate the risks between SAP and Licensee. The license fees
+reflect this allocation of risk and the limitations of liability herein.
+
+10. CONFIDENTIALITY.
+
+10.1 Use of Confidential Information. Confidential Information shall not be reproduced in any form
+except as required to accomplish the intent of this Agreement. Any reproduction of any Confidential
+Information of the other shall remain the property of the disclosing party and shall contain any and all
+confidential or proprietary notices or legends which appear on the original. With respect to the
+Confidential Information of the other, each party : (a) shall take all Reasonable Steps (defined below)
+to keep all Confidential Information strictly confidential; and (b) shall not disclose any Confidential
+Information of the other to any person other than its bona fide individuals whose access is necessary
+to enable it to exercise its rights and/or perform its obligations hereunder, and who are under
+obligations of confidentiality substantially similar to those set forth herein. As used herein “Reasonable
+Steps” means those steps the receiving party takes to protect its own similar proprietary and
+confidential information, which shall not be less than a reasonable standard of care. Confidential
+Information of either party disclosed prior to execution of this Agreement shall be subject to the
+protections afforded hereunder.
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 6 of 8
+
+10.2 Excegtions. The above restrictions on the use or disclosure of the Confidential Information shall
+not apply to any Confidential Information that: (a) is independently developed by the receiving party
+without reference to the disclosing partyâ€™s Confidential Information, or is lawfully received free of
+restriction from a third party having the right to furnish such Confidential Information; (b) has become
+generally available to the public without breach of this Agreement by the receiving party; (c) at the
+time of disclosure, was known to the receiving party free of restriction; or (cl) the disclosing party
+agrees in writing is free of such restrictions.
+
+10.3 Confidential Terms and Conditions; Publicity. Licensee shall not disclose the terms and
+conditions of this Agreement or the pricing contained herein to any third party. Neither party shall use
+the name of the other party in publicity, advertising, or similar activity, without the prior written
+consent of the other, except that Licensee agrees that SAP and its affiliated companies may use
+Licensee's name in customer listings or, at times mutually agreeable to the parties, as part of SAP's
+marketing efforts (including without limitation reference calls and stories, press testimonials, site
+visits, SAPPHIRE participation). SAP will make reasonable efforts to avoid having the reference
+activities unreasonably interfere with Licensee's business. Licensee agrees that SAP may share
+information on Licensee with its affiliated companies for marketing and other business purposes and
+that Licensee has secured permission from its employees to allow SAP to share business contact
+information with its affiliates.
+
+11. ASSIGNMENT.
+
+Licensee may not, without SAP's prior written consent, assign, delegate, pledge, or otherwise transfer
+this Agreement, or any of its rights or obligations under this Agreement, or the SAP Materials or SAP
+Confidential Information, to any party, whether voluntarily or by operation of law, including by way of
+sale of assets, merger or consolidation. SAP may assign this Agreement to any of its affiliates.
+
+12. GENERAL PROVISIONS.
+
+12.1 Severability. It is the intent of the parties that in case any one or more of the provisions
+contained in this Agreement shall be held to be invalid or unenforceable in any respect, such invalidity
+or unenforceability shall not affect the other provisions of this Agreement, and this Agreement shall be
+construed as if such invalid or unenforceable provision had never been contained herein.
+
+12.2 No Waiver. If either party should waive any breach of any provision of this Agreement, it shall
+
+not thereby be deemed to have waived any preceding or succeeding breach of the same or any other
+provision hereof.
+
+12.3 Counterparts. This Agreement may be signed in two counterparts, each of which shall be
+deemed an original and which shall together constitute one Agreement. Signatures sent by electronic
+means (facsimile, scanned and sent via e-mail, or signed by electronic signature service where legally
+permitted) shall be deemed original signatures.
+
+12.4 Regulatory Matters. The Software, Documentation and SAP Materials are subject to the export
+control laws of various countries, including without limit the laws of Canada, the United States and
+Germany. Licensee agrees that it will not submit the Software, Documentation or other SAP Materials
+to any government agency for licensing consideration or other regulatory approval without the prior
+written consent of SAP, and will not export the Software, Documentation and SAP Materials to
+countries, persons or entities prohibited by such laws. Licensee shall also be responsible for
+complying with all applicable governmental regulations of the country where Licensee is registered,
+and any foreign countries with respect to the use of the Software, Documentation or other SAP
+Materials by Licensee and/or its Affiliates.
+
+12.5 Arbitration. Except for the right of either party to apply to a court of competent jurisdiction for
+an interim or interlocutory injunction or other provisional remedy to preserve the status quo or
+prevent irreparable harm pending final award of the arbitrator, any controversy or claim arising out of
+or relating to this Agreement, other than as to the ownership of any intellectual property right(s) in
+Proprietary Information, shall be finally settled by arbitration in Toronto, Ontario, in accordance with
+the Ontario Arbitrations Act, and judgment upon the award rendered by the arbitrator may be entered
+in any court having jurisdiction thereof. If the parties fail to appoint the arbitrator within ten (10)
+days of service of a notice of intention to arbitrate (which notice shall include a description of the
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 7 of 8
+
+claim, a concise statement of the facts supporting it and the relief sought), either party may apply to a
+judge of the Ontario Court of Justice (General Division) for the appointment of such arbitrator. The
+arbitrator shall have a background or training in computer |aw, computer science, or marketing of
+computer products. The written decision and reasons of the arbitrator shall be communicated to the
+parties no later than thirty (30) days after the close of argument in the arbitration.
+
+12.6 Governing Law; Limitations Period. This Agreement and any claims arising out of or relating to
+this Agreement and its subject matter shall be governed by and construed under the laws of the
+Province of Ontario, without reference to its conflicts of law principles. In the event of any conflicts
+between foreign law, rules, and regulations, and Canadian law, rules, and regulations, Canadian law,
+rules, and regulations shall prevail and govern. The United Nations Convention on Contracts for the
+International Sale of Goods shall not apply to this Agreement. The Uniform Computer Information
+Transactions Act as enacted shall not apply. Licensee must initiate a cause of action for any claim(s)
+arising out of or relating to this Agreement and its subject matter within one (1) year from the date
+when Licensee knew, or should have known after reasonable investigation, of the facts giving rise to
+the claim(s).
+
+12.7 Notices. All notices or reports which are required or may be given pursuant to this Agreement
+shall be in writing and shall be deemed cluly given when delivered to the respective executive offices
+of SAP and Licensee at the addresses first set forth in any Software Order Form. Where in this Section
+12.7 or elsewhere in this Agreement a written form is required, except for any notice of termination or
+notice of a material breach which shall occur by exchange of |etter(s), that requirement can be met by
+facsimile transmission, exchange of letters or other written form, including email.
+
+12.8 Force Majeure. Any delay or nonperformance of any provision of this Agreement (other than for
+the payment of amounts due hereunder) caused by conditions beyond the reasonable control of the
+performing party shall not constitute a breach of this Agreement, and the time for performance of
+such provision, if any, shall be deemed to be extended for a period equal to the duration of the
+conditions preventing performance.
+
+12.9 Entire Agreement. This Agreement constitutes the complete and exclusive statement of the
+agreement between SAP and Licensee, and all previous representations, discussions, and writings are
+merged in, and superseded by this Agreement and the parties disclaim any reliance on any such
+representations, discussions and writings. This Agreement may be modified only by a writing signed
+by both parties. This Agreement shall prevail over any additional, conflicting, or inconsistent terms
+and conditions which may appear on any purchase order or other document furnished by Licensee to
+SAP. This Agreement shall prevail over any additional, conflicting or inconsistent terms and conditions
+which may appear in any clickwrap end user agreement included in the Software. Signatures sent by
+electronic means (facsimile or scanned and sent via e-mail) shall be deemed original signatures. This
+Agreement does not create any partnership, joint venture or principaI—and—agent relationship.
+
+12.10Hierarchy. The following order of precedence shall be applied in the event of conflict or
+inconsistency between provisions of the components of this Agreement: (i) the Software Order Form;
+(ii) the Schedules; (iii) the GTC; and (iv) the Use Terms; except with respect to third party pass-
+through terms for Third Party Software stated in the Use Terms, in which case the Use Terms prevail
+over any conflict or inconsistency in any component of this GTC solely with respect to such third party
+pass-through terms.
+
+SAP General Terms and Conditions enCA.v.10-2017 Page 8 of 8
+

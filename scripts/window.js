@@ -23,16 +23,35 @@ $(() => {
   */
   const loadEula = (path) => {
 
-    let content = fs.readFileSync(path, { encoding: 'utf8' });
-
-    let contentSplit = content.split('\n');
-    let htmlElement = '';
-    contentSplit.forEach(c => {
-      htmlElement += `<p>${c}</p>`;
-    });
-
     $('#preview-content').empty();
-    $('#preview-content').append(htmlElement);
+
+		let content = fs.readFileSync(path, { encoding: 'utf8' });
+		let contentSplit = content.split('\n');
+
+    let i = 0;
+    let p = '';
+    while(i < contentSplit.length) {
+
+      let l = contentSplit[i];
+
+			if (l !== '') {
+				p += `<span>${l}</span>&nbsp;`
+			} else {
+
+				let htmlElement;
+
+				if (p !== '') {
+					htmlElement = `<p>${p}</p>`;
+					$('#preview-content').append(htmlElement);
+					p = '';
+				}
+
+				htmlElement = `<p><span> </span></p>`;
+				$('#preview-content').append(htmlElement);
+			}
+
+      i++;
+    };
   };
 
   /*  List EULAs from eulas folder.
@@ -146,7 +165,7 @@ $(() => {
 
       PARAMS
         results (array of objects): information on paragraphs
-          text (string)
+          id (string)
           weight (float)
         query (object): see return of getSelectedQueries
 
@@ -155,23 +174,24 @@ $(() => {
   */
   const displayResults = (results, query) => {
 
-    let bestResult = results[0];
-    // if (bestResult.weight < 0.3) return;
+    if (results.length === 0) {
+      console.log('no result found');
+      return;
+    }
 
-    let ps = $('#preview-content p');
+		let els = $('#preview-content span');
 
-    for (let i = 0 ; i < ps.length ; i++) {
-      pElement = $(ps[i]);
+    let bestResults = results.filter(r => r.weight >= 0.3);
+		bestResults.forEach(r => {
+	    let el = $(els[r.id]);
 
-      if (pElement.text() === bestResult.text) {
-        pElement.addClass('eula-paragraph');
-        pElement.addClass(query.style);
+			el.addClass('eula-paragraph');
+			el.addClass(query.style);
 
-        let tooltip = `<div class="tooltip"> query: ${query.text} <br> confidence: ${bestResult.weight} </div>`;
+			let tooltip = `<div class="tooltip"> query: ${query.text} <br> confidence: ${r.weight} </div>`;
 
-        pElement.append(tooltip);
-      }
-    };
+			el.append(tooltip);
+		});
   }
 
   /*  Fetch information in an EULA.
@@ -186,7 +206,7 @@ $(() => {
 
     let child_process = require('child_process');
 
-    let scriptPath = path.join(__dirname, 'scripts', 'IR_better.py');
+    let scriptPath = path.join(__dirname, 'scripts', 'IR_better_v2.py');
     let process = child_process.spawn('python', [ scriptPath, $('#select-eulas').val(), query.text ]);
 
     let stdout = '';
@@ -211,7 +231,7 @@ $(() => {
         if (!infoStr[0]) return;
 
         let info = {
-          text: infoStr[0],
+          id: infoStr[0],
           weight: parseFloat(infoStr[1])
         };
 
@@ -263,7 +283,7 @@ $(() => {
 
     // clean previous analysis
     $('.tooltip').remove();
-    $('#preview-content p').removeClass((i, className) => className);
+    $('#preview-content span').removeClass((i, className) => className);
 
     // perform analysis
     selectedQueries.forEach(q => {

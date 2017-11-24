@@ -1,81 +1,349 @@
-end user licence agreement eula please read this carefully before continuing before clicking start downloading the software you should carefully read the terms and conditions this licence agreement
-downloading you are agreeing legally bound the terms and conditions this licence agreement and agree become licensee
-you not agree all the terms and conditions this licence agreement you should not download use the software
-when you accept the terms and conditions this licence agreement downloading accepting the licence terms conditions countersoft limited the licensor shall immediately grant you the licensee limited nonexclusive nontransferrable licence use the software and any and all accompanying documentation the software subject the terms and conditions this licence agreement
-you warrant and represent the licensor that this eula shall binding upon you the licensee and that the individual agreeing bound under the terms and conditions this eula authorized has been empowered and more than years age and fully able and competent enter into the terms conditions obligations affirmations representations and warranties set forth this eula and abide and comply with the terms and conditions contained herein when you use the software the licensor may collect certain information about your computer facilitate evaluate and verify your use the software which may sent computer designated the licensor for its own internal use and shall not shared with any third parties
-this information collected the aggregate form without identifying any user individually for the purpose performance and error diagnostics and for improving the software providing you with better service and more relevant experience
-indicated above you not desire accept this eula agree the terms and conditions this eula you should not download use the software
-the software will continue work even your computer not connected the internet your firewall policies not allow such information sent the licensors computer
-you acknowledge and agree that you are not owner the software any copies the software that you have right further transfer distribute the software any copies the software provide access the software any manner without the licensors prior written consent
-you further agree not challenge the enforceability validity this eula initiate any proceedings inconsistent with the terms and conditions this eula
-this eula has been prepared the english language and the interpretation this eula shall based the english language
-any nonenglish version this eula solely for accommodation purposes
-use the software this licence agreement use shall defined including the installation the software copying transmitting loading into the permanent memory computer other device each computer for the processing the system instructions statements contained the software
-use shall also include copying the software machinereadable form for the countersoft limited gemini eula purposes understanding the contents such machinereadable material which may known reverseengineering
-maximum one copy the software may made for backup andor disaster recovery purposes only
-nature the software the software commercially licensed software
-not opensource freeware shareware
-the licensor may demand licence fee for use the software accordance with this licence agreement and only the licensor may waive payment for the software
-licensees undertakings accepting the terms and conditions this licence agreement you hereby undertake not copy the software except permitted subclause not disassemble decompile otherwise reverseengineer the software not install the software more than one computers any one time violation this licence agreement ensure that your employees agents and other parties under your control who will use the software accordance with the terms and conditions this licence agreement and are accordingly notified the same reproduce and include any and all copyright notices the licensor they appear the software and any and all copies thereof not create any derivative competing product based upon this software not permit facilitate the use the software any manner which would constitute breach the terms and conditions this licence agreement not place distribute the software any website ftp server similar location without the express prior written consent the licensor not use the software for any purpose which may deemed immoral illegal offensive threatening abusive otherwise harmful and 310 not remove otherwise obscure any copyright notices the licensor displayed within the software
-transferring the software the software licensed only you the licensee
-you may not rent lease sublicence sell assign pledge transfer otherwise dispose the software temporary permanent basis without the prior written consent the licensor
-limited warranty subject the limitations and exclusions liability below the licensor warrants make best endeavours ensure that the software materially conforms with any documentation that accompanies subject subclause the software provided without any warranty any kind whether express implied including but not limited the implied warranties merchantability fitness for particular purpose title and noninfringement
-countersoft limited gemini eula you acknowledge that any trial free version the software may have limited features function for limited time have other limitations include features not present nontrial paid for version the software
-the licensor does not warrant that the software will errorfree that such errors will corrected and the licensee solely responsible for all costs and expenses associated with the rectification repair damage caused such errors
-the licensor shall not liable the software fails operate accordance with the limited warranty set out subclause result any modification variation addition the software not performed the licensor caused any abuse corruption incorrect use the software including use the software with equipment other software which incompatible
-the event that the licensor incurs any liability any kind that liability shall limited the licence fee paid the licensee for the software
-nothing this clause nor the remainder this licence agreement shall limit exclude the licensors liability for death personal injury arising out the licensors negligence nor for fraudulent misrepresentation
-the software may contain libraries utilities other binary executable files belonging third parties
-any illegal reuse redistributable libraries utilities other binary executable files belonging 3rd parties shall leave you the licensee solely liable for damages and breach third party software license agreements
-you agree defend indemnify and hold licensor its affiliates subsidiaries officers directors employees consultants agents suppliers licensors and resellers from any and all third party claims whether foreign domestic and any and all liability damages andor costs including but not limited reasonable attorney fees arising from your use the software and the distribution the same
-your statutory rights this licence agreement gives you specific legal rights and you may also have other rights that vary from one country another
-some jurisdictions not allow the exclusion implied warranties certain kinds limitations exclusions liability the limitations and exclusions included this licence agreement may not apply you
-other jurisdictions allow limitations and exclusions subject certain conditions
-either case the limitations and exclusions included this licence agreement shall apply the fullest extent permitted the laws such applicable jurisdictions
-any part the limitations exclusions this licence agreement held void unenforceable such part shall deemed deleted from this licence agreement and the remainder the limitation exclusion shall continue full force and effect
-any rights that you may have consumer purchaser for private opposed business academic government use are not affected
-intellectual property rights the software and related documentation are copyright works authorship and are also protected under applicable database laws
-the licensor retains ownership the software all subsequent copies the software and all intellectual property rights subsisting therein regardless the form which such copies may exist
-this licence agreement not sale the original software any copies thereof
-countersoft limited gemini eula term and termination this licence agreement effective until terminated
-you may terminate any time destroying the software together with all copies any form
-this licence agreement shall also terminate upon conditions set out elsewhere this licence agreement you fail comply with any the terms and conditions this licence agreement
-you agree that upon such termination you will destroy the software including any copies whatever form
-refunds full partial are not provided you are requested fully evaluate the software before purchasing using what can construed live production operational environment
-may terminate this licence agreement immediately and without notice reasonably suspect that you are using the software for any purpose which contravenes the laws the country registration the licensor
-each party irrevocably agrees that the courts the country registration the licensor its subsidiary office reseller which issues invoice for the software shall have exclusive jurisdiction resolve any controversy claim whatever nature arising out relation this licence agreement and the place performance this licence agreement shall that country and the laws that country shall govern such controversy claim
-this licence agreement constitutes the complete and exclusive statement the licence agreement between the licensor and you with respect the subject matter this licence agreement and supersedes all proposals representations understandings and prior agreements whether oral written and all other communications between relating that subject matter
-any clause this licence agreement that found invalid unenforceable shall deemed deleted and the remainder this licence agreement shall not affected that deletion
-failure neglect either party exercise any its rights remedies under this licence agreement will not construed waiver that partys rights nor any way affect the validity off the whole part this licence agreement nor prejudice that partys right take subsequent action
-this licence agreement personal you and subject clause you may not assign transfer subcontract otherwise part with this licence agreement any right obligation under without the licensors prior written consent
-revisions licensing terms reserve the right revise the terms this license updating the license our website informing you via email
-recommended that you routinely check the following website link uptodate license agreement httpwwwcountersoftcomeulapdf your use the software shall deemed constitute the acceptance any revised terms
-general countersoft limited gemini eula software support all versions the software purchased directly from the licensor are provided with months support via email and free access the licensors documentation and other software support websites such online helpdesk product support
-regardless whether the software has been purchased directly from the licensor reseller customers must renew their annual support and maintenance agreement after the initial month period continue entitled product support
-customers who have purchased the software and are entitled product support will also entitled upgrades and new releases the package they purchased additional cost
-product support for different versions express and professional package customers are entitled free email support where the licensor will endeavour respond emails within hours
-telephone and gotomeeting based support are not available express and professional package customers
-premium package customers are entitled free email and telephone support
-the licensor will endeavour respond emails within hours
-telephone support available between the hours 8am and 9pm gmt and limited maximum two phone calls per week
-gotomeeting based support not available premium package customers
-enterprise package customers are entitled free email telephone and gotomeeting support
-the licensor will endeavour respond emails within hours
-telephone support available between the hours 8am and 9pm gmt and limited maximum four phone calls per week
-gotomeeting support will delivered mutually agreed times and will limited maximum two sessions per calendar month with maximum duration one hour per session
-reserve the right withdraw refuse telephone support without notice
-you accept that although will use reasonable endeavours solve problems identified purchasers the software the nature software such that guarantee can provided that any particular problem will solved
-renewal license required within six months expiry
-failure renew within months expiry means the licensee forgoes any entitlement renew the expired license and would required the licensor purchase new license obtain product support
-privacy and data collection may contact you inform you product updates new products and you consent such use your personal data
-your contact details email address will never disclosed any other party
-not expose any data held within the software any external sources
-reserve the right sell the assets our business transfer personal data the new owners where required law countersoft limited gemini eula not sell otherwise disclose your email address
-reserve the right the display your corporate logo our website solely for demonstrating our client credentials
-your written request will remove any such logo used our website within days
-software usage tracking may collect software usage metrics for the sole purposes product research and development
-purchasers the software can opt out software usage metrics requesting removal via usagecountersoftcom
-acceptance licence you will deemed have accepted the terms the licence downloading installing using the software any computer clicking the accept button
-any questions concerning this licence agreement the software should directed the licensor
-contact details are available from httpwwwcountersoftcom
-countersoft limited gemini eula 
+END USER LICENCE AGREEMENT ("EULA")
+PLEASE READ THIS CAREFULLY BEFORE CONTINUING
+
+BEFORE CLICKING TO START DOWNLOADING THE SOFTWARE YOU SHOULD
+CAREFULLY READ THE TERMS AND CONDITIONS OF THIS LICENCE AGREEMENT.
+BY DOWNLOADING YOU ARE AGREEING TO BE LEGALLY BOUND BY THE TERMS
+AND CONDITIONS OF THIS LICENCE AGREEMENT AND AGREE TO BECOME A
+LICENSEE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS OF
+THIS LICENCE AGREEMENT YOU SHOULD NOT DOWNLOAD OR USE THE
+SOFTWARE.
+
+When you accept the terms and conditions of this Licence Agreement by downloading or
+accepting the licence terms & conditions, COUNTERSOFT LIMITED (the “Lioensor”) shall
+immediately grant you (the “Licensee”) a limited, non-exclusive, non-transferrable licence to
+Use the software and any and all accompanying documentation (the “Software”) subject to
+the terms and conditions of this Licence Agreement.
+
+You warrant and represent to the Licensor that this EULA shall be binding upon you the
+Licensee, and that the individual agreeing to be bound under the terms and conditions of this
+EULA is authorized or has been empowered to do so and is more than 18 years of age and
+is fully able and competent to enter into the terms, conditions, obligations, affirmations,
+representations, and warranties set forth in this EULA, and to abide by and comply with the
+terms and conditions contained herein
+
+When you use the Software, the Licensor may collect certain information about your
+computer to facilitate, evaluate and verify your use of the Software, which may be sent to a
+computer designated by the Licensor for its own internal use and shall not be shared with
+any third parties. This information is collected in the aggregate form, without identifying any
+user individually, for the purpose of performance and error diagnostics and for improving the
+Software to providing you with a better service and more relevant experience. As indicated
+above, if you do not desire to accept this EULA or agree to the terms and conditions of this
+EULA, you should not download or use the software. The software will continue to work even
+if your computer is not connected to the Internet or if your firewall policies do not allow such
+information to be sent to the Licensor’s computer.
+
+You acknowledge and agree that you are not an owner of the Software or any copies of the
+Software; that you have no right to further transfer or distribute the Software or any copies of
+the Software or provide access to the Software in any manner without the Lioensor’s prior
+written consent. You further agree not to challenge the enforceability or validity of this EULA
+or to initiate any proceedings inconsistent with the terms and conditions of this EULA.
+
+This EULA has been prepared in the English language and the interpretation of this EULA
+shall be based on the English language. Any non-English version of this EULA is solely for
+accommodation purposes.
+
+1. Use of the Software
+
+1.1 In this Licence Agreement, “Use” shall be defined as including the installation
+of the Software by copying, transmitting or loading it into the permanent
+memory of a computer or other device (each a “Computer”) for the processing
+of the system instructions or statements contained in the Software. “Use”
+shall also include copying the Software in machine-readable form for the
+
+COUNTERSOFT LIMITED - GEMINI EULA 1
+
+purposes of understanding the contents of such machine-readable material
+(which may be known as reverse-engineering).
+
+1.2 A maximum of ONE copy of the Software may be made for back-up and/or
+disaster recovery purposes only.
+2. Nature of the Software
+
+The Software is commercially licensed software. It is not open-source, freeware or
+shareware. The Licensor may demand a licence fee for Use of the Software in
+accordance with this Licence Agreement and only the Licensor may waive payment
+for the software.
+
+3. Licensee’s Undertakings
+
+By accepting the terms and conditions of this Licence Agreement you hereby
+
+undertake:
+
+3.1 Not to copy the Software except as permitted by sub-Clause 1.2;
+
+3.2 Not to disassemble, decompile or othenNise reverse-engineer the Software;
+
+3.3 Not to install the Software on more than ONE Computer(s) at any one time in
+violation of this Licence Agreement;
+
+3.4 To ensure that your employees, agents and other parties under your control
+who will use the Software do so in accordance with the terms and conditions
+of this Licence Agreement and are accordingly notified of the same;
+
+3.5 To reproduce and include any and all copyright notices of the Licensor as they
+appear in or on the Software and any and all copies thereof;
+
+3.6 Not to create any derivative or competing product based upon this software;
+
+3.7 Not to permit or facilitate the Use of the Software in any manner which would
+constitute a breach of the terms and conditions of this Licence Agreement;
+
+3.8 Not to place or distribute the Software on any website, ftp server or similar
+location without the express prior written consent of the Licensor;
+
+3.9 Not to Use the Software for any purpose which may be deemed immoral,
+illegal, offensive, threatening, abusive or othenNise harmful; and
+
+3.10 Not to remove or othenNise obscure any copyright notices of the Licensor
+displayed within the software.
+
+4. Transferring the Software
+4.1 The Software is licensed only to you the Licensee. You may not rent, lease,
+
+sub-licence, sell, assign, pledge, transfer or othenNise dispose of the
+Software, on a temporary or permanent basis, without the prior written consent
+of the Licensor.
+
+5. Limited Warranty
+
+5.1
+
+5.2
+
+Subject to the limitations and exclusions of liability below, the Licensor
+warrants to make best endeavours to ensure that the Software materially
+conforms with any documentation that accompanies it.
+
+Subject to sub-Clause 5.1, the Software is provided “as is” without any
+warranty of any kind, whether express or implied, including but not limited to
+the implied warranties of merchantability, fitness for a particular purpose, title
+and non-infringement.
+
+COUNTERSOFT LIMITED - GEMINI EULA 2
+
+5.3 You acknowledge that any Trial or Free version of the software may have
+limited features, function for a limited time, have other limitations or include
+features not present in a non-trial or paid for version of the software.
+
+5.4 The Licensor does not warrant that the Software will be error-free or that such
+errors will be corrected and the Licensee is solely responsible for all costs and
+expenses associated with the rectification, repair or damage caused by such
+errors.
+
+5.5 The Licensor shall not be liable if the Software fails to operate in accordance
+with the limited warranty set out in sub-Clause 5.1 as a result of any
+modification, variation or addition to the Software not performed by the
+Licensor or caused by any abuse, corruption or incorrect use of the Software,
+including use of the Software with equipment or other software which is
+incompatible.
+
+5.6 In the event that the Licensor incurs any liability of any kind, that liability shall
+be limited to the licence fee paid by the Licensee for the Software. Nothing in
+this Clause 5 nor in the remainder of this Licence Agreement shall limit or
+exclude the Licensor’s liability for death or personal injury arising out of the
+Licensor’s negligence nor for fraudulent misrepresentation.
+
+5.7 The Software may contain libraries, utilities or other binary executable files
+belonging to third parties. Any illegal re-use of redistributable libraries, utilities
+or other binary executable files belonging to 3ml parties shall leave you the
+Licensee solely liable for damages and breach of third party software license
+agreements.
+
+5.8 You agree to defend, indemnify and hold Licensor, its affiliates, subsidiaries,
+officers, directors, employees, consultants, agents, suppliers, licensors and
+resellers from any and all third party claims, whether foreign or domestic, and
+any and all liability, damages and/or costs including, but not limited to,
+reasonable attorney fees, arising from your Use of the Software and the
+distribution of the same.
+
+6. Your Statutory Rights
+
+This Licence Agreement gives you specific legal rights and you may also have other
+rights that vary from one country to another. Some jurisdictions do not allow the
+exclusion of implied warranties, or certain kinds of limitations or exclusions of liability,
+so the limitations and exclusions included in this Licence Agreement may not apply to
+you. Other jurisdictions do allow limitations and exclusions subject to certain
+conditions. In either case the limitations and exclusions included in this Licence
+Agreement shall apply to the fullest extent permitted by the laws of such applicable
+jurisdictions. If any part of the limitations or exclusions in this Licence Agreement is
+held to be void or unenforceable, such part shall be deemed to be deleted from this
+Licence Agreement and the remainder of the limitation or exclusion shall continue in
+full force and effect. Any rights that you may have as a consumer (Le. a purchaser for
+private as opposed to business, academic or government use) are not affected.
+
+7. Intellectual Property Rights
+
+The Software and related documentation are copyright works of authorship and are
+also protected under applicable database laws. The Licensor retains ownership of
+the Software, all subsequent copies of the Software and all intellectual property rights
+subsisting therein, regardless of the form in which such copies may exist. This
+Licence Agreement is not a sale of the original Software or any copies thereof.
+
+COUNTERSOFT LIMITED - GEMINI EULA 3
+
+8. Term and Termination
+
+8.1
+
+8.2
+
+8.3
+
+8.4
+
+8.5
+
+This Licence Agreement is effective until terminated. You may terminate it at
+any time by destroying the Software together with all copies in any form.
+
+This Licence Agreement shall also terminate upon conditions set out
+elsewhere in this Licence Agreement or if you fail to comply with any of the
+terms and conditions of this Licence Agreement.
+
+You agree that, upon such termination, you will destroy the Software including
+any copies in whatever form.
+
+Refunds full or partial are not provided as you are requested to fully evaluate
+the Software before purchasing it or using it in what can be construed as a
+Live, Production, or Operational environment.
+
+We may terminate this Licence Agreement immediately and without notice if
+we reasonably suspect that you are using the Software for any purpose which
+contravenes the laws of the country of registration of the Licensor.
+
+9. General
+
+9.1
+
+9.2
+
+9.3
+
+9.4
+
+9.5
+
+Each party irrevocably agrees that the courts of the country of registration of
+the Licensor, its subsidiary office, or reseller which issues an invoice for the
+Software, shall have exclusive jurisdiction to resolve any controversy or claim
+of whatever nature arising out of or in relation to this Licence Agreement and
+the place of performance of this Licence Agreement shall be that country and
+the laws of that country shall govern such controversy or claim.
+
+This Licence Agreement constitutes the complete and exclusive statement of
+the Licence Agreement between the Licensor and you with respect to the
+subject matter of this Licence Agreement and supersedes all proposals,
+representations, understandings and prior agreements, whether oral or
+written, and all other communications between us relating to that subject
+matter.
+
+Any Clause in this Licence Agreement that is found to be invalid or
+unenforceable shall be deemed deleted and the remainder of this Licence
+Agreement shall not be affected by that deletion.
+
+Failure or neglect by either party to exercise any of its rights or remedies
+under this Licence agreement will not be construed as a waiver of that party’s
+rights nor in any way affect the validity off the whole or part of this Licence
+Agreement nor prejudice that party’s right to take subsequent action.
+
+This Licence Agreement is personal to you and [subject to Clause 4] you may
+not assign, transfer, sub-oontract or othenNise part with this Licence
+Agreement or any right or obligation under it without the Licensor’s prior
+written consent.
+
+10. Revisions to Licensing Terms
+
+We reserve the right to revise the terms of this License by updating the License on
+our website or informing you via email. It is recommended that you routinely check
+the following website link to up-to-date license agreement:
+
+http_x/lwww.countersoft.oom/eula.Qdf
+
+Your Use of the Software shall be deemed to constitute the acceptance of any
+revised terms.
+
+COUNTERSOFT LIMITED - GEMINI EULA 4
+
+11. Software Support
+
+All versions of the Software purchased directly from the Licensor are provided with 12
+months support via email and free access to the Licensor’s documentation and other
+Software support websites, such as an online helpdesk (“Product Support”).
+Regardless of whether the Software has been purchased directly from the Licensor or
+a reseller, customers must renew their annual support and maintenance agreement
+after the initial 12 month period to continue to be entitled to Product Support.
+
+Customers who have purchased the Software and are entitled to Product Support will
+also be entitled to upgrades and new releases of the package they purchased at no
+additional cost.
+
+Product Support for different versions
+
+Express and Professional package customers are entitled to free email support
+where the Licensor will endeavour to respond to emails within 24 hours. Telephone
+and GoToMeeting based support are not available to Express and Professional
+package customers.
+
+Premium package customers are entitled to free email and telephone support. The
+Licensor will endeavour to respond to emails within 24 hours. Telephone support is
+available between the hours of 8am and 9pm GMT and is limited to a maximum of
+two phone calls per week. GoToMeeting based support is not available to Premium
+package customers.
+
+Enterprise package customers are entitled to free email, telephone and GotoMeeting
+support. The Licensor will endeavour to respond to emails within 24 hours. Telephone
+support is available between the hours of 8am and 9pm GMT and is limited to a
+maximum of four phone calls per week. GoToMeeting support will be delivered at
+mutually agreed times and will be limited to a maximum of two sessions per calendar
+month with a maximum duration of one hour per session.
+
+We reserve the right to withdraw or refuse telephone support without notice.
+
+You accept that, although we will use reasonable endeavours to solve problems
+identified by purchasers of the Software, the nature of software is such that no
+guarantee can be provided that any particular problem will be solved.
+
+Renewal of license is required within six months of expiry. Failure to renew within 6
+months of expiry means the Licensee forgoes any entitlement to renew the expired
+license and would be required by the Licensor to purchase a new license to obtain
+Product Support.
+
+12. Privacy and Data Collection
+
+We may contact you to inform you of product updates or new products and you
+consent to such use of your personal data. Your contact details (email address) will
+never be disclosed to any other party.
+
+We do not expose any data held within the SOFTWARE to any external sources.
+
+We reserve the right if we sell the assets of our business to transfer personal data to
+the new owners or where required by law so to do.
+
+COUNTERSOFT LIMITED - GEMINI EULA 5
+
+We do not sell or otherwise disclose your email address.
+
+We reserve the right the display your corporate logo on our website solely for
+
+demonstrating our client credentials. At your written request we will remove any such
+logo used on our website within 28 days.
+
+13. Software Usage Tracking
+
+We may collect software usage metrics for the sole purposes of product research and
+development. Purchasers of the Software can opt out of software usage metrics by
+
+requesting removal via usage@countersoft.com.
+
+14. Acceptance of Licence
+
+You will be deemed to have accepted the terms of the Licence by downloading,
+installing or using the Software on any computer or by Clicking the ‘I Accept’ button.
+
+Any questions concerning this Licence Agreement or the Software should be directed to the
+Licensor. Contact details are available from httg://www.countersoft.com.
+
+COUNTERSOFT LIMITED - GEMINI EULA 6
+

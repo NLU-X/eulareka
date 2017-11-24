@@ -1,116 +1,226 @@
-cisco end user license agreement effective may 2017 this agreement between you and cisco systems inc
-its affiliates cisco and governs your use cisco software
-you and your means the individual legal entity licensing the software under this eula
-use using means download install activate access otherwise use the software
-software means the cisco computer programs and any upgrades made available you approved source and licensed you cisco
-documentation the cisco user technical manuals training materials specifications other documentation applicable the software and made available you approved source
-approved source means cisco the cisco authorized reseller distributor systems integrator from whom you acquired the software
-entitlement means the license detail including license metric duration and quantity provided product pid published ciscos price list claim certificate right use notification
-upgrades means all updates upgrades bug fixes error corrections enhancements and other modifications the software and backup copies thereof
-this agreement any supplemental license terms and any specific product terms wwwciscocomgosoftwareterms collectively the eula govern your use the software
-acceptance terms
-using the software you agree bound the terms the eula
-you are entering into this eula behalf entity you represent that you have authority bind that entity
-you not have such authority you not agree the terms the eula neither you nor the entity may use the software and may returned the approved source for refund within thirty days the date you acquired the software cisco product
-your right return and refund applies only you are the original end user licensee the software license
-subject payment the applicable fees and compliance with this eula cisco grants you limited nonexclusive and nontransferable license use object code versions the software and the documentation solely for your internal operations and accordance with the entitlement and the documentation
-cisco licenses you the right use only the software you acquire from approved source
-unless contrary applicable law you are not licensed use the software secondhand refurbished cisco equipment not authorized cisco cisco equipment not purchased through approved source
-the event that cisco requires you register end user your license valid only the registration complete and accurate
-the software may contain open source software subject separate license terms made available with the cisco software documentation
-the software licensed for specified term your license valid solely for the applicable term the entitlement
-your right use the software begins the date the software made available for download installation and continues until the end the specified term unless otherwise terminated accordance with this agreement
-2017 cisco systems inc
-all rights reserved
-this document cisco public information
-page controlled doc
-edm122989354 ver30 last modified 05222017 evaluation license
-you license the software receive cisco products for evaluation purposes other limited temporary use authorized cisco evaluation product your use the evaluation product only permitted for the period limited the license key otherwise stated cisco writing
-evaluation period identified the license key writing then the evaluation license valid for thirty days from the date the software cisco product made available you
-you will invoiced for the list price the evaluation product you fail return stop using the end the evaluation period
-the evaluation product licensed asis without support warranty any kind expressed implied
-cisco does not assume any liability arising from any use the evaluation product
-you may not publish any results benchmark tests run the evaluation product without first obtaining written approval from cisco
-you authorize cisco use any feedback ideas you provide cisco connection with your use the evaluation product
-ownership
-cisco its licensors retain ownership all intellectual property rights and the software including copies improvements enhancements derivative works and modifications thereof
-your rights use the software are limited those expressly granted this eula
-other rights with respect the software any related intellectual property rights are granted implied
-limitations and restrictions
-you will not and will not allow third party transfer sublicense assign your rights under this license any other person entity except expressly provided section below unless expressly authorized cisco writing modify adapt create derivative works the software documentation reverse engineer decompile decrypt disassemble otherwise attempt derive the source code for the software except provided section below make the functionality the software available third parties whether application service provider rental service bureau cloud service hosted service other similar basis unless expressly authorized cisco writing use software that licensed for specific device whether physical virtual another device unless expressly authorized cisco writing remove modify conceal any product identification copyright proprietary intellectual property notices other marks within the software third party use software
-you may permit third party use the software licensed you under this eula such use solely your behalf for your internal operations and iii compliance with this eula
-you agree that you are liable for any breach this eula that third party
-2017 cisco systems inc
-all rights reserved
-this document cisco public information
-page controlled doc
-edm122989354 ver30 last modified 05222017 limited warranty and disclaimer
-limited warranty
-cisco warrants that the software will substantially conform the applicable documentation for the longer ninety days following the date the software made available you for your use otherwise set forth httpwwwciscocomgowarranty
-this warranty does not apply the software cisco product any other equipment upon which the software authorized used has been altered except cisco its authorized representative has not been installed operated repaired maintained accordance with instructions supplied cisco iii has been subjected abnormal physical electrical stress abnormal environmental conditions misuse negligence accident licensed for beta evaluation testing demonstration purposes other circumstances for which the approved source does not receive payment purchase price license fee has not been provided approved source
-cisco will use commercially reasonable efforts deliver you software free from any viruses programs programming devices designed modify delete damage disable the software your data
-exclusive remedy
-ciscos option and expense cisco shall repair replace cause the refund the license fees paid for the nonconforming software
-this remedy conditioned you reporting the non
-conformance writing your approved source within the warranty period
-the approved source may ask you return the software the cisco product andor documentation condition this remedy
-this section your exclusive remedy under the warranty
-disclaimer
-except expressly set forth above cisco and its licensors provide software and expressly disclaim all warranties conditions other terms whether express implied statutory including without limitation warranties conditions other terms regarding merchantability fitness for particular purpose design condition capacity performance title and noninfringement
-cisco does not warrant that the software will operate uninterrupted errorfree that all errors will corrected
-addition cisco does not warrant that the software any equipment system network which the software used will free vulnerability intrusion attack
-limitations and exclusions liability
-event will cisco its licensors liable for the following regardless the theory liability whether arising out the use inability use the software otherwise even party been advised the possibility such damages indirect incidental exemplary special consequential damages loss corruption data interrupted loss business loss revenue profits goodwill anticipated sales savings
-all liability cisco its affiliates officers directors employees agents suppliers and licensors collectively you whether based warranty contract tort including negligence otherwise shall not exceed the license fees paid you any approved source for the software that gave rise the claim
-this limitation liability for software cumulative and not per incident
-nothing this agreement limits excludes any liability that cannot limited excluded under applicable law
-2017 cisco systems inc
-all rights reserved
-this document cisco public information
-page controlled doc
-edm122989354 ver30 last modified 05222017 upgrades and additional copies software
-notwithstanding any other provision this eula you are not permitted use upgrades unless you the time acquiring such upgrade already hold valid license the original version the software are compliance with such license and have paid the applicable fee for the upgrade and limit your use upgrades copies use devices you own lease and unless otherwise provided the documentation make and use additional copies solely for backup purposes where backup limited archiving for restoration purposes
-audit
-during the license term for the software and for period three years after its expiration termination you will take reasonable steps maintain complete and accurate records your use the software sufficient verify compliance with this eula
-more than once per twelve month period you will allow cisco and its auditors the right examine such records and any applicable books systems including cisco products other equipment and accounts upon reasonable advanced notice during your normal business hours
-the audit discloses underpayment license fees you will pay such license fees plus the reasonable cost the audit within thirty days receipt written notice
-term and termination
-this eula shall remain effective until terminated until the expiration the applicable license subscription term
-you may terminate the eula any time ceasing use destroying all copies software
-this eula will immediately terminate you breach its terms you fail pay any portion the applicable license fees and you fail cure that payment breach within thirty days notice
-upon termination this eula you shall destroy all copies software your possession control
-transferability
-you may only transfer assign these license rights another person entity compliance with the current cisco relicensingtransfer policy
-any attempted transfer assignment not compliance with the foregoing shall void and effect
-government end users
-the software and documentation are commercial items defined federal acquisition regulation far cfr 2101 consisting commercial computer software and commercial computer software documentation such terms are used far 12212
-consistent with far 12211 technical data and far 12212 computer software and defense federal acquisition regulation supplement dfar 22772021 through 22772024 and notwithstanding any other far other contractual clause the contrary any agreement into which this eula may incorporated government end users will acquire the software and documentation with only those rights set forth this eula
-any license provisions that are inconsistent with federal procurement regulations are not enforceable against the government
-export
-cisco software products technology and services are subject local and extraterritorial export control laws and regulations
-you and cisco each will comply with such laws and regulations governing use export export and transfer software products and technology and will obtain all required local and extraterritorial authorizations permits licenses
-specific export information may found httptoolsciscocomlegalexportpepdsearchdo survival
-sections the warranty limitation and shall survive termination expiration this eula
-2017 cisco systems inc
-all rights reserved
-this document cisco public information
-page controlled doc
-edm122989354 ver30 last modified 05222017 interoperability
-the extent required applicable law cisco shall provide you with the interface information needed achieve interoperability between the software and another independently created program
-cisco will provide this interface information your written request after you pay ciscos licensing fees any
-you will keep this information strict confidence and strictly follow any applicable terms and conditions upon which cisco makes such information available
-governing law jurisdiction and venue
-you acquired the software country territory listed below determined reference the address the purchase order the approved source accepted the case evaluation product the address where product shipped this table identifies the law that governs the eula notwithstanding any conflict laws provision and the specific courts that have exclusive jurisdiction over any claim arising under this eula
-country territory united states latin america the caribbean canada europe excluding italy middle east africa asia oceania excluding australia japan australia italy china all other countries territories governing law state california united states america province ontario canada laws england jurisdiction and venue federal district court northern district california superior court santa clara county california courts the province ontario canada english courts laws japan tokyo district court japan laws the state new south wales state and federal courts new south wales laws italy court milan laws the peoples republic china
-hong kong international arbitration center state california state and federal courts california the parties specifically disclaim the application the convention contracts for the international sale goods
-addition person who not party the eula shall entitled enforce take the benefit any its terms under the contracts rights third parties act 1999
-regardless the above governing law either party may seek interim injunctive relief any court appropriate jurisdiction with respect any alleged breach such partys intellectual property proprietary rights
-integration
-any portion this eula found void unenforceable the remaining provisions the eula shall remain full force and effect
-except expressly stated expressly amended signed agreement the eula constitutes the entire agreement between the parties with respect the license the software and supersedes any conflicting additional terms contained any purchase order elsewhere all which terms are excluded
-the parties agree that the english version the eula will govern the event conflict between and any version translated into another language
-2017 cisco systems inc
-all rights reserved
-this document cisco public information
-page controlled doc
-edm122989354 ver30 last modified 05222017 
+Cisco End User License Agreement
+
+Effective: May 22, 2017
+
+This is an agreement between You and Cisco Systems, Inc. or its affiliates (“Cisco”) and governs your Use of Cisco Software.
+“You” and “Your” means the individual or legal entity licensing the Software under this EULA.
+“Use” or “Using” means to download, install, activate, access or othenNise use the Software.
+“Software” means the Cisco computer programs and any Upgrades made available to You by an Approved Source and licensed to You by Cisco.
+“Documentation” is the Cisco user or technical manuals, training materials, specifications or other documentation
+applicable to the Software and made available to You by an Approved Source. “Approved Source” means (i) Cisco
+or (ii) the Cisco authorized reseller, distributor or systems integrator from whom you acquired the Software.
+“Entitlement” means the license detail; including license metric, duration, and quantity provided in a product ID (PID)
+published on Cisco’s price list, claim certificate or right to use notification. “Upgrades” means all updates, upgrades,
+bug fixes, error corrections, enhancements and other modifications to the Software and backup copies thereof.
+
+This agreement, any supplemental license terms and any specific product terms at www.cisco.com/go/softwareterms
+(collectively, the “EULA”) govern Your Use of the Software.
+
+1. Acceptance of Terms. By Using the Software, You agree to be bound by the terms of the EULA. If you are
+entering into this EULA on behalf of an entity, you represent that you have authority to bind that entity. If
+you do not have such authority or you do not agree to the terms of the EULA, neither you nor the entity
+may Use the Software and it may be returned to the Approved Source for a refund within thirty (30) days
+of the date you acquired the Software or Cisco product. Your right to return and refund applies only if
+you are the original end user licensee of the Software
+
+2. License. Subject to payment of the applicable fees and compliance with this EULA, Cisco grants You a limited,
+non-exclusive and non-transferable license to Use object code versions of the Software and the Documentation
+solely for Your internal operations and in accordance with the Entitlement and the Documentation. Cisco licenses
+You the right to Use only the Software You acquire from an Approved Source. Unless contraly to applicable law,
+You are not licensed to Use the Software on secondhand or refurbished Cisco equipment not authorized by
+Cisco, or on Cisco equipment not purchased through an Approved Source. In the event that Cisco requires You
+to register as an end user, Your license is valid only if the registration is complete and accurate. The Software
+may contain open source software, subject to separate license terms made available with the Cisco Software or
+Documentation.
+
+If the Software is licensed for a specified term, Your license is valid solely for the applicable term in the
+Entitlement. Your right to Use the Software begins on the date the Software is made available for download or
+installation and continues until the end of the specified term, unless othenNise terminated in accordance with this
+Agreement.
+
+Controlled Doc. #EDM-122989354 Ver:3.0 Last Modified: 05/22/2017
+© 2017 Cisco Systems, Inc. All rights reserved. This document is Cisco Public Information. Page 1 of 5
+
+3. Evaluation License. If You license the Software or receive Cisco product(s) for evaluation purposes or other
+limited, temporary use as authorized by Cisco (“Evaluation Product”), Your Use of the Evaluation Product is only
+permitted for the period limited by the license key or othenNise stated by Cisco in writing. If no evaluation period
+is identified by the license key or in writing, then the evaluation license is valid for thirty (30) days from the date
+the Software or Cisco product is made available to You. You will be invoiced for the list price of the Evaluation
+Product if You fail to return or stop Using it by the end of the evaluation period. The Evaluation Product is
+licensed “AS—IS” without support or warranty of any kind, expressed or implied. Cisco does not assume any
+liability arising from any use of the Evaluation Product. You may not publish any results of benchmark tests run
+on the Evaluation Product without first obtaining written approval from Cisco. You authorize Cisco to use any
+feedback or ideas You provide Cisco in connection with Your Use of the Evaluation Product.
+
+4. Ownership. Cisco or its licensors retain ownership of all intellectual property rights in and to the Software,
+including copies, improvements, enhancements, derivative works and modifications thereof. Your rights to Use
+the Software are limited to those expressly granted by this EULA. No other rights with respect to the Software or
+any related intellectual property rights are granted or implied.
+
+5. Limitations and Restrictions. You will not and will not allow a third party to:
+
+a. transfer, sublicense, or assign Your rights under this license to any other person or entity (except as
+expressly provided in Section 12 below), unless expressly authorized by Cisco in writing;
+
+b. modify, adapt or create derivative works of the Software or Documentation;
+
+c. reverse engineer, decompile, decrypt, disassemble or othenNise attempt to derive the source code for the
+Software, except as provided in Section 16 below;
+
+d. make the functionality of the Software available to third parties, whether as an application service provider,
+or on a rental, service bureau, cloud service, hosted service, or other similar basis unless expressly
+authorized by Cisco in writing;
+
+e. Use Software that is licensed for a specific device, whether physical or virtual, on another device, unless
+expressly authorized by Cisco in writing; or
+
+f. remove, modify, or conceal any product identification, copyright, proprietary, intellectual property notices or
+other marks on or within the Software;
+
+6. Third Party Use of Software. You may permit a third party to Use the Software licensed to You under this EULA
+if such Use is solely (i) on Your behalf, (ii) for Your internal operations, and (iii) in compliance with this EULA.
+You agree that you are liable for any breach of this EULA by that third party.
+
+Controlled Doc. #EDM-122989354 Ver:3.0 Last Modified: 05/22/2017
+© 2017 Cisco Systems, Inc. All rights reserved. This document is Cisco Public Information. Page 2 of 5
+
+7. Limited Warranty and Disclaimer.
+
+a. Limited Warranty. Cisco warrants that the Software will substantially conform to the applicable
+Documentation for the longer of (i) ninety (90) days following the date the Software is made available to
+You for your Use or (ii) as othenNise set forth at htt9://www.cisco.com/go/warranty. This warranty does not
+apply if the Software, Cisco product or any other equipment upon which the Software is authorized to be
+used: (i) has been altered, except by Cisco or its authorized representative, (ii) has not been installed,
+operated, repaired, or maintained in accordance with instructions supplied by Cisco, (iii) has been
+subjected to abnormal physical or electrical stress, abnormal environmental conditions, misuse,
+negligence, or accident; (iv) is licensed for beta, evaluation, testing or demonstration purposes or other
+circumstances for which the Approved Source does not receive a payment of a purchase price or license
+fee; or (v) has not been provided by an Approved Source. Cisco will use commercially reasonable efforts to
+deliver to You Software free from any viruses, programs, or programming devices designed to modify,
+delete, damage or disable the Software or Your data.
+
+b. Exclusive Remedy. At Cisco’s option and expense, Cisco sha|| repair, replace, or cause the refund of the
+license fees paid for the non-conforming Software. This remedy is conditioned on You reporting the non-
+conformance in writing to Your Approved Source within the warranty period. The Approved Source may ask
+You to return the Software, the Cisco product, and/or Documentation as a condition of this remedy. This
+Section is Your exclusive remedy under the warranty.
+
+c. Disclaimer.
+
+Except as expressly set forth above, Cisco and its licensors provide Software “as is” and expressly
+disclaim all warranties, conditions or other terms, whether express, implied or statutory, including
+without limitation, warranties, conditions or other terms regarding merchantability, fitness for a
+particular purpose, design, condition, capacity, performance, title, and non-infringement. Cisco does not
+warrant that the Software will operate uninterrupted or error-free or that all errors will be corrected. In
+addition, Cisco does not warrant that the Software or any equipment, system or network on which the
+Software is used will be free of vulnerability to intrusion or attack.
+
+8. Limitations and Exclusions of Liability. In no event will Cisco or its licensors be liable for the following,
+regardless of the theory of liability or whether arising out of the use or inability to use the Software or
+otherwise, even if a party been advised of the possibility of such damages: (a) indirect, incidental,
+exemplary, special or consequential damages; (b) loss or corruption of data or interrupted or loss of
+business; or (c) loss of revenue, profits, goodwill or anticipated sales or savings. All liability of Cisco, its
+affiliates, officers, directors, employees, agents, suppliers and licensors collectively, to You, whether
+based in warranty, contract, tort (including negligence), or otherwise, shall not exceed the license fees
+paid by You to any Approved Source for the Software that gave rise to the claim. This limitation of
+liability for Software is cumulative and not per incident. Nothing in this Agreement limits or excludes any
+liability that cannot be limited or excluded under applicable law.
+
+Controlled Doc. #EDM-122989354 Ver:3.0 Last Modified: 05/22/2017
+© 2017 Cisco Systems, Inc. All rights reserved. This document is Cisco Public Information. Page 3 of 5
+
+9. Upgrades and Additional Copies of Software. Notwithstanding any other provision of this EULA, You are not
+permitted to Use Upgrades unless You, at the time of acquiring such Upgrade:
+
+a. already hold a valid license to the original version of the Software, are in compliance with such license,
+and have paid the applicable fee for the Upgrade; and
+
+b. limit Your Use of Upgrades or copies to Use on devices You own or lease; and
+
+c. unless othenNise provided in the Documentation, make and Use additional copies solely for backup
+purposes, where backup is limited to archiving for restoration purposes.
+
+10. Audit. During the license term for the Software and for a period of three (3) years after its expiration or
+
+
+
+termination, You will take reasonable steps to maintain complete and accurate records of Your use of the
+Software sufficient to verify compliance with this EULA. No more than once per twelve (12) month period, You
+will allow Cisco and its auditors the right to examine such records and any applicable books, systems (including
+Cisco product(s) or other equipment), and accounts, upon reasonable advanced notice, during Your normal
+business hours.. If the audit discloses underpayment of license fees, You will pay such license fees plus the
+reasonable cost of the audit within thirty (30) days of receipt of written notice.
+
+11. Term and Termination. This EULA shall remain effective until terminated or until the expiration of the applicable
+license or subscription term. You may terminate the EULA at any time by ceasing use of or destroying all copies
+of Software. This EULA will immediately terminate if You breach its terms, or if You fail to pay any portion of the
+applicable license fees and You fail to cure that payment breach within thirty (30) days of notice. Upon
+termination of this EULA, You shall destroy all copies of Software in Your possession or control.
+
+12. Transferability. You may only transfer or assign these license rights to another person or entity in compliance
+with the current Cisco Relicensing/Transfer Policy. Any attempted transfer or, assignment not in compliance with
+the foregoing shall be void and of no effect.
+
+13. US Government End Users. The Software and Documentation are "commercial items," as defined at Federal
+Acquisition Regulation ("FAR") (48 C.F.R.) 2.101, consisting of "commercial computer software" and "commercial
+computer software documentation" as such terms are used in FAR 12.212. Consistent with FAR 12.211
+(Technical Data) and FAR 12.212 (Computer Software) and Defense Federal Acquisition Regulation Supplement
+(“DFAR”) 227.7202-1 through 227.7202-4, and notwithstanding any other FAR or other contractual clause to the
+contrary in any agreement into which this EULA may be incorporated, Government end users will acquire the
+Software and Documentation with only those rights set forth in this EULA. Any license provisions that are
+inconsistent with federal procurement regulations are not enforceable against the US. Government.
+
+14. Export. Cisco Software, products, technology and services are subject to local and extraterritorial export control
+laws and regulations. You and Cisco each will comply with such laws and regulations governing use, export, re-
+export, and transfer of Software, products and technology and will obtain all required local and extraterritorial
+authorizations, permits or licenses. Specific export information may be found at:
+
+httgzlltools.cisco.com/Iegal/exgort/Qegd/Search.do
+
+15. Survival. Sections 4, 5, the warranty limitation in 7(a), 7(b) 7(c), 8, 10, 11, 13, 14, 15, 17 and 18 shall survive
+termination or expiration of this EULA.
+
+Controlled Doc. #EDM-122989354 Ver:3.0 Last Modified: 05/22/2017
+© 2017 Cisco Systems, Inc. All rights reserved. This document is Cisco Public Information. Page 4 of 5
+
+16. Interoperability. To the extent required by applicable law, Cisco shall provide You with the interface information
+needed to achieve interoperability between the Software and another independently created program. Cisco will
+provide this interface information at Your written request after you pay Cisco’s licensing fees (if any). You will
+keep this information in strict confidence and strictly follow any applicable terms and conditions upon which Cisco
+makes such information available.
+
+17. Governing LawI Jurisdiction and Venue.
+
+If You acquired the Software in a country or territory listed below, as determined by reference to the address on
+the purchase order the Approved Source accepted or, in the case of an Evaluation Product, the address where
+Product is shipped, this table identifies the law that governs the EULA (notwithstanding any conflict of laws
+provision) and the specific courts that have exclusive jurisdiction over any claim arising under this EULA.
+
+The parties specifically disclaim the application of the UN Convention on Contracts for the International Sale of
+Goods. In addition, no person who is not a party to the EULA shall be entitled to enforce or take the benefit of
+any of its terms under the Contracts (Rights of Third Parties) Act 1999. Regardless of the above governing law,
+either party may seek interim injunctive relief in any court of appropriate jurisdiction with respect to any alleged
+breach of such party's intellectual property or proprietary rights.
+
+18. Integration. If any portion of this EULA is found to be void or unenforceable, the remaining provisions of the
+EULA shall remain in full force and effect. Except as expressly stated or as expressly amended in a signed
+agreement, the EULA constitutes the entire agreement between the parties with respect to the license of the
+Software and supersedes any conflicting or additional terms contained in any purchase order or elsewhere, all of
+which terms are excluded. The parties agree that the English version of the EULA will govern in the event of a
+conflict between it and any version translated into another language.
+
+. I I I . I I I .
+
+Americas Headquarters Asia Pacific Headquarters Europe Headquarters
+
+Cisco Systems, Inc. Cisco Systems (USA) Pte. Ltd. Cisco Systems International BV Amsterdam.
+San Jose, CA Singapore The Netherlands
+
+Cisco has more than 200 offices worldwide. Addresses. phone numbers. and fax numbers are listed on the Cisco Website at www.cisco.com/go/offices.
+
+{7, Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the US. and other countries. To view a list of Cisco trademarks,
+go to this URL: www.ciscocom/go/trademarks. Third party trademarks mentioned are the property of their respective owners. The use of the word partner does
+not imply a partnership relationship between Cisco and any other company. (1 1 10R)
+
+Controlled Doc. #EDM-122989354 Ver:3.0 Last Modified: 05/22/2017
+© 2017 Cisco Systems, Inc. All rights reserved. This document is Cisco Public Information. Page 5 of 5

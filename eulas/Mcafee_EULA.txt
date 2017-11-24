@@ -1,118 +1,385 @@
-end user licence agreement downloading installing copying accessing using this software you agree the terms this agreement
-you are accepting these terms behalf another person company other legal entity you represent and warrant that you have full authority bind that person company legal entity these terms
-you not agree these terms cid120 cid120 promptly return the software and proof entitlement the party from whom you acquired them definitions
-not download install copy access use the software and authorized partner means any mcafees distributors resellers other business partners
-grant letter means confirmation notice letter issued electronically mcafee you confirming software and support purchased you including the applicable product entitlement defined the product entitlement definitions further described section below and also containing download details
-documentation means explanatory materials printed electronic online form accompanying the software english and other languages available
-mcafee means mcafee inc delaware corporation with offices located 2821 mission college blvd santa clara california 95054 usa the software purchased the united states mexico central america south america the caribbean mcafee ireland limited with its registered offices located 2528 north wall quay dublin ireland the software purchased canada europe the middle east africa asia other than japan oceania and mcafee ltd
-with offices located shibuya mark city west building 121 dogenzaka 1chome shibuyaku tokyo 1500043 japan the software purchased japan
-node means any kind device capable processing data and includes any the following types computer devices diskless workstations personal computer workstations networked computer workstations homeworkerteleworker homebased systems file and print servers email servers internet gateway devices storage area network servers sans terminal servers portable workstations connected connecting the servers network
-software means each mcafee software program object code format licensed mcafee and purchased from mcafee its authorized partners including upgrades
-subsidiary refers any entity controlled you through greater than fifty per cent ownership the voting securities
-support technical support means the support services offered mcafee for the support and maintenance the software and mcafee brand hardware further specified the mcafee technical support and maintenance terms
-updates are related content and include without limitation all dats signature sets policy updates database updates for the software which are made generally available mcafees customer base part purchased support and which are not separately priced marketed mcafee
-upgrade means any and all improvements the software which are made generally available mcafees customer base part purchased support and which are not separately priced marketed mcafee
-licence grant
-subject the terms and conditions this agreement mcafee hereby grants you nonexclusive nontransferable right use the software for the purpose this agreement use the software means access install download copy otherwise benefit from using the software listed the grant letter solely for your own internal business operations
-you acknowledge that the software and all related information are proprietary mcafee and its suppliers
-you are not granted rights updates and upgrades unless you have purchased support service subscription
-copy and use terms
-product entitlement the use the software depends the licences purchased nodes and subject the httpwwwmcafeecomuslocalcontentlegalproductentitlementdefinitionspdf the applicable date your grant letter
-multiple platformsbundles the software supports multiple platforms you receive the software bundled with other software the total number devices which all versions the software installed may not exceed your product entitlement
-certain software licenced part suitebased mcafee product may also require entitlement product definitions set forth corporate eula page 012015 purposes
-the purchase separate mcafee server licence order use the software certain types servers each case specified the documentation
-term the licence effective for limited period time term the event that such term set forth the grant letter otherwise the licences shall perpetual
-copies you may copy the software reasonably necessary for backup archival disaster recovery found and can terms are reference subsidiaries you may permit use the software accordance with the terms this agreement subsidiary only for long such entity remains your subsidiary
-you shall responsible and fully liable for each subsidiarys compliance with breach the terms this agreement
-managing party you enter into contract with third party which the third party manages your information technology resources managing party you may transfer all your rights use the software such managing party provided that the managing party only uses the software for your internal operations and not for the benefit another third party the managing party the managing party agrees comply with the terms and conditions this agreement and you provide mcafee with written notice that managing party will using the software your behalf
-general restrictions you may not nor allow any third party decompile disassemble reverseengineer the software except the extent expressly permitted applicable law without mcafees prior written consent remove any product identification proprietary rights notices the software documentation iii lease lend use the software for timesharing service bureau purposes modify create derivative works the software except with mcafees prior written permission publish any performance benchmark tests analysis relating the software otherwise use copy the software except expressly provided herein
-technical support and maintenance
-the mcafee technical support and maintenance terms apply you have purchased support
-the mcafee technical support httpwwwmcafeecomusresourcesmiscmfetechsupporttermspdf after the support service subscription period specified grant letter has expired you have further rights receive any support including upgrades updates and telephone support
-limited warranty and disclaimer
-limited warranty mcafee warrants that for period sixty days from the purchase date warranty period the software licensed hereunder including upgrades provided within the warranty period for the remainder the warranty period will perform substantially accordance with the documentation
-and maintenance exclusive remedy case any breach the above limited warranty mcafee will repair replace the software such repair replacement would mcafees opinion commercially unreasonable refund the price paid you for the applicable software
-incorporated implied exclusion warranty the above limited warranty will not apply the software not used accordance with this agreement the documentation the software any part thereof has been modified any entity other than mcafee iii malfunction the software has been caused any equipment software not supplied mcafee
-disclaimer the above warranties are your exclusive warranties and replace all other warranties conditions express including but not limited warranties conditions merchantability satisfactory quality fitness for particular purpose title and noninfringement
-except for the limited warranty set forth above the software provided and mcafee makes warranty guarantee its use performance and does not warrant guarantee that the operation the software will fail safe uninterrupted free from errors defects that the software will protect against all possible threats
-exceptions some states jurisdictions not allow the exclusion express implied warranties the above disclaimer may not apply you
-that event such express implied warranties shall limited duration the warranty period the minimum period required the applicable law
-limitation remedies and damages
-under circumstances and under legal theory whether tort contract otherwise shall either party liable the other for any indirect special incidental consequential damages damages for loss profits loss goodwill loss personnel salaries work stoppage andor computer failure malfunction andor costs procuring substitute software services
-regardless whether the claim for such damages based contract tort andor any other legal theory event shall either partys aggregate liability the other party for direct damages exceed the lesser corporate eula page 012015 the amount total fees paid payable you for the software giving rise such claim during the months immediately preceding the event giving rise such claim the applicable mcafee list price the date the purchase for the software giving rise such claim ordered you during the months immediately preceding the event giving rise such claim even the other party has been advised the possibility such damages
-provision this agreement shall exclude limit any way the liability either party for death personal injury caused negligence your liability for excess usage andor any breach mcafees intellectual property rights the software
-the limitation liability this section based the fact that end users use their computers for different purposes
-therefore only you can implement backup plans and safeguards appropriate your needs the event that error the software causes computer problems and related data losses
-for these business reasons you agree the limitations liability this section and acknowledge that without your agreement this provision the fee charged for this software would higher
-intellectual property indemnity
-thirdparty claims mcafee shall defend and hold you harmless from any claim third party that the software infringes whether patent copyright trade secret that third party provided that mcafee notified promptly and any event later than within days your receipt notice the claim mcafee receives the required level reasonable cooperation from you order perform mcafees obligations hereunder and iii mcafee has sole control over the defence and all negotiations for settlement compromise the claim
-the foregoing obligation mcafee does not apply with respect software portions components thereof that are not supplied mcafee used manner not expressly authorized this agreement the relevant documentation iii made accordance with your specifications modified anyone other than mcafee the alleged infringement relates such modification combined with other products processes materials where the alleged infringement would not exist but for such combination where you continue the allegedly infringing activity after being notified thereof and provided with modifications that would have avoided the alleged infringement
-remedy and liability the event that the software held court competent jurisdiction constitute infringement use the software enjoined mcafee shall its sole discretion one the following procure for you the right continue use the software provide modification the software that its use becomes noninfringing iii replace the software with software that substantially similar functionality and performance none the foregoing alternatives reasonably available mcafee mcafee shall refund the residual value the purchase price paid you for the infringing software depreciated using straightline method depreciation over three year period from the date delivery the software you
-this section states mcafees sole liability and your exclusive remedy for intellectual property infringement claims
-termination
-without prejudice your payment obligations you may terminate your licence any time uninstalling the software
-mcafee may terminate your licence the event that you materially breach the terms this agreement and you fail cure such breach within thirty days receiving notice such breach
-upon such termination you shall promptly return destroy all copies the software and documentation
-additional terms
-evaluation software the software has been identified evaluation software then the provisions this section apply and shall supersede any other conflicting term this agreement
-your royaltyfree non
-transferable limited licence use the evaluation software for evaluation purposes only limited thirty days unless otherwise agreed writing mcafee
-the evaluation software may contain errors other problems that could cause system other failures and data loss
-consequently evaluation software provided you and mcafee disclaims any warranty liability obligations you any kind
-any information about the evaluation software gathered from its use shall used solely for evaluation purposes and shall not provided any third parties
-the restrictions described section apply
-you fail destroy the evaluation software after the evaluation period has expired mcafee may its discretion invoice you amount equal the mcafee list price for the evaluation software and you shall pay such invoice upon receipt
-where legal liability cannot excluded but may limited mcafees liability and that its suppliers and authorized partners shall limited the sum fifty dollars the equivalent local currency total
-corporate eula page 012015 beta software the software that you have received has been identified beta software then the provisions section above shall apply accordingly
-mcafee has obligation you further develop publicly release the beta software
-requested mcafee you will provide feedback mcafee regarding testing and use the beta software including error bug reports
-you agree grant mcafee perpetual nonexclusive royaltyfree worldwide licence use copy distribute and make derivative works and incorporate the feedback into any mcafee product mcafees sole discretion
-upon receipt later unreleased version the beta software release mcafee publicly released commercial version the beta software you agree return destroy all earlier beta software received from mcafee
-free opensource software the product may include programs code that are licensed under open
-source software oss licence model
-oss programs and code are subject the terms conditions and obligations the applicable oss licence and are specifically excluded from all warranty and support obligations described elsewhere this agreement
-notice united states government end users
-the software and accompanying documentation are deemed commercial computer software and commercial computer software documentation respectively pursuant dfar section 2277202 and far section 12212 applicable
-any use modification reproduction release performance display disclosure the software and accompanying documentation the united states government shall governed solely the terms this agreement and shall prohibited except the extent expressly permitted the terms this agreement
-privacy and collection personal system information
-the software support service subscription may employ applications and tools collect personally identifiable sensitive other information about you and users including without limitation your and users name address email address and payment details their computers files stored their computers their computers interactions with other computers including without limitation information regarding network licenses used hardware type model hard disk size cpu type disk type ram size bit architecture operating system types versions locale bios version bios model total scanners deployed database size system telemetry device address location content mcafee products installed mcafee components processes and services information frequency and details update mcafee components information about third party products installed extracts logs created mcafee usage patterns mcafee products and specific features etc collectively data
-the collection this data may necessary provide you and users with the relevant software support service subscription functionalities ordered including without limitation detecting and reporting threats and vulnerabilities your and users computer network enable mcafee improve our software support service subscription including without limitation content synchronization device tracking troubleshooting etc and further improve overall security for you and users
-you may required uninstall the software disable support its service subscription stop further data collection that supports these functions
-entering into this agreement using the software support service subscription you and users agree the mcafee privacy policy the mcafee web site wwwmcafeecom and the collection processing copying backup storage transfer and use this data mcafee and its service providers from and the united states europe other countries jurisdictions potentially outside your users own part the software support service subscription
-you are solely responsible for securing any privacyrelated rights and permissions from your users may required local law your internal policies
-mcafee will only collect process copy backup store transfer and use personally identifiable information accordance with the mcafee privacy policy the mcafee web site wwwmcafeecom
-audit
-mcafee may its expense upon reasonable prior written notice you and during standard business hours audit you with respect your compliance with the terms this agreement more than once per year
-you understand and acknowledge that mcafee utilizes number methods verify and support software use its customers
-these methods may include technological features the software that prevent unauthorized use and provide software deployment verification
-upon reasonable request you will provide systemgenerated report verifying your software deployment such request occur more than two times per year
-mcafee will not unreasonably interfere with the conduct your business
-you acknowledge that the software subject and when applicable european union export regulations
-you shall comply with applicable export and import laws and regulations for the jurisdiction which the software will imported andor exported
-you shall not export the software any individual entity country prohibited applicable law regulation
-you are responsible your own expense for any local government permits licenses approvals required for importing andor exporting the software
-for additional information regarding exporting and export controls
-corporate eula page 012015 governing law
-importing the software see httpmcafeecomusaboutexportcomplianceindexhtml then click export compliance
-mcafee reserves the right update this website from time time its sole discretion
-this agreement will governed and construed accordance with the substantive laws force the state new york you purchased the software the united states mexico central america south america the caribbean the republic ireland you purchased the software canada europe middle east africa asia other than japan the region commonly referred oceania and japan you purchased the software japan
-you purchased the software any other country then the substantive laws the republic ireland shall apply unless another local law required applied
-this agreement will not governed the conflict laws rules any jurisdiction the united nations convention contracts for the international sale goods the application which expressly excluded
-the uniform computer information transactions act enacted shall not apply the united states district court for the southern district new york when new york law applies the courts the republic ireland when the law ireland applies the courts japan when japanese law applies shall each have nonexclusive jurisdiction over all disputes relating this agreement
-confidentiality each party hereto acknowledges that reason its relationship with the other party hereunder may have access confidential information and materials concerning the other partys business technology andor products that confidential and substantial value the other party which value could impaired such information were disclosed third parties confidential information
-written other tangible confidential information must the time disclosure identified and labeled confidential information belonging the disclosing party
-when disclosed orally visually confidential information must identified confidential the time the disclosure with subsequent confirmation writing within fifteen days after disclosure
-each party agrees that will not use any way for its own account the account any third party such confidential information except authorized under this agreement and will protect confidential information least the same extent protects its own confidential information and the same extent that reasonable person would protect such confidential information
-neither party may use the other partys confidential information except perform its duties under this agreement
-the confidential information restrictions will not apply confidential information that already known the receiving party becomes publicly available through wrongful act the receiving party iii independently developed the receiving party without benefit the disclosing partys confidential information has been rightfully received from third party not under obligation confidentiality required disclosed law provided the party compelled disclose the confidential information provides the party owning the confidential information with prior written notice disclosure adequate for the owning party take reasonable action prevent such disclosure where reasonably possible
-unless otherwise agreed both parties upon termination this agreement applicable addendum each party will return the other partys confidential information
-except for actions for nonpayment breach mcafees proprietary rights the software and documentation action regardless form arising out this agreement may brought either party more than years after party knew should have known the claim
-any terms this agreement which their nature should survive the termination this agreement shall survive such termination
-this agreement including all documents incorporated reference represents the entire agreement between the parties and expressly supersedes and cancels any other communication representation advertising whether oral written the subjects herein
-you issue order authorized partner mcafee and the terms and conditions the order conflict with the terms and conditions this agreement the grant letter then the terms and conditions specified this agreement and the grant letter shall control
-this agreement may not modified except written addendum issued duly authorized representative mcafee
-provision hereof shall deemed waived unless such waiver shall writing and signed mcafee
-any provision this agreement held invalid the remainder this agreement shall continue full force and effect
-all notices requests demands and determinations for mcafee under this agreement other than routine operational communications shall sent the applicable entity address the first page this agreement addressed attention legal department
-miscellaneous
-corporate end user licence agreement jan 2015 corporate eula page 012015 
+W McAfee"
+
+An Intel Company
+
+ 
+
+END USER LICENCE AGREEMENT
+
+BY DOWNLOADING, INSTALLING, COPYING, ACCESSING OR USING THIS SOFTWARE, YOU AGREE TO THE
+TERMS OF THIS AGREEMENT. IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF ANOTHER PERSON OR
+COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE FULL AUTHORITY TO
+BIND THAT PERSON, COMPANY OR LEGAL ENTITY TO THESE TERMS.
+
+IF YOU DO NOT AGREE TO THESE TERMS:
+
+0 DO NOT DOWNLOAD, INSTALL, COPY, ACCESS OR USE THE SOFTWARE, AND
+
+0 PROMPTLY RETURN THE SOFTWARE AND PROOF OF ENTITLEMENT TO THE PARTY FROM WHOM YOU
+ACQUIRED THEM
+
+1) Definitions.
+
+a) “Authorized Partner” means any of McAfee’s distributors, resellers or other business partners.
+
+b) “Grant Letter” means a confirmation notice letter issued electronically by McAfee to you, confirming Software and
+Support purchased by you, including the applicable product entitlement, as defined in the Product Entitlement
+Definitions (further described at Section 3(a) below) and also containing download details.
+
+c) “Documentation” means explanatory materials in printed, electronic or online form accompanying the Software in
+English and other languages, if available.
+
+d) “McAfee” means (a) McAfee, Inc, a Delaware corporation, with offices located at 2821 Mission College Blvd.,
+Santa Clara, California 95054, USA, if the Software is purchased in the United States, Mexico, Central America,
+South America or the Caribbean, (b) McAfee Ireland Limited, with its registered offices located at 25/28 North
+Wall Quay, Dublin 1, Ireland, if the Software is purchased in Canada, Europe, the Middle East, Africa, Asia (other
+than Japan) or Oceania and (c) McAfee Co., Ltd. with offices located at Shibuya Mark City West Building 12-1,
+Dogenzaka 1-Chome, Shibuya-ku, Tokyo 150-0043, Japan, if the Software is purchased in Japan.
+
+e) “Node” means any kind of device capable of processing data and includes any of the following types of computer
+devices: diskless workstations, personal computer workstations, networked computer workstations,
+homeworker/teleworker home-based systems, file and print servers, email servers, Internet gateway devices,
+storage area network servers (SANS), terminal servers or portable workstations connected or connecting to the
+server(s) or network.
+
+f) “Software” means each McAfee software program in object code format licensed by McAfee and purchased from
+McAfee or its Authorized Partners, including Upgrades.
+
+9) “Subsidiary” refers to any entity controlled by you through greater than fifty per cent (50%) ownership of the
+voting securities.
+
+h) “Support” or “Technical Support” means the support services offered by McAfee for the support and
+maintenance of the Software and McAfee brand hardware further specified in the McAfee Technical Support and
+Maintenance Terms.
+
+i) “Updates” are related to content and include without limitation all DATs, signature sets, policy updates, database
+updates for the Software which are made generally available to McAfee’s customer base as a part of purchased
+Support and which are not separately priced or marketed by McAfee.
+
+j) “Upgrade” means any and all improvements in the Software which are made generally available to McAfee’s
+customer base as part of purchased Support and which are not separately priced or marketed by McAfee.
+
+2) Licence Grant.
+Subject to the terms and conditions of this Agreement, McAfee hereby grants to you a non-exclusive, non-transferable
+
+right to use the Software (for the purpose of this Agreement, use of the Software means to access, install, download,
+copy or othenNise benefit from using the Software) listed in the Grant Letter solely for your own internal business
+
+operations. You acknowledge that the Software and all related information are proprietary to McAfee and its suppliers.
+You are not granted rights to Updates and Upgrades unless you have purchased Support or a service subscription.
+
+3) Copy and Use terms.
+a) Product entitlement: The use of the Software depends on the licences purchased (e.g. Nodes) and is subject to
+the Product Entitlement Definitions set forth at
+
+htt9://www.mcafee.com/us/|oca| content/Iegal/groduct entitlement definitionsgdf on the applicable date of your
+Grant Letter.
+
+b) Multigle Qlatforms/Bundles: If the Software supports multiple platforms or if you receive the Software bundled
+with other software, the total number of devices on which all versions of the Software is installed may not exceed
+
+your product entitlement. Certain Software licenced as part of a suite-based McAfee product may also require
+
+Corporate EULA Page 1 of 5 01/2015
+
+W McAfee"
+
+An Intel Company
+
+the purchase of a separate McAfee server licence in order to use the Software on certain types of servers, in
+each case as specified in the Documentation.
+
+c) Term: The licence is effective for a limited period of time (“Term”) in the event that such Term is set forth in the
+Grant Letter, othenNise the licences shall be perpetual.
+
+d) Cogies: You may copy the Software as reasonably necessary for back-up, archival or disaster recovery
+purposes.
+
+e) Subsidiaries: You may permit use of the Software in accordance with the terms of this Agreement by a
+Subsidiary only for so long as such entity remains your Subsidiary. You shall be responsible and fully liable for
+each Subsidiary’s compliance with or breach of the terms of this Agreement.
+
+f) Managing Party: If you enter into a contract with a third party in which the third party manages your information
+technology resources (“Managing Party”), you may transfer all your rights to use the Software to such Managing
+Party, provided that (a) the Managing Party only uses the Software for your internal operations and not for the
+benefit of another third party or the Managing Party, (b) the Managing Party agrees to comply with the terms and
+conditions of this Agreement and (c) you provide McAfee with written notice that a Managing Party will be using
+the Software on your behalf.
+
+9) General Restrictions: You may not, nor allow any third party to: (i) decompile, disassemble or reverse-engineer
+the Software, except to the extent expressly permitted by applicable law, without McAfee’s prior written consent;
+(ii) remove any product identification or proprietary rights notices of the Software or Documentation; (iii) lease,
+lend or use the Software for timesharing or service bureau purposes; (iv) modify or create derivative works of the
+Software, (v) except with McAfee’s prior written permission, publish any performance or benchmark tests or
+analysis relating to the Software or (vi) othenNise use or copy the Software except as expressly provided herein.
+
+ 
+
+Technical Support and Maintenance.
+
+The McAfee Technical Support and Maintenance Terms apply if you have purchased Support. The McAfee Technical
+Support and Maintenance Terms are incorporated by reference and can be found at
+httQ://www.mcafee.com/us/resources/misc/mfe-techsungrt-terms.9df . After the support or service subscription period
+specified in a Grant Letter has expired, you have no further rights to receive any Support including Upgrades, Updates
+and telephone support.
+
+Limited Warranty and Disclaimer.
+
+a) Limited Warranty: McAfee warrants that, for a period of sixty (60) days from the purchase date (“Warranty
+Period”), the Software licensed hereunder (including Upgrades provided within the Warranty Period for the
+remainder of the Warranty Period) will perform substantially in accordance with the Documentation.
+
+b) Exclusive Remedy: In case of any breach of the above limited warranty, McAfee will (a) repair or replace the
+Software or (b) if such repair or replacement would in McAfee’s opinion be commercially unreasonable, refund
+the price paid by you for the applicable Software.
+
+c) Exclusion of Warranty: The above Limited Warranty will not apply if: (i) the Software is not used in accordance
+with this Agreement or the Documentation, (ii) the Software or any part thereof has been modified by any entity
+other than McAfee or (iii) a malfunction in the Software has been caused by any equipment or software not
+supplied by McAfee.
+
+d) Disclaimer: THE ABOVE WARRANTIES ARE YOUR EXCLUSIVE WARRANTIES AND REPLACE ALL OTHER
+WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. EXCEPT FOR THE LIMITED WARRANTY SET
+FORTH ABOVE, THE SOFTWARE IS PROVIDED “AS IS” AND MCAFEE MAKES NO WARRANTY OR
+GUARANTEE AS TO ITS USE OR PERFORMANCE AND DOES NOT WARRANT OR GUARANTEE THAT
+THE OPERATION OF THE SOFTWARE WILL BE FAIL SAFE, UNINTERRUPTED OR FREE FROM ERRORS
+OR DEFECTS OR THAT THE SOFTWARE WILL PROTECT AGAINST ALL POSSIBLE THREATS.
+
+e) Excegtions: Some states or jurisdictions do not allow the exclusion of express or implied warranties, so the
+above disclaimer may not apply to you. IN THAT EVENT, SUCH EXPRESS OR IMPLIED WARRANTIES
+SHALL BE LIMITED IN DURATION TO THE WARRANTY PERIOD (OR THE MINIMUM PERIOD REQUIRED
+BY THE APPLICABLE LAW).
+
+Limitation of Remedies and Damages.
+
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT OR
+OTHERWISE, SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL
+OR CONSEQUENTIAL DAMAGES, DAMAGES FOR LOSS OF PROFITS, LOSS OF GOODWILL, LOSS OF
+PERSONNEL SALARIES, WORK STOPPAGE AND/OR COMPUTER FAILURE OR MALFUNCTION AND/OR
+COSTS OF PROCURING SUBSTITUTE SOFTWARE OR SERVICES.
+
+Regardless of whether the claim for such damages is based in contract, tort and/or any other legal theory, in no event
+shall either party’s aggregate liability to the other party for direct damages exceed the lesser of:
+
+Corporate EULA Page 2 of 5 01/2015
+
+W McAfee"
+
+8)
+
+An Intel Company
+
+a) the amount of total fees paid or payable by you for the Software giving rise to such claim during the 12 months
+immediately preceding the event giving rise to such claim or
+
+b) the applicable McAfee list price, at the date of the purchase, for the Software giving rise to such claim ordered by
+you during the 12 months immediately preceding the event giving rise to such claim,
+
+even if the other party has been advised of the possibility of such damages.
+
+No provision of this Agreement shall exclude or limit in any way (i) the liability of either party for death or personal
+injury caused by negligence or (ii) your liability for excess usage of and/or any breach of McAfee’s intellectual property
+rights in the Software.
+
+THE LIMITATION OF LIABILITY IN THIS SECTION IS BASED ON THE FACT THAT END USERS USE THEIR
+COMPUTERS FOR DIFFERENT PURPOSES. THEREFORE, ONLY YOU CAN IMPLEMENT BACK-UP PLANS AND
+SAFEGUARDS APPROPRIATE TO YOUR NEEDS IN THE EVENT THAT AN ERROR IN THE SOFTWARE
+CAUSES COMPUTER PROBLEMS AND RELATED DATA LOSSES. FOR THESE BUSINESS REASONS, YOU
+AGREE TO THE LIMITATIONS OF LIABILITY IN THIS SECTION AND ACKNOWLEDGE THAT WITHOUT YOUR
+AGREEMENT TO THIS PROVISION, THE FEE CHARGED FOR THIS SOFTWARE WOULD BE HIGHER.
+
+Intellectual Property Indemnity.
+
+a) Third-garty claims: McAfee sha|| defend and hold you harmless from any claim by a third party that the Software
+infringes, whether a patent, copyright or trade secret of that third party, provided that: (i) McAfee is notified
+promptly, and in any event no later than within 14 days of your receipt of notice of the claim, (ii) McAfee receives
+the required level of reasonable cooperation from you in order to perform McAfee’s obligations hereunder and
+(iii) McAfee has sole control over the defence and all negotiations for a settlement or compromise of the claim.
+The foregoing obligation of McAfee does not apply with respect to Software or portions or components thereof
+that are: (i) not supplied by McAfee, (ii) used in a manner not expressly authorized by this Agreement or the
+relevant Documentation, (iii) made in accordance with your specifications, (iv) modified by anyone other than
+McAfee, if the alleged infringement relates to such modification, (v) combined with other products, processes or
+materials where the alleged infringement would not exist but for such combination or (vi) where you continue the
+allegedly infringing activity after being notified thereof and provided with modifications that would have avoided
+the alleged infringement.
+
+b) Remedy and Liability: In the event that the Software is held by a court of competent jurisdiction to constitute an
+infringement or use of the Software is enjoined, McAfee shall, at its sole discretion, do one of the following:
+(i) procure for you the right to continue use of the Software, (ii) provide a modification to the Software so that its
+use becomes non-infringing, (iii) replace the Software with software that is substantially similar in fu nctionality
+and performance or (iv), if none of the foregoing alternatives is reasonably available to McAfee, McAfee sha||
+refund the residual value of the purchase price paid by you for the infringing Software, depreciated using a
+straight-Iine method of depreciation over a three (3) year period from the date of delivery of the Software to you.
+This Section 7 states McAfee’s sole liability and your exclusive remedy for intellectual property infringement claims.
+
+Termination.
+
+Without prejudice to your payment obligations, you may terminate your licence at any time by uninstalling the
+Software. McAfee may terminate your licence in the event that you materially breach the terms of this Agreement and
+you fail to cure such breach within thirty (30) days of receiving notice of such breach. Upon such termination, you shall
+promptly return or destroy all copies of the Software and Documentation.
+
+Additional Terms.
+
+a) Evaluation Software: If the Software has been identified as “Evaluation Software”, then the provisions of this
+section apply and shall supersede any other conflicting term of this agreement. Your royalty-free, non-
+transferable, limited licence to use the Evaluation Software, for evaluation purposes only, is limited to thirty (30)
+days unless othenNise agreed to in writing by McAfee. The Evaluation Software may contain errors or other
+problems that could cause system or other failures and data loss. Consequently, Evaluation Software is provided
+to you “AS IS” and McAfee disclaims any warranty or liability obligations to you of any kind. Any information
+about the Evaluation Software gathered from its use shall be used solely for evaluation purposes and shall not
+be provided to any third parties. The restrictions described in Section 3 9) apply. If you fail to destroy the
+Evaluation Software after the evaluation period has expired, McAfee may, at its discretion, invoice you in an
+amount equal to the McAfee List Price for the Evaluation Software and you shall pay such invoice upon receipt.
+WHERE LEGAL LIABILITY CANNOT BE EXCLUDED, BUT MAY BE LIMITED, MCAFEE’S LIABILITY AND
+THAT OF ITS SUPPLIERS AND AUTHORIZED PARTNERS SHALL BE LIMITED TO THE SUM OF FIFTY (50)
+DOLLARS OR THE EQUIVALENT IN LOCAL CURRENCY IN TOTAL.
+
+Corporate EULA Page 3 of 5 01/2015
+
+W McAfee"
+
+An Intel Company
+
+b) Beta Software: If the Software that you have received has been identified as “Beta” Software, then the provisions
+of Section 9 a) above shall apply accordingly. McAfee has no obligation to you to further develop or publicly
+release the Beta Software. If requested by McAfee, you will provide feedback to McAfee regarding testing and
+use of the Beta Software, including error or bug reports. You agree to grant McAfee a perpetual, non-exclusive,
+royalty-free, worldwide licence to use, copy, distribute and make derivative works and incorporate the feedback
+into any McAfee product at McAfee’s sole discretion. Upon receipt of a later unreleased version of the Beta
+Software or release by McAfee of a publicly released commercial version of the Beta Software, you agree to
+return or destroy all earlier Beta Software received from McAfee.
+
+c) “Free” or “Ogen-Source” Software: The product may include programs or code that are licensed under an Open-
+Source Software (“088”) licence model. 088 programs and code are subject to the terms, conditions and
+obligations of the applicable OSS licence and are SPECIFICALLY EXCLUDED FROM ALL WARRANTY AND
+SUPPORT OBLIGATIONS DESCRIBED ELSEWHERE IN THIS AGREEMENT.
+
+10) Notice to United States Government End Users.
+
+The Software and accompanying Documentation are deemed to be “commercial computer software” and “commercial
+computer software documentation”, respectively, pursuant to DFAR Section 227.7202 and FAR Section 12.212, as
+applicable. Any use, modification, reproduction, release, performance, display or disclosure of the Software and
+accompanying Documentation by the United States Government shall be governed solely by the terms of this
+Agreement and shall be prohibited except to the extent expressly permitted by the terms of this Agreement.
+
+11) Privacy and Collection of Personal or System Information.
+
+a) The Software, Support or service subscription may employ applications and tools to collect personally
+identifiable, sensitive or other information about you and users (e.g., including, without limitation, your and users’
+name, address, e-mail address and payment details), their computers, files stored on their computers, or their
+computers’ interactions with other computers (e.g., including, without limitation, information regarding network,
+licenses used, hardware type, model, hard disk size, CPU type, disk type, RAM size, 32 or 64 bit architecture,
+operating system types, versions, locale, BIOS version, BIOS model, total scanners deployed, database size,
+system telemetry, device ID, IP address, location, content, McAfee products installed, McAfee components,
+processes and services information, frequency and details of update of McAfee components, information about
+third party products installed, extracts of logs created by McAfee, usage patterns of McAfee products and
+specific features, etc.) (collectively, “Data”).
+
+b) The collection of this Data may be necessaly to provide you and users with the relevant Software, Support or
+service subscription functionalities as ordered (e.g., including, without limitation, detecting and reporting threats
+and vulnerabilities on your and users’ computer network), enable McAfee to improve our Software, Support or
+service subscription (e.g., including, without limitation, content synchronization, device tracking, troubleshooting,
+etc.) and to further or improve overall security for you and users. You may be required to uninstall the Software
+or disable Support or its service subscription to stop further Data collection that supports these functions.
+
+c) By entering into this Agreement, or using the Software, Support or service subscription, you and users agree to
+the McAfee Privacy Policy on the McAfee web site (www.McAfee.com) and to the collection, processing,
+copying, backup, storage, transfer and use of this Data by McAfee and its service providers, in, from and to the
+United States, Europe, or other countries or jurisdictions potentially outside of your or user’s own as part of the
+Software, Support or service subscription. You are solely responsible for securing any privacy-related rights and
+permissions from your users as may be required by local law or by your internal policies. McAfee will only
+collect, process, copy, backup, store, transfer and use personally identifiable information in accordance with the
+McAfee privacy policy on the McAfee web site (www.McAfee.com).
+
+12) Audit.
+
+McAfee may, at its expense, upon reasonable prior written notice to you and during standard business hours, audit
+you with respect to your compliance with the terms of this Agreement no more than once per year. You understand
+and acknowledge that McAfee utilizes a number of methods to verify and support software use by its customers.
+These methods may include technological features of the Software that prevent unauthorized use and provide
+Software deployment verification. Upon reasonable request, you will provide a system-generated report verifying your
+Software deployment, such request to occur no more than two (2) times per year. McAfee will not unreasonably
+interfere with the conduct of your business.
+
+13) Export Controls.
+You acknowledge that the Software is subject to US and, when applicable, European Union export regulations. You
+shall comply with applicable export and import laws and regulations for the jurisdiction in which the Software will be
+imported and/or exported. You shall not export the Software to any individual, entity or country prohibited by
+applicable law or regulation. You are responsible, at your own expense, for any local government permits, licenses or
+approvals required for importing and/or exporting the Software. For additional information regarding exporting and
+
+Corporate EULA Page 4 of 5 01/2015
+
+W McAfee
+
+An Intel Company
+
+importing the Software, see htt9://mcafee.com/us/about/exgort comgliance/indexhtml (then click on US Export
+Compliance). McAfee reserves the right to update this website from time to time, at its sole discretion.
+
+14) Governing Law.
+
+This Agreement will be governed by and construed in accordance with the substantive laws in force: (a) in the State of
+New York, if you purchased the Software in the United States, Mexico, Central America, South America or the
+Caribbean, (b) in the Republic of Ireland, if you purchased the Software in Canada, Europe, Middle East, Africa, Asia
+(other than Japan) or the region commonly referred to as Oceania and (c) in Japan, if you purchased the Software in
+Japan. If you purchased the Software in any other country, then the substantive laws of the Republic of Ireland shall
+apply, unless another local law is required to be applied. This Agreement will not be governed by the conflict of laws
+rules of any jurisdiction or the United Nations Convention on Contracts for the International Sale of Goods, the
+application of which is expressly excluded. The Uniform Computer Information Transactions Act as enacted shall not
+apply, The United States District Court for the Southern District of New York, when New York law applies, the courts
+of the Republic of Ireland, when the law of Ireland applies, the courts of Japan when Japanese law applies, shall each
+have non-exclusive jurisdiction over all disputes relating to this Agreement.
+
+15) Confidentiality
+
+Each Party hereto acknowledges that by reason of its relationship with the other party hereunder, it may have access
+to confidential information and materials concerning the other party’s business, technology, and/or products that is
+confidential and of substantial value to the other Party, which value could be impaired if such information were
+disclosed to third parties (“Confidential Information”). Written or other tangible Confidential Information must at the
+time of disclosure be identified and labeled as Confidential Information belonging to the disclosing Party. When
+disclosed orally or visually, Confidential Information must be identified as confidential at the time of the disclosure,
+with subsequent confirmation in writing within fifteen (15) days after disclosure. Each Party agrees that it will not use
+in any way for its own account or the account of any third party, such Confidential Information, except as authorized
+under this Agreement, and will protect Confidential Information at least to the same extent as it protects its own
+Confidential Information and to the same extent that a reasonable person would protect such Confidential Information.
+Neither Party may use the other Party’s Confidential Information except to perform its duties under this Agreement.
+The Confidential Information restrictions will not apply to Confidential Information that is (i) already known to the
+receiving Party, (ii) becomes publicly available through no wrongful act of the receiving Party, (iii) independently
+developed by the receiving Party without benefit of the disclosing Party’s Confidential Information, (iv) has been
+rightfully received from a third party not under obligation of confidentiality or (v) is required to be disclosed by law,
+provided the Party compelled to disclose the Confidential Information provides the Party owning the Confidential
+Information with prior written notice of disclosure adequate for the owning Party to take reasonable action to prevent
+such disclosure, where reasonably possible. Unless othenNise agreed to by both Parties, upon termination of this
+Agreement or an applicable Addendum, each Party will return the other Party’s Confidential Information.
+
+16) Miscellaneous.
+
+a) Except for actions for non-payment or breach of McAfee’s proprietary rights in the Software and Documentation,
+no action, regardless of form, arising out of this Agreement may be brought by either party more than 2 years
+after a party knew or should have known of the claim.
+
+b) Any terms of this Agreement which by their nature should survive the termination of this Agreement shall survive
+such termination.
+
+c) This Agreement, including all documents incorporated by reference, represents the entire agreement between
+the parties and expressly supersedes and cancels any other communication, representation or advertising
+whether oral or written, on the subjects herein. If you issue an order to an Authorized Partner or to McAfee and
+the terms and conditions of the order conflict with the terms and conditions of a) this Agreement or b) the Grant
+Letter, then the terms and conditions specified in this Agreement and in the Grant Letter shall control. This
+Agreement may not be modified except by a written addendum issued by a duly authorized representative of
+McAfee. No provision hereof shall be deemed waived unless such waiver shall be in writing and signed by
+McAfee. If any provision of this Agreement is held invalid, the remainder of this Agreement shall continue in full
+force and effect.
+
+d) All notices, requests, demands and determinations for McAfee under this Agreement (other than routine
+operational communications) shall be sent to: the applicable entity address on the first page of this Agreement
+addressed to “Attention: Legal Department”.
+
+Corporate End User Licence Agreement (Jan 2015)
+
+Corporate EULA Page 5 of 5 01/2015
+

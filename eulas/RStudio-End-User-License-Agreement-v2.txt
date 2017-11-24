@@ -1,0 +1,503 @@
+RStudio End User License Agreement
+
+This End User License Agreement and all Order Forms entered into between the parties hereunder (collectively, this "Agreement")
+is a legal agreement between you and RStudio, Inc., a Delaware corporation with its principal place of business at 250 Northern
+
+Avenue
+Suite 410 Boston, Massachusetts 02210 (“RStudio”), that governs your acquisition and use of RStudio’s proprietary Software directly
+
+from RStudio or indirectly through an RStudio authorized reseller or distributor (a “Reseller”). It is effective between you and
+RStudio as of the date you download the Software.
+
+ 
+
+ 
+
+*** IMPORTANT -
+PLEASE READ CAREFULLY BEFORE YOU DOWNLOAD OR USE THE SOFTWARE ***
+
+By clicking on the “accept” button at the end of this document or by accessing, executing or otherwise
+
+using the Software, you acknowledge that you have read this Agreement, understand it and agree to be
+bound by its terms and conditions. If you are not willing to be bound by the terms of this Agreement,
+
+do not access or use the Software.
+
+If you are using the Software in your capacity as employee or agent of a company or organization, then
+
+any references to “you” in this agreement shall refer to such entity and not to you in your personal
+capacity. You warrant that you are authorized to legally bind the company or organization on whose
+
+behalf you are accessing the Software. If you are not so authorized, then neither you nor your
+company or organization may use the Software in any manner whatsoever.
+
+1. Definitions
+
+1.1 "Affiliate" means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject
+
+entity. "Control," for purposes hereof, means direct or indirect ownership or control of more than 50% of the voting interests of the
+subject entity.
+
+1.2 “Customer Apglication” means software programs created and/or deployed by you or your Users using the Software.
+
+1.3 “Documentation” means the published and generally available on-line user and administrator materials RStudio delivers or
+makes available with the Software, including on-line help, as updated from time to time.
+
+1.4 "Order Form" means RStudio’s global order form or other RStudio ordering document, including a signed quote, which is entered
+
+into between you and RStudio and identifies the Software ordered by you, including the license type, quantity, access information
+and any other restrictions or use limitations. Order Forms shall reference this Agreement and be deemed incorporated herein by
+
+reference.
+
+1.5 "Software" means the RStudio software program(s) set forth on an Order Form and all Updates and Documentation provided to
+you by RStudio.
+
+1.6 “ uggort Services” mean those services provided to you by RStudio pursuant to Section 4 hereof.
+
+1.7 “Ugdate” means any subsequent release of the Software that RStudio generally provides to its customers at no additional charge
+pursuant to Support Services. Updates do not include any Software that is marketed and priced separately by RStudio.
+
+1.8 “M” means an individual who is authorized by you or your Affiliates to use the Software in accordance with this Agreement
+and the applicable license type set forth herein, and who has been supplied credentials by you. A User may include but is not limited
+to your and your Affiliates’ employees and those of your and your Affiliates’ consultants and contractors who use the Software on
+your behalf and who are bound by enforceable terms at least as protective of the Software and the RStudio Confidential Information
+as this Agreement.
+
+2. Free Trial
+
+If you either register on the RStudio Web site for a free trial or otherwise order a free trial version, RStudio will make certain
+Software available to you on a trial basis (the “Trial Version”) free of charge until the end of the free trial period for which you
+registered or ordered the applicable Software. The Trial Version may be used only to review, demonstrate and evaluate the Software
+and may have limited features. The Trial Version may cease operating after the applicable time period or number of uses based on
+an internal metering mechanism within the Trial Version itself. Regardless of any such metering, you must stop use at the end of
+such period or number of uses. Additional trial terms and conditions may appear on the trial registration web page or Order Form.
+Any such additional terms and conditions are incorporated into this Agreement by reference and are legally binding. Review the
+Documentation during the free trial so that you are familiar with the features and functions of the Software before you license the
+applicable Software.
+
+You shall not (A) in the aggregate, install or use more than one copy of the Trial Version of the Software or use the Trial Version of
+the Software on more than one computer except, if necessary, for the sole purpose of evaluating load balancing features, (B)
+download the Trial Version of the Software under more than one username, (C) alter the contents of a hard drive or computer
+system to enable the use of the Trial Version of the Software for an aggregate period in excess of the trial period for one license to
+
+RStudio, Inc.
+Conﬁdential Information 1 E ULA v 2.0 July 10, 20] 7
+
+such Trial Version, (D) disclose the results of software performance benchmarks obtained using the Trial Version to any third party
+without RStudio's prior written consent, (E) use the Trial Version of the Software to update Software that is no longer eligible for
+Support Services or (F) use the Trial Version of the Software for a purpose other than the sole purpose of determining whether to
+purchase a license to the Software.
+
+NOTWITHSTANDING SECTION 9 (LIMITED WARRANTY AND DISCLAIMER), DURING A FREE TRIAL, THE SOFTWARE AND ANY APPLICABLE
+SERVICES ARE PROVIDED “AS-IS” WITHOUT WARRANTY OF ANY KIND.
+
+3. License Grant
+
+3.1 License Grant. Subject to all terms and conditions set forth in this Agreement and the applicable Order Form, RStudio
+grants you a limited, worldwide, royalty—free, non-assignable (except upon a permitted assignment of this Agreement in
+accordance with Section 13.2), non-transferable (except upon a permitted assignment of this Agreement in accordance with
+Section 13.2), non-sublicensable and non-exclusive license pursuant to this Agreement for the Subscription Term set forth on the
+Order Form to install and use the Software in accordance with the Documentation and in accordance with the License Type
+applicable to the Software set forth on the Order Form. Certain Software may be used to deploy software applications
+developed by you or your Users (each a “ ustomer Agglication”)_for use with “R”, the open source programming language and
+software environment for statistical computing and graphics (referred to as “3”) and you acknowledge and agree you must
+separately license “R” and any components of “R” from the licensor of such products, which is not RStudio. Notwithstanding
+anything to the contrary herein, you may make a reasonable number of copies of the Software for the sole purpose of backing-
+up and archiving the Software, but not for use in production or for a live back up site. Each copy of the Software is subject to
+all terms and conditions of this Agreement and must contain the same titles, trademarks, and copyrights as the original. You are
+responsible for the compliance of your Users with the terms and conditions of this Agreement, including their compliance with
+the License Type applicable to the Software licensed, and shall be liable for any breach of this Agreement by your Users.
+
+3.2 License Types
+
+The Software set forth in an Order Form may be subject to one or more of the following license types (“License Type”) as and to the
+extent described in the Order Form.
+
+3.2.1 Concurrent User License: Under the terms of a Concurrent User License, the Software may only be used to serve an
+aggregate specified maximum number of individual end users of your Customer Applications at any one time.
+
+3.2.2 Education License: Under the terms of an Education License, the Software may only be used by a student or a faculty/
+staff member for educational purposes while actively studying or teaching at an educational institution and for no other
+purpose. An Educational License may not be shared or used at the same time on different devices.
+
+3.2.3 Named User License for Server Software: Under the terms of a Named User License, the Software is licensed for use by a
+particular individual as the User. You must pay a license fee for each separate User that you wish to access and use the
+Software. A Named User License for the Software may not be shared or re—assigned. Notwithstanding the foregoing, you may
+permanently terminate a named User and assign the named User’s license to a new named User. For example, if a named User
+ceases to be employed by you, you may re-assign his or her access credentials to a new named User.
+
+3.2.4 Named User License for Desktop Software: Under the terms of a Named User License for RStudio Desktop Pro, the
+Software is licensed for use by a particular individual as the User on up to five devices. You must acquire and dedicate a license
+for each separate User that you wish to access and use the Software. A Named User License for the Software may not be shared.
+
+3.2.5 Server License: Under the terms of a Server License, the Software is licensed for use on a single physical or virtual
+computer server.
+
+3.2.6 Subscription or Term License: Under the terms of a Subscription, or Term License, the Software is licensed only for the
+period of time set forth in the Order Form. The Subscription, or Term License is in combination with the other license types set
+forth herein thereby limiting the use of the Software to such applicable license type for the period of time for the applicable
+subscription or term. The Subscription, or Term License begins on the date the Software is delivered and continues for the
+subscription or term specified in the Order Form. If the term or Subscription is not specified in the Order Form then the term is
+twelve (12) months. Software with a Subscription, or Term License may contain a mechanism that limits Software usage in
+accordance with the license.
+
+3.3 Delivery. Delivery of the Software shall be made by electronic means and such delivery shall be deemed to have been made
+upon RStudio or its Reseller, as the case may be, making the Software or services available to you for download or by providing you
+with a license key for such usage. Notwithstanding the foregoing, where the Order Form provides for physical delivery or where
+electronic delivery is not possible given the nature of the requirements, delivery shall be deemed to have been made upon the
+transfer of the Software by RStudio or its Reseller to its shipping agent. RStudio's Software (other than Trial Versions) may transmit
+license-related data at the time of license activation to a RStudio license server in order to activate your license, provide you with
+update notifications, and to protect you and RStudio against unlicensed or illegal use of the Software; provided, however, that you
+may elect to use the off-line activation mechanism as provided in the Software, in which case license-related data will not be
+transmitted. You acknowledge that the Software may include licensing technology, anticopying subroutines and other security
+measures designed to limit usage of the Software to that which is licensed hereunder. Such measures are not intended to interfere
+with your normal and permitted operation of the Software as licensed hereunder.
+
+3.4 Virtualization Technology; Non-Human Devices. The Software may be installed within a virtual (or otherwise emulated)
+hardware system so long as the use of the Software meets the terms of the license type and these virtual machines are run on
+hardware owned or leased by you, including, provided that you maintain compliance with this Agreement, remote cloud based
+hosting services, such as Amazon Web Services. Virtualization technology may not be used to circumvent other licensing terms or
+restrictions. Non-human devices that use the Software without interaction are counted as Users. Each device that runs the Software
+
+RStudio, Inc.
+Conﬁdential Information 2 E ULA v 2.0 July 10, 20] 7
+
+must be properly licensed to use the Software with one of the license types described herein. Examples of non-human devices
+include, but are not limited to, virtual PCs, build servers, unattended PCs for batch jobs, or similar.
+
+3.5 Usage Verification. At RStudio’s written request, and no more than once every twelve (12) months (or more frequently if a
+previous violation has taken place), you will certify to RStudio that you are in compliance with this Agreement and the restrictions
+set forth on the Order Form.
+
+3.6 Restrictions. Your use of the Software is limited by the usage restrictions as are set forth on an Order Form and as set forth
+herein. RStudio and its suppliers reserve any and all rights, implied or otherwise, which are not expressly granted to you hereunder,
+and retain all rights, title and interest in and to the Software. Except as otherwise expressly permitted herein or in an Order Form,
+you shall not and shall not permit any third party to: (a) copy (except for a reasonable number of backup and archival copies as
+permitted herein), modify, adapt, transfer, distribute, resell, rent, lease, sublicense or loan the Software or create or prepare
+derivative works based upon the Software or any part thereof, (b) use the Software in a service bureau, or application service
+provider environment, or in any commercial time share arrangement or otherwise use or make available the Software or any party of
+the Software for the benefit of any third party, or make the Software or any part of the Software publicly available for download or
+
+use via an internet website, (c) combine all or any part of the Software with other software or use all or part the Software to create
+
+a new product or application; provided, that, for the purposes of clarity, your Authorized Users may use the Software to create
+Customer Applications, (d) distribute any software or device incorporating all or part of the Software, (e) use the Software except
+on your own internal computer networks, (f) otherwise use the Software on any computer that you do not own or control, (g) use
+the Software in contravention to any applicable laws or government regulations, or (h) decompile, disassemble or otherwise reverse
+engineer the Software. If 3.7(h) is prohibited by applicable law, you shall provide RStudio with a detailed prior written notice of any
+such intention to reverse engineer the Software and shall provide RStudio with a right of first refusal to perform such work at rates
+equal to those proposed by a recognized third-party software services provider for such work. You shall take all reasonable
+precautions to prevent unauthorized or improper use or disclosure of the Software. RStudio and other trademarks contained in the
+Software are trademarks or registered trademarks of RStudio Software Inc. in the United States and/ or other countries. You may not
+remove or alter any trademark, trade names, product names, logo, copyright or other proprietary notices, legends, symbols or
+labels in the Software. You may not export the Software into any country prohibited by the United States Export Administration Act
+and the regulations thereunder. You acknowledge that the export of any Software is subject to export or import control and you
+agree that any Software or the direct or indirect product thereof will not be imported or exported (or re-exported from a country of
+installation) directly or indirectly, unless you obtain all necessary licenses from the US. Department of Commerce or other
+applicable agency or governmental body as required under applicable law. You shall comply with the export laws and regulations of
+the United States and other applicable jurisdictions in using the Software. Without limiting the foregoing, (i) you represent that you
+are not named on any U.S. government list of persons or entities prohibited from receiving exports, and (ii) you shall not permit
+Users to access or use the Software in violation of any U.S. export embargo, prohibition or restriction. You acknowledge and agree
+that the Software is prohibited for export or re-export to Cuba, North Korea, Iran, Libya, Syria and Sudan or to any person or entity
+on the U.S. Department of Commerce Denied Persons List or on the U.S. Department of Treasury's lists of Specially Designated
+Nationals, Specially Designated Narcotics Traffickers or Specially Designated Terrorists, as such is changed from time to time.
+
+3.7 Third Party Applications for the RStudio Software. The Software is intended for use with “R”, the open source programming
+language and software environment, and, as such, interoperates with certain open source components as part of its basic
+functionality. If you use the Software with applications developed by a third party or to access data, content or resources provided
+by a third party, you agree that RStudio is not responsible for those applications, data, content, or resources. You understand that
+all data, content or resources which you may access through such third party applications are the sole responsibility of the person
+from which they originated and that RStudio is not liable for any loss or damage that you may experience as a result of the use or
+access of any of those third party applications, data, content, or resources. You further acknowledge that the data, content, and
+resources presented to you and your Users through such a third party application may be protected by intellectual property rights
+which are owned by the providers (or by other persons or companies on their behalf) and not RStudio. Your use of those resources
+may require rights beyond those granted by this Agreement and you acknowledge that any use of third party applications, data,
+content, or resources may be subject to separate terms between you and the relevant third party.
+
+3.8 Open Source Software. You acknowledge that certain third party software incorporated in the Software requires that RStudio
+provide copyright notices and/or additional terms and conditions to you, which copyright notices and additional terms and
+conditions may be accessed by you at https://www.rstudio.com/about/opensourcelicenses/ are made a part of, and are
+incorporated by reference into this Agreement. Use, reproduction and distribution of those components of the Software that are
+licensed under an open source software license are governed solely by the terms of that open source software license and not this
+Agreement.
+
+4. Support Services
+
+During a Support Services Period, RStudio will provide you with Support Services, including Updates, all in accordance with RStudio’s
+standardized Product Support Program as it exists from time to time as set forth at httg://www.rstudio.com/about/supgort-
+agreement/ . Support Services are provided to your designated representatives. RStudio may use technical information provided by
+you relating to the Software as part of the Support Services, including for product support and development. If RStudio provides
+support for earlier versions of the Software, such support will be treated, billed, and paid for, as professional services. RStudio
+makes no representation or warranty that all bugs will be fixed or all Software will be updated. In addition, as part of the Support
+Services, RStudio may make available bug lists, planned feature lists, and other supplemental materials. RStudio makes no
+representations or warranties of any kind for these materials.
+
+5. Fees and Payments
+
+You shall pay RStudio, or its Reseller, as the case may be, the fees, charges and other amounts specified in an Order Form in
+accordance with the terms of such Order Form. In the event the Order Form or Reseller paperwork does not provide for the terms
+for the payment of such fees, you shall pay RStudio the fees, charges and other amounts set forth in the applicable Order Form
+within forty-five (45) days of the date of invoice. RStudio is expressly authorized by you to deliver the Software upon execution of
+the applicable Order Form and, to the extent applicable, to invoice any applicable fees, charges or other amounts upon delivery. To
+
+RStudio, Inc.
+Conﬁdential Information 3 E ULA v 2.0 July 10, 20] 7
+
+the extent such fees are not required to be paid up front, you shall provide a purchase order or notice that a purchase order is not
+required for purchase or payment prior to the shipment of any Software or the provision of any Support Services. If your internal
+procedures require that an invoice be submitted against a purchase order before payment can be made, you shall be responsible for
+issuing such purchase order to RStudio in a timely fashion and your failure to do so will not extend or obviate its responsibilities to
+pay all fees and other charges in accordance with this Agreement. All fees and other charges are quoted in United States dollars.
+Other than as specifically provided herein, you will not be entitled to a refund of amounts paid for the license to use the Software
+or services provided, or any other amounts for any reason. You shall be responsible for taxes levied on any transaction under this
+Agreement, including all federal, state, and local taxes, levies and assessments, excluding any tax based on RStudio's net income.
+
+6. Confidentiality
+
+6.1 Confidential Information. During the term of this Agreement, each party will regard any information provided to it by the other
+party and designated in writing as proprietary or confidential to be confidential (“Confidential Information”). Confidential
+Information shall also include information which, to a reasonable person familiar with the disclosing party's business and the industry
+in which it operates, is of a confidential or proprietary nature. A party will not disclose the other party’s Confidential Information to
+any third party without the prior written consent of the other party, nor make use of any of the other party’s Confidential
+Information except in its performance under this Agreement. Each party accepts responsibility for the actions of its agents or
+employees and shall protect the other party’s Confidential Information in the same manner as it protects its own valuable
+confidential information, but in no event shall less than reasonable care be used. The parties expressly agree that the Software and
+the terms and pricing of this Agreement are the Confidential Information of RStudio. A receiving party shall promptly notify the
+disclosing party upon becoming aware of a breach or threatened breach hereunder, and shall cooperate with any reasonable request
+of the disclosing party in enforcing its rights.
+
+6.2 Exclusions. Information will not be deemed Confidential Information hereunder if such information: (i) is known prior to receipt
+from the disclosing party, without any obligation of confidentiality; (ii) becomes known to the receiving party from a source other
+than one having an obligation of confidentiality, directly or indirectly, to the disclosing party; (iii) becomes publicly known or
+otherwise publicly available, except through a breach of this Agreement; or (iv) is independently developed by the receiving party
+without use of or reference to the disclosing party’s Confidential Information. The receiving party may disclose Confidential
+Information pursuant to the requirements of applicable law (including without limitation applicable state or federal regulations
+which may require you to make disclosure pursuant to and as limited by such regulations, such as freedom of information
+regulations), legal process or government regulation, provided that it gives the disclosing party reasonable prior written notice to
+permit the disclosing party to contest such disclosure, and such disclosure is otherwise limited to the required disclosure.
+
+6.3 Specific Performance. If the receiving party discloses or uses (or threatens to disclose or use) any Confidential Information in
+
+breach of this Section 6, the disclosing party shall have the right, in addition to any other remedies available to it, to seek
+injunctive relief to enjoin such acts, without the posting of a bond or other security, it being specifically acknowledged by the
+parties that any other available remedies are inadequate.
+
+7. Ownership; Feedback
+
+7.1 Except as expressly provided in this Agreement, RStudio and its suppliers retain all right, title and interest, including all
+copyright and intellectual property rights, in and to, the Software, including without limitation all enhancements, improvements,
+bug fixes, updates, upgrades, modifications and derivative works thereof, as an independent work and as an underlying work serving
+as a basis for any improvements, modifications, derivative works, and applications you may develop, and all copies thereof. All
+rights not specifically granted in this Agreement, including Federal and international copyrights, are reserved by RStudio and its
+suppliers. RStudio agrees that it obtains no right, title or interest from you and your users (or your licensors) under this Agreement in
+or to any Customer Applications you use with the Professional Server Products. If the Software was acquired outside the United
+States, then you agree and assent to the adherence to all applicable international treaties regarding copyright and intellectual
+property rights which shall also apply. In addition, you agree that any local laws to the benefit and protection of RStudio's ownership
+of, and interest in, its intellectual property and rights of recovery for damages thereto will also apply.
+
+7.2 You and you Users may, from time to time, make known to RStudio suggestions, enhancement requests, techniques, know-how,
+comments, feedback or other input to RStudio with respect to the Software (collectively, “Suggestions”). Unless otherwise agreed
+to in writing by the parties with respect to any Suggestion, RStudio shall have a royalty-free, worldwide, irrevocable, perpetual
+license to use, disclose, reproduce, license, distribute and exploit any Suggestion without restriction or obligation of any kind, on
+account of confidential information, intellectual property rights or otherwise, and may, in its sole discretion, incorporate into its
+services any service, product, technology, enhancement, documentation or other development (“Improvement”) incorporating or
+derived from any Suggestion.
+
+8. Limited Warranty
+
+8.1 Except with respect to the Trial Version of the Software for which RStudio provides no remedies or warranties, RStudio warrants
+that (a) during the term of your Subscription or Term License, the Software will perform in conformity with its Documentation; and
+(b) any Support Services will be provided with reasonable skill and care conforming to generally accepted software industry
+standards. Your exclusive remedy for RStudio’s breach of the foregoing warranties is that RStudio will, at its option and at no
+additional charge to you, (a) provide remedial services necessary to enable the Software or Support Services to conform to the
+warranty, or (b) replace any defective Software or media. RStudio’s warranty obligations will only extend (i) to material errors that
+can be demonstrated to exist in an unmodified version of the Software except where the modifications were carried out by RStudio
+or with to its written specifications and subject to its written approval and (ii) in respect of alleged breaches for which RStudio has
+received written notice within the Warranty Period, if applicable. You will provide RStudio with a reasonable opportunity to remedy
+any breach and reasonable assistance in remedying any defects.
+
+8.2 RStudio represents and warrants, as of the date of delivery of the Software to you, that RStudio has used commercially
+available virus scanning software to scan the Software for known viruses and RStudio has removed from the Software any known
+viruses identified by such scans.
+
+RStudio, Inc.
+Conﬁdential Information 4 E ULA v 2.0 July 10, 20] 7
+
+8.3 EXCEPT AS SET FORTH IN THIS SECTION 8, THE SOFTWARE IS PROVIDED “AS IS” AND RSTUDIO AND ITS SUPPLIERS DISCLAIM ALL
+OTHER WARRANTIES AND REPRESENTATIONS, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT
+LIMTATION EXPRESSLY DISCLAIMING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-
+INFRINGEMENT AND TITLE. RSTUDIO DOES NOT REPRESENT OR WARRANT THAT THE SOFTWARE IS ERROR FREE OR THAT ALL ERRORS
+CAN BE CORRECTED. THE SOFTWARE IS NOT DESIGNED, INTENDED OR LICENSED FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING
+FAIL-SAFE CONTROLS, INCLUDING WITHOUT LIMITATION, THE DESIGN, CONSTRUCTION, MAINTENANCE OR OPERATION OF NUCLEAR
+FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, AND LIFE SUPPORT OR WEAPONS SYSTEMS.
+RSTUDIO SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH PURPOSES. No oral or written
+information or advice given by RStudio, its Resellers, dealers, distributors, agents, representatives or employees shall create any
+warranty or in any way increase any warranty provided herein.
+
+8.4 If applicable law requires any warranties other than the foregoing, all such warranties are limited in duration to ninety (90) days
+from the date of delivery. Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply
+to you. The warranty provided herein gives you specific legal rights and you may also have other legal rights that vary from
+jurisdiction to jurisdiction. The limitations or exclusions of warranties, remedies or liability contained in this Agreement shall apply
+to you only to the extent such limitations or exclusions are permitted under the laws of the jurisdiction where you are located.
+
+9. Indemnity
+
+9.1 RStudio agrees to defend (at RStudio’s expense) you and your Affiliates and your respective officers, directors and employees
+from and against any and all third party claims asserted against you by a third party (“Third Party Claims”) alleging infringement by
+the Software of the third party’s intellectual property rights arising under United States law or the laws of a country party to the
+Berne Convention and RStudio shall indemnify and hold you harmless from all damages finally awarded by a court of competent
+jurisdiction or pursuant to binding arbitration or agreed to by RStudio in settlement with respect to such Third Party Claims.
+Notwithstanding the foregoing, RStudio shall have no obligation with respect to Third Party Claims or demands arising from (i) an
+allegation that does not state with specificity that the Software is the basis of the Third Party Claims; (ii) the use or combination of
+the Software or any part thereof with software, hardware, or other materials not developed by RStudio if the Software or use
+thereof would not infringe without such combination, (iii) modification of the Software by a party other than RStudio or its
+authorized contractors, if the use of unmodified Software would not constitute infringement, (iv) your products or applications,
+including without limitation your Customer Applications, other than Third Party Claims related to the Software for which RStudio is
+obligated to indemnify you under this Section 9.2, (v) your use of the Software not in accordance with this Agreement or the
+Documentation, (vi) an allegation of infringement or misappropriation deriving from “R”, packages developed for “R”, or other open
+source software, or (vii) an allegation made against you prior to the execution of this Agreement. This Section 9.2 states RStudio’s
+sole liability and your exclusive remedy for claims of infringement or misappropriation of third party intellectual property rights.
+
+9.2 You agree to defend (at your expense) RStudio and its officers, directors and employees from and against any and all third party
+claims asserted against any or all of them, and you shall indemnify and hold RStudio harmless from all losses, costs and expenses
+incurred by RStudio, damages finally awarded by a court of competent jurisdiction or binding arbitration, and amounts agreed to by
+you in settlement with respect to such claims, which claims arise out of or relate to (a) your and your Users use of the Software that
+is not in compliance with this Agreement or the Documentation, or (b) your Customer Applications, including any claim that your
+Customer Applications infringe any intellectual property rights of a third party arising under United States law or the laws of a
+country party to the Berne Convention or defames any third party or violates their rights of publicity or privacy.
+
+9.3 Each party’s obligations under this Section 9 are conditioned on the indemnified party (i) providing the indemnifying party with
+written notice promptly upon learning of any claim for which it seeks indemnification (provided, that any failure to provide prompt
+notice shall not relieve the indemnifying party of its obligations except to the extent the indemnifying party was prejudiced by such
+failure); (ii) providing the indemnifying party sole control over the defense and settlement of the claim, provided the indemnifying
+party may not settle the claim in a manner adverse to the indemnified party or which would impose liability on the indemnified
+party without the indemnified party’s prior written consent (which will not be unreasonably withheld or delayed); and (iii) providing
+the indemnifying party with assistance in the defense and settlement of the claim at the indemnifying party’s expense. The
+indemnified may (at its own cost) engage its own counsel to participate in the defense and settlement of the claim.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY FOR ANY
+INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+DAMAGES FOR THE INABILITY TO USE EQUIPMENT, SOFTWARE OR ACCESS DATA, LOSS OF BUSINESS, LOSS OF PROFITS, LOSS OF USE,
+LOSS OR CORRUPTION OF DATA, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, BUSINESS INTERRUPTION OR THE LIKE), ARISING
+OUT OF THIS AGREEMENT OR THE USE OF, OR INABILITY TO USE, THE SOFTWARE AND BASED ON ANY THEORY OF LIABILITY INCLUDING
+BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF SUCH
+PARTY OR ITS REPRESENTATIVES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH
+HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY LAW, EACH PARTY’S TOTAL
+LIABILITY TO THE OTHER PARTY FOR ACTUAL DAMAGES FOR ANY CAUSE WHATSOEVER WILL BE LIMITED TO THE AMOUNT PAID BY YOU
+OR RESELLER, IF ORDERED THROUGH A RESELLER, FOR THE SOFTWARE THAT CAUSED SUCH DAMAGE IN THE TWELVE MONTHS
+IMMEDIATELY PRIOR TO THE DATE THE CAUSE OF ACTION AROSE.
+
+The foregoing limitations shall not apply, and a party’s liability shall be unlimited for, damages arising from (i) such party’s gross
+negligence, willful misconduct and fraud, (ii) breach of the obligations of confidentiality set forth in Section 6, or (iii) breach of the
+license granted pursuant to Section 3.1 or the restrictions set forth in Section 3.6.
+
+Further, the foregoing limitations shall not apply to a party’s indemnification obligations in Section 9 for which a party’s total
+aggregate liability shall be limited to (x) three times (3x) the fees you paid by you (whether directly or through a Reseller) to
+RStudio under such Orders in the twelve months immediately preceding the date the claim arose or (y) $100,000, whichever is
+greater.
+
+RStudio, Inc.
+Conﬁdential Information 5 E ULA v 2.0 July 10, 20] 7
+
+The Disclaimer set forth in Section 8.2 and Limitation of Liability set forth above are fundamental elements of the basis of the
+agreement between RStudio and you. RStudio and its suppliers would not be able to provide the Software on an economic basis
+without such limitations.
+
+11. Term and Termination
+
+11.1 The term of this Agreement shall be the Subscription Term set forth in the applicable Order Form, subject to earlier
+termination as provided herein.
+
+11.2 This Agreement or an individual license granted hereunder may be terminated (a) in the case of RStudio, if you fail to pay any
+amount due hereunder within ten (10) days after written demand by RStudio for payment thereof, (b) by either party if the other
+party becomes insolvent, resolves to file bankruptcy, or if a petition in bankruptcy is filed against the other party and such petition
+is not discharged within sixty (60) days of such filing, (c) by mutual written agreement of the parties, or (d) by either party if the
+other party materially breaches this Agreement and fails to cure such breach to such party’s reasonable satisfaction within thirty
+(30) days following receipt of written notice thereof.
+
+11.3 Upon any termination of this Agreement or a license granted hereunder, all applicable licenses are revoked and you shall
+immediately cease use of the applicable Software and certify in writing to RStudio within thirty (30) days after termination that such
+Software and all copies thereof have been destroyed, purged or returned to RStudio. Termination of this Agreement or a license
+granted hereunder shall not limit either party from pursuing any remedies available to it, including injunctive relief, or relieve you
+of your obligation to pay all fees that have accrued, have been paid, or have become payable hereunder. All provisions of this
+Agreement which by their nature are intended to survive the termination of this Agreement (including, without limitation, the
+provisions of Sections 1, 6, 7, 8.2, 9, 10, 11.3 and 13) shall survive such termination.
+
+12. U.S. GOVERNMENT RESTRICTED RIGHTS LEGEND
+
+This Section 12 applies to all acquisitions of the Software by or for the federal government, or by any prime contractor or
+subcontractor (at any tier) under any contract, grant, cooperative agreement or other activity with the federal government. The
+Software was developed at private expense and is Commercial Computer Software, as defined in Section 12.212 of the Federal
+Acquisition Regulation (48 CFR 12.212 (October 1995)) and Sections 227.7202-1 and 227.7202-3 of the Defense Federal Acquisition
+Regulation Supplement (48 CFR 227.7202-1, 227.7202-3 (June 1995)). Accordingly, any use, duplication or disclosure by the
+Government or any of its authorized users is subject to restrictions as set forth in this standard license agreement for the Software.
+If for any reason, Sections 12.212, 227.7202-1 or 227.7202-3 are deemed not applicable, then the Government's rights to use,
+duplicate or disclose the Software are limited to "Restricted Rights" as defined in 48 CFR Section 52.227-19(c)(1) and (2) (June 1987),
+or DFARS 252.227-7014(a)(14) (June 1995), as applicable. If this Agreement fails to meet the government's needs or is inconsistent in
+any respect with Federal law, the government agrees to return the Software, unused, to RStudio at the address set forth above.
+
+13. General
+
+13.1 This Agreement shall be governed by the internal laws of the Commonwealth of Massachusetts, U.S.A., without giving effect to
+principles of conflict of laws. You hereby consent to the exclusive jurisdiction and venue of the state courts sitting in the
+Commonwealth of Massachusetts or the federal courts in the Commonwealth of Massachusetts to resolve any disputes arising under
+this Agreement. In each case this Agreement shall be construed and enforced without regard to the United Nations Convention on
+the International Sale of Goods.
+
+13.2 Neither party may assign or allow the assumption of any of its rights or obligations hereunder, whether by operation of law or
+otherwise, without the prior written consent of the other party (not to be unreasonably withheld). Notwithstanding the foregoing,
+either party may assign this Agreement in its entirety (including all Order Forms), without consent of the other party, to its Affiliate
+or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets, stock or business
+to which this Agreement relates to the third party purchasing such stock or assets who agrees in writing to be bound hereby. Subject
+to the foregoing, this Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+
+13.3 This Agreement, all documents referenced herein, and the Order Form(s) entered into by the parties contains the complete
+agreement between the parties with respect to the subject matter hereof, and supersedes all prior or contemporaneous agreements
+or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other
+written notification or document issued by you in relation to the Software licensed hereunder shall be of no effect and all such
+terms or conditions shall be null and void. You acknowledge and agree that your agreement hereunder is not contingent upon the
+
+delivery of any future functionality or features not specified herein or in an Order Form or dependent upon any oral or written,
+public or private comments made by RStudio or any Reseller, dealer or agent with respect to future functionality or features for the
+Software. In the event of any conflict between the provisions in this Agreement and any Order Form, the terms of such Order Form
+shall prevail. The failure or delay of RStudio to exercise any of its rights under this Agreement or upon any breach of this Agreement
+shall not be deemed a waiver of those rights or of the breach. No Reseller or RStudio dealer or agent is authorized to make any
+amendment to this Agreement. The parties may amend this Agreement by mutual written agreement executed by duly authorized
+representatives of the parties. The parties agree that there are no third party beneficiaries to this Agreement. Neither party shall be
+deemed to be an employee, agent or other legal representative of the other party for any purpose whatsoever, or have the right or
+authority to assume or otherwise create any obligation or responsibility, express or implied on behalf of the other party or to bind
+the other party in any manner whatsoever.
+
+13.4 If any provision of this Agreement shall be held by a court of competent jurisdiction to be contrary to law that provision will be
+enforced to the maximum extent permissible and the remaining provisions of this Agreement will remain in full force and effect. A
+waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, shall not waive such
+term or condition or any subsequent breach thereof.
+
+13.5 This Agreement may be executed in counterparts (including counterparts delivered by facsimile or other electronic means),
+which taken together shall form one legal instrument. The titles of the sections of this Agreement are for convenience of reference
+only and are not to be considered in construing this Agreement. Unless the context of this Agreement clearly requires otherwise:
+
+RStudio, Inc.
+Conﬁdential Information 6 E ULA v 2.0 July 10, 20] 7
+
+(i) references to the plural include the singular, the singular the plural, and the part the whole, (ii) “or” has the inclusive meaning
+frequently identified with the phrase “and/or,” (iii) ”including” has the inclusive meaning frequently identified with the phrase
+“including but not limited to” or “including without limitation,” and (iv) references to “hereunder,” “herein” or “hereof” relate to
+this Agreement as a whole. Any reference in this Agreement to any statute, rule, regulation or agreement, including this Agreement,
+shall be deemed to include such statute, rule, regulation or agreement as it may be modified, varied, amended or supplemented
+from time to time. The parties agree that this Agreement shall be fairly interpreted in accordance with its terms without any strict
+construction in favor of or against either party and that ambiguities shall not be interpreted against the drafting party.
+
+13.6 This Agreement is a click-wrap agreement that will be made available on the website where the Software will be
+available for download (the “Website”). RStudio may make changes to this Agreement from time to time without further
+notice. When these changes are made, RStudio will make a new version of the Agreement available on the Website.
+Continued use of the Software by you and your Users after any such changes constitutes your acceptance of the new License
+Agreement. If you and your Users do not agree to abide by these or any future Agreement, do not use (or continue to use) the
+Software.
+
+RSl‘udio, Inc.
+Conﬁdential Information 7 E ULA v 2.0 July I 0, 20] 7
+

@@ -1,212 +1,1141 @@
-international license agreement for evaluation programs part general terms downloading installing copying accessing clicking accept button otherwise using the program licensee agrees the terms this agreement
-you are accepting these terms behalf licensee you represent and warrant that you have full authority bind licensee these terms
-you not agree these terms not download install copy access click accept button promptly return the unused media and documentation the party use the program and from whom was obtained
-the program was downloaded destroy all copies the program
-definitions authorized use the specified level which licensee authorized execute run the program
-that level may measured number users millions service units msus processor value units pvus other level use specified ibm
-ibm international business machines corporation one its subsidiaries
-license information document that provides information and any additional terms specific program
-the programs can found the programs directory the use system command booklet included with the program
-program the following including the original and all whole partial copies machinereadable instructions and data components files and modules audiovisual content such images text recordings pictures and related licensed materials such keys and documentation
-agreement structure this agreement includes part general terms part countryunique terms any and the and the complete agreement between licensee and ibm regarding the use the program
-replaces any prior oral written communications between licensee and ibm concerning licensees use the program
-the terms part may replace modify those part the extent any conflict the prevails over both parts
-license grant the program owned ibm ibm supplier and copyrighted and licensed not sold
-ibm grants licensee limited nonexclusive nontransferable license download install and use the program during the evaluation period the authorized use specified the solely for internal evaluation testing demonstration purposes trial basis make and install reasonable number copies support such authorized use and make backup copy all provided that licensee has lawfully obtained the program and complies with the terms this agreement licensee reproduces all copyright notices and other legends ownership each copy the backup copy does not execute unless the backedup program cannot execute partial copy the program licensee maintains record all copies the program and ensures that anyone who uses the program accessed either locally remotely does only licensees behalf and complies with the terms this agreement licensee does not use the program for productive purposes otherwise use copy modify distribute the program except expressly permitted this agreement z125554305
-reverse assemble reverse compile otherwise translate reverse engineer the program except expressly permitted law without the possibility contractual waiver use any the programs components files modules audiovisual content related licensed materials separately from that program sublicense rent lease the program use the program for commercial application hosting and licensee obtains this program supporting program licensee uses this program only support the principal program and subject any limitations the license the principal program licensee obtains this program principal program licensee uses all supporting programs only support this program and subject any limitations this agreement
-for purposes this item supporting program program that part another ibm program principal program and identified supporting program the principal programs obtain separate license supporting program without these restrictions licensee should contact the party from whom licensee obtained the supporting program this license applies each copy the program that licensee makes
-updates fixes and patches when licensee receives update fix patch program licensee accepts any additional different terms that are applicable such update fix patch that are specified its additional different terms are provided then the update fix patch subject solely this agreement
-the program replaced update licensee agrees promptly discontinue use the replaced program
-term and termination the evaluation period begins the date licensee agrees the terms this agreement and ends upon the earliest the end the duration the date specified ibm either the license information transaction document the date which the program automatically disables itself
-licensee will destroy the program and all copies made within ten days the end the evaluation period
-ibm specifies the that licensee may retain the program and licensee elects then the program will subject different license agreement which ibm will provide licensee
-addition charge may apply
-ibm may terminate licensees license licensee fails comply with the terms this agreement
-the license terminated for any reason either party licensee agrees promptly discontinue use and destroy all licensees copies the program
-any terms this agreement that their nature extend beyond termination this agreement remain effect until fulfilled and apply both parties respective successors and assignees
-the program may contain disabling device that will prevent from being used after the evaluation period ends
-licensee agrees not tamper with the disabling device the program
-licensee should take precautions avoid any loss data that might result when the program can longer used
-charges there charge for the use the program for the duration the evaluation period
-warranties subject any statutory warranties that cannot excluded ibm makes warranties conditions express implied regarding the program support any including but not limited any implied warranties conditions merchantability satisfactory quality fitness for particular purpose and title and any warranty condition noninfringement
-some states jurisdictions not allow the exclusion express implied warranties the above exclusion may not apply licensee
-that event such warranties are limited duration z125554305
-the minimum period required law
-warranties apply after that period
-some states jurisdictions not allow limitations how long implied warranty lasts the above limitation may not apply licensee
-licensee may have other rights that vary from state state jurisdiction jurisdiction
-the disclaimers and exclusions this section also apply any ibms program developers and suppliers
-manufacturers suppliers publishers nonibm programs may provide their own warranties
-ibm does not provide support any kind unless ibm specifies otherwise
-such event any support provided ibm subject the disclaimers and exclusions this section licensee data and databases assist licensee isolating the cause problem with the program ibm may request that licensee allow ibm remotely access licensees system send licensee information system data ibm
-however ibm not obligated provide such assistance unless ibm and licensee enter separate written agreement under which ibm agrees provide licensee that type support which beyond ibms obligations this agreement
-any event ibm uses information about errors and problems improve its products and services and assist with its provision related support offerings
-for these purposes ibm may use ibm entities and subcontractors including one more countries other than the one which licensee located and licensee authorizes ibm licensee remains responsible for any data and the content any database licensee makes available ibm the selection and implementation procedures and controls regarding access security encryption use and transmission data including any personallyidentifiable data and backup and recovery any database and any stored data
-licensee will not send provide ibm access any personallyidentifiable information whether data any other form and will responsible for reasonable costs and other amounts that ibm may incur relating any such information mistakenly provided ibm the loss disclosure such information ibm including those arising out any third party claims
-limitation liability the limitations and exclusions this section limitation liability apply the full extent they are not prohibited applicable law without the possibility contractual waiver
-items for which ibm may liable circumstances may arise where because default ibms part other liability licensee entitled recover damages from ibm
-regardless the basis which licensee entitled claim damages from ibm including fundamental breach negligence misrepresentation other contract tort claim ibms entire liability for all claims the aggregate arising from related each program otherwise arising under this agreement will not exceed the amount any damages for bodily injury including death and damage real property and tangible personal property and other actual direct damages 10000 equivalent local currency
-this limit also applies any ibms program developers and suppliers
-the maximum for which ibm and its program developers and suppliers are collectively responsible
-z125554305
-items for which ibm not liable under circumstances ibm its program developers suppliers liable for any the following even informed their possibility loss damage data special incidental exemplary indirect damages for any economic consequential damages lost profits business revenue goodwill anticipated savings
-compliance verification for purposes this section compliance verification evaluation program terms means this agreement and applicable amendments and transaction documents provided ibm and ibm software policies that may found the ibm software policy website wwwibmcomsoftwarepolicies including but not limited those policies concerning backup subcapacity pricing and migration
-the rights and obligations set forth this section remain effect during the period the program licensed licensee and for two years thereafter
-verification process licensee agrees create retain and provide ibm and its auditors accurate written records system tool outputs and other system information sufficient provide auditable verification that licensees use all programs compliance with the evaluation program terms including without limitation all ibms applicable licensing and pricing qualification terms
-licensee responsible for ensuring that does not exceed its authorized use and remaining compliance with evaluation program terms
-upon reasonable notice ibm may verify licensees compliance with evaluation program terms all sites and for all environments which licensee uses for any purpose programs subject evaluation program terms
-such verification will conducted manner that minimizes disruption licensees business and may conducted licensees premises during normal business hours
-ibm may use independent auditor assist with such verification provided ibm has written confidentiality agreement place with such auditor
-resolution ibm will notify licensee writing any such verification indicates that licensee has used any program excess its authorized use otherwise not compliance with the evaluation program terms
-licensee agrees promptly pay directly ibm the charges that ibm specifies invoice for any such excess use support for such excess use for the lesser the duration such excess use two years and any additional charges and other liabilities determined result such verification
-third party notices the program may include third party code that ibm not the third party licenses licensee under this agreement
-notices any for the third party code third party notices are included for licensees information only
-these notices can found the programs notices files
-information how obtain source code for certain third party code can found the third party notices
-the third party notices ibm identifies third party code modifiable third party code ibm authorizes licensee modify the modifiable third party code and reverse engineer the program modules that directly interface with the modifiable third party code provided that only for the purpose debugging licensees modifications such third party code
-ibms service and support obligations any apply only the unmodified program
-z125554305
-general nothing this agreement affects any statutory rights consumers that cannot waived limited contract
-any provision this agreement held invalid unenforceable the remaining provisions this agreement remain full force and effect
-licensee prohibited from exporting the program
-licensee authorizes international business machines corporation and its subsidiaries and their successors and assigns contractors and ibm business partners store and use licensees business contact information wherever they business connection with ibm products and services furtherance ibms business relationship with licensee
-each party will allow the other reasonable opportunity comply before claims that the other has not met its obligations under this agreement
-the parties will attempt good faith resolve all disputes disagreements claims between the parties relating this agreement
-unless otherwise required applicable law without the possibility contractual waiver limitation neither party will bring legal action regardless form for any claim arising out related this agreement more than two years after the cause action arose and upon the expiration such time limit any such claim and all respective rights related the claim lapse
-neither licensee nor ibm responsible for failure fulfill any obligations due causes beyond its control
-right cause action for any third party created this agreement nor ibm responsible for any third party claims against licensee except permitted subsection items for which ibm may liable above for bodily injury including death damage real tangible personal property for which ibm legally liable that third party
-entering into this agreement neither party relying any representation not specified this agreement including but not limited any representation concerning the performance function the program other than expressly warranted section warranties above the experiences recommendations other parties any results savings that licensee may achieve
-ibm has signed agreements with certain organizations called ibm business partners promote market and support certain programs
-ibm business partners remain independent and separate from ibm
-ibm not responsible for the actions statements ibm business partners obligations they have licensee
-the license and intellectual property indemnification terms licensees other agreements with ibm such the ibm customer agreement not apply program licenses granted under this agreement
-geographic scope and governing law 111 governing law both parties agree the application the laws the country which licensee obtained the program license govern interpret and enforce all licensees and ibms respective rights duties and obligations arising from relating any manner the subject matter this agreement without regard conflict law principles
-the united nations convention contracts for the international sale goods does not apply
-112 jurisdiction all rights duties and obligations are subject the courts the country which licensee obtained the program license
-z125554305
-part countryunique terms for licenses granted the countries specified below the following terms replace modify the referenced terms part all terms part that are not changed these amendments remain unchanged and effect
-this part organized follows multiple country amendments part section governing law and jurisdiction americas country amendments other agreement terms asia pacific country amendments other agreement terms and europe middle east and africa country amendments other agreement terms
-multiple country amendments part section governing law and jurisdiction 111 governing law the phrase the laws the country which licensee obtained the program license the first paragraph 111 governing law replaced the following phrases the countries below americas canada the laws the province ontario mexico the federal laws the republic mexico the united states anguilla antiguabarbuda aruba british virgin islands cayman islands dominica grenada guyana saint kitts and nevis saint lucia saint maarten and saint vincent and the grenadines the laws the state new york united states venezuela the laws the bolivarian republic venezuela
-asia pacific cambodia and laos the laws the state new york united states australia the laws the state territory which the transaction performed hong kong sar and macau sar the laws hong kong special administrative region sar taiwan the laws taiwan
-europe middle east and africa albania armenia azerbaijan belarus bosniaherzegovina bulgaria croatia former yugoslav republic macedonia georgia hungary kazakhstan kyrgyzstan moldova montenegro poland romania russia serbia slovakia tajikistan turkmenistan ukraine and uzbekistan the laws austria algeria andorra benin burkina faso cameroon cape verde central african republic chad comoros congo republic djibouti democratic republic congo equatorial guinea french guiana french polynesia gabon gambia guinea guineabissau ivory coast lebanon madagascar mali mauritania mauritius mayotte morocco new caledonia niger reunion senegal seychelles togo tunisia vanuatu and wallis and futuna the laws france estonia latvia and lithuania the laws finland angola bahrain botswana burundi egypt eritrea ethiopia ghana jordan kenya kuwait liberia malawi malta mozambique nigeria oman pakistan qatar rwanda sao tome and principe saudi arabia sierra leone somalia tanzania uganda united arab emirates the united kingdom west bankgaza yemen zambia and zimbabwe the laws england and z125554305
-south africa namibia lesotho and swaziland the laws the republic south africa
-112 jurisdiction the following paragraph pertains jurisdiction and replaces subsection 112 jurisdiction applies for those countries identified below all rights duties and obligations are subject the courts the country which licensee obtained the program license except that the countries identified below all disputes arising out related this agreement including summary proceedings will brought before and subject the exclusive jurisdiction the following courts competent jurisdiction americas argentina the ordinary commercial court the city buenos aires brazil the court rio janeiro chile the civil courts justice santiago ecuador the civil judges quito for executory summary proceedings applicable mexico the courts located mexico city federal district peru the judges and tribunals the judicial district lima cercado uruguay the courts the city montevideo venezuela the courts the metropolitan area the city caracas
-europe middle east and africa austria the court law vienna austria innercity algeria andorra benin burkina faso cameroon cape verde central african republic chad comoros congo republic djibouti democratic republic congo equatorial guinea france french guiana french polynesia gabon gambia guinea guineabissau ivory coast lebanon madagascar mali mauritania mauritius mayotte monaco morocco new caledonia niger reunion senegal seychelles togo tunisia vanuatu and wallis and futuna the commercial court paris angola bahrain botswana burundi egypt eritrea ethiopia ghana jordan kenya kuwait liberia malawi malta mozambique nigeria oman pakistan qatar rwanda sao tome and principe saudi arabia sierra leone somalia tanzania uganda united arab emirates the united kingdom west bankgaza yemen zambia and zimbabwe the english courts south africa namibia lesotho and swaziland the high court johannesburg greece the competent court athens israel the courts tel avivjaffa italy the courts milan portugal the courts lisbon spain the courts madrid and turkey the istanbul central courts and execution directorates istanbul the republic turkey
-z125554305
-113 arbitration the following paragraph added new subsection 113 arbitration applies for those countries identified below
-the provisions this subsection 113 prevail over those subsection 112 jurisdiction the extent permitted the applicable governing law and rules procedure asia pacific cambodia india laos philippines and vietnam disputes arising out connection with this agreement will finally settled arbitration which will held singapore accordance with the arbitration rules singapore international arbitration center siac rules then effect
-the arbitration award will final and binding for the parties without appeal and will writing and set forth the findings fact and the conclusions law
-the number arbitrators will three with each side the dispute being entitled appoint one arbitrator
-the two arbitrators appointed the parties will appoint third arbitrator who will act chairman the proceedings
-vacancies the post chairman will filled the president the siac
-other vacancies will filled the respective nominating party
-proceedings will continue from the stage they were when the vacancy occurred
-one the parties refuses otherwise fails appoint arbitrator within days the date the other party appoints its the first appointed arbitrator will the sole arbitrator provided that the arbitrator was validly and properly appointed
-all proceedings will conducted including all documents presented such proceedings the english language
-the english language version this agreement prevails over any other language version
-the peoples republic china case settlement can reached the disputes will submitted china international economic and trade arbitration commission for arbitration according the then effective rules the said arbitration commission
-the arbitration will take place beijing and conducted chinese
-the arbitration award will final and binding both parties
-during the course arbitration this agreement will continue performed except for the part which the parties are disputing and which undergoing arbitration
-indonesia each party will allow the other reasonable opportunity comply before claims that the other has not met its obligations under this agreement
-the parties will attempt good faith resolve all disputes disagreements claims between the parties relating this agreement
-unless otherwise required applicable law without the possibility contractual waiver limitation neither party will bring legal action regardless form arising out related this agreement any transaction under more than two years after the cause action arose and after such time limit any legal action arising out this agreement any transaction under and all respective rights related any such action lapse
-disputes arising out connection with this agreement shall finally settled arbitration that shall held jakarta indonesia accordance with the rules board the indonesian national board arbitration badan arbitrase nasional indonesia bani then effect
-the arbitration award shall final and binding for the parties without appeal and shall writing and set forth the findings fact and the conclusions law
-the number arbitrators shall three with each side the dispute being entitled appoint one arbitrator
-the two arbitrators appointed the parties shall appoint third z125554305
-arbitrator who shall act chairman the proceedings
-vacancies the post chairman shall filled the chairman the bani
-other vacancies shall filled the respective nominating party
-proceedings shall continue from the stage they were when the vacancy occurred
-one the parties refuses otherwise fails appoint arbitrator within days the date the other party appoints its the first appointed arbitrator shall the sole arbitrator provided that the arbitrator was validly and properly appointed
-all proceedings shall conducted including all documents presented such proceedings the english andor indonesian language
-europe middle east and africa albania armenia azerbaijan belarus bosniaherzegovina bulgaria croatia former yugoslav republic macedonia georgia hungary kazakhstan kyrgyzstan moldova montenegro poland romania russia serbia slovakia tajikistan turkmenistan ukraine and uzbekistan all disputes arising out this agreement related its violation termination nullity will finally settled under the rules arbitration and conciliation the international arbitral center the federal economic chamber vienna vienna rules three arbitrators appointed accordance with these rules
-the arbitration will held vienna austria and the official language the proceedings will english
-the decision the arbitrators will final and binding upon both parties
-therefore pursuant paragraph 598 the austrian code civil procedure the parties expressly waive the application paragraph 595 figure the code
-ibm may however institute proceedings competent court the country installation
-estonia latvia and lithuania all disputes arising connection with this agreement will finally settled arbitration that will held helsinki finland accordance with the arbitration laws finland then effect
-each party will appoint one arbitrator
-the arbitrators will then jointly appoint the chairman
-arbitrators cannot agree the chairman then the central chamber commerce helsinki will appoint the chairman
-americas country amendments canada items for which ibm may liable the following replaces item the first paragraph this subsection items for which ibm may liable damages for bodily injury including death and physical harm real property and tangible personal property caused ibms negligence and general the following replaces item 10h right cause action for any third party created this agreement any transaction under nor ibm responsible for any third party claims against licensee except permitted the limitation liability section above for bodily injury including death physical harm real tangible personal property caused ibms negligence for which ibm legally liable that third party
-z125554305
-the following added item 10l for purposes this item 10l personal data refers information relating identified identifiable individual made available one the parties its personnel any other individual the other connection with this agreement
-the following provisions apply the event that one party makes personal data available the other general each party responsible for complying with any obligations applying under applicable canadian data privacy laws and regulations laws
-neither party will request personal data beyond what necessary fulfill the purposes for which requested
-the purposes for requesting personal data must reasonable
-each party will agree advance the type personal data that required made available
-security safeguards each party acknowledges that solely responsible for determining and communicating the other the appropriate technological physical and organizational security measures required protect personal data
-each party will ensure that personal data protected accordance with the security safeguards communicated and agreed the other
-each party will ensure that any third party whom personal data transferred bound the applicable terms this section
-additional different services required comply with the laws will deemed request for new services
-use each party agrees that personal data will only used accessed managed transferred disclosed third parties otherwise processed fulfill the purposes for which was made available
-access requests each party agrees reasonably cooperate with the other connection with requests access amend personal data
-each party agrees reimburse the other for any reasonable charges incurred providing each other assistance
-each party agrees amend personal data only upon receiving instructions from the other party its personnel
-retention each party will promptly return the other destroy all personal data that longer necessary fulfill the purposes for which was made available unless otherwise instructed the other its personnel required law
-public bodies who are subject public sector privacy legislation for licensees who are public bodies subject public sector privacy legislation this item 10l applies only personal data made available licensee connection with this agreement and the obligations this section apply only licensee except that section applies only ibm sections and apply both parties and section and the last sentence not apply
-z125554305
-peru limitation liability the following added the end this section limitation liability except expressly required law without the possibility contractual waiver licensee and ibm intend that the limitation liability this limitation liability section applies damages caused all types claims and causes action
-any limitation exclusion from liability this section held court competent jurisdiction unenforceable with respect particular claim cause action the parties intend that nonetheless apply the maximum extent permitted applicable law all other claims and causes action
-items for which ibm may liable the following added the end this subsection accordance with article 1328 the peruvian civil code the limitations and exclusions specified this section will not apply damages caused ibms willful misconduct dolo gross negligence culpa inexcusable
-united states america general the following added section item 10l government users restricted rights use duplication disclosure restricted the gsa schedule contract with the ibm corporation
-the following added item 10e each party waives any right jury trial any proceeding arising out related this agreement
-asia pacific country amendments australia warranties the following added the first paragraph section warranties although ibm specifies that there are warranties licensee may have certain rights under the competition and consumer act 2010 other legislation and are only limited the extent permitted the applicable legislation
-items for which ibm may liable the following added subsection items for which ibm may liable where ibm breach condition warranty implied the competition and consumer act 2010 ibms liability limited the repair replacement the goods the supply equivalent goods
-where that condition warranty relates right sell quiet possession clear title the goods are kind ordinarily obtained for personal domestic household use consumption then none the limitations this paragraph apply
-z125554305
-hong kong sar macau sar and taiwan applies licenses obtained taiwan and the special administrative regions phrases throughout this agreement containing the word country for example the country which the original licensee was granted the license and the country which licensee obtained the program license are replaced with the following hong kong sar hong kong sar macau sar macau sar except the governing law clause section 111 taiwan taiwan
-india items for which ibm may liable the following replaces the terms items and the first paragraph liability for bodily injury including death damage real property and tangible personal property will limited that caused ibms negligence and any other actual damage arising any situation involving nonperformance ibm pursuant any way related the subject this agreement ibms liability will limited the charge paid licensee for the individual program that the subject the claim
-general the following replaces the terms item 10f suit other legal action brought within three years after the cause action arose respect any claim that either party may have against the other the rights the concerned party respect such claim will forfeited and the other party will stand released from its obligations respect such claim
-indonesia term and termination the following added the last paragraph both parties waive the provision article 1266 the indonesian civil code the extent the article provision requires such court decree for the termination agreement creating mutual obligations
-japan general the following added item 10l any doubts concerning this agreement will initially resolved between good faith and accordance with the principle mutual trust
-malaysia items for which ibm not liable the word special item 72b deleted
-z125554305
-new zealand warranties the following added the first paragraph this section warranties although ibm specifies that there are warranties licensee may have certain rights under the consumer guarantees act 1993 other legislation which cannot excluded limited
-the consumer guarantees act 1993 will not apply respect any goods which ibm provides licensee requires the goods for the purposes business defined that act
-limitation liability the following added where programs are not obtained for the purposes business defined the consumer guarantees act 1993 the limitations this section are subject the limitations that act
-philippines items for which ibm not liable the following replaces the terms item 72b special including nominal and exemplary damages moral incidental indirect damages for any economic consequential damages singapore items for which ibm not liable the words special and economic are deleted from item 72b
-general the following replaces the terms item 10h subject the rights provided ibms suppliers and program developers provided section above limitation liability person who not party this agreement will have right under the contracts right third parties act enforce any its terms
-taiwan items for which ibm may liable the following sentences are deleted this limit also applies any ibms subcontractors and program developers
-the maximum for which ibm and its subcontractors and program developers are collectively responsible
-europe middle east africa emea country amendments european union member states warranties the following added section warranties the european union consumers have legal rights under applicable national legislation governing the sale consumer goods
-such rights are not affected the provisions set out this section warranties
-z125554305
-member states and the countries identified below iceland liechtenstein norway switzerland turkey and any other european country that has enacted local data privacy protection legislation similar the model
-general the following replaces item 10d definitions for the purposes this item 10d the following additional definitions apply business contact information businessrelated contact information disclosed licensee ibm including names job titles business addresses telephone numbers and email addresses licensees employees and contractors
-for austria italy and switzerland business contact information also includes information about licensee and its contractors legal entities for example licensees revenue data and other transactional information business contact personnel licensee employees and contractors whom the business contact information relates
-data protection authority the authority established the data protection and electronic communications legislation the applicable country for noneu countries the authority responsible for supervising the protection personal data that country for any the foregoing any duly appointed successor entity thereto
-data protection electronic communications legislation the applicable local legislation and regulations force implementing the requirements directive 9546ec the protection individuals with regard the processing personal data and the free movement such data and directive 200258ec concerning the processing personal data and the protection privacy the electronic communications sector for noneu countries the legislation andor regulations passed the applicable country relating the protection personal data and the regulation electronic communications involving personal data including for any the foregoing any statutory replacement modification thereof
-ibm group international business machines corporation armonk new york usa its subsidiaries and their respective business partners and subcontractors
-licensee authorizes ibm process and use business contact information within ibm group support licensee including the provision support services and for the purpose furthering the business relationship between licensee and ibm group including without limitation contacting business contact personnel email otherwise and marketing ibm group products and services the specified purpose and disclose business contact information other members ibm group pursuit the specified purpose only
-ibm agrees that all business contact information will processed accordance with the data protection electronic communications legislation and will used only for the specified purpose
-the extent required the data protection electronic communications legislation licensee represents that has obtained will obtain any consents from and has z125554305
-issued will issue any notices the business contact personnel are necessary order enable ibm group process and use the business contact information for the specified purpose
-licensee authorizes ibm transfer business contact information outside the european economic area provided that the transfer made contractual terms approved the data protection authority the transfer otherwise permitted under the data protection electronic communications legislation
-austria limitation liability the following added the following limitations and exclusions ibms liability not apply for damages caused gross negligence willful misconduct
-items for which ibm may liable the following replaces the first sentence the first paragraph circumstances may arise where because default ibm the performance its obligations under this agreement other liability licensee entitled recover damages from ibm
-the second sentence the first paragraph delete entirely the parenthetical phrase including fundamental breach negligence misrepresentation other contract tort claim
-items for which ibm not liable the following replaces item 72b indirect damages consequential damages belgium france italy and luxembourg limitation liability the following replaces the terms section limitation liability its entirety except otherwise provided mandatory law items for which ibm may liable ibms entire liability for all claims the aggregate for any damages and losses that may arise consequence the fulfillment its obligations under connection with this agreement due any other cause related this agreement limited the compensation only those damages and losses proved and actually arising immediate and direct consequence the nonfulfillment such obligations ibm fault such cause for maximum eur 500000 five hundred thousand euro
-the above limitation will not apply damages for bodily injuries including death and damages real property and tangible personal property for which ibm legally liable
-items for which ibm not liable under circumstances ibm any its program developers liable for any the following even informed their possibility loss damage data incidental exemplary indirect damages for any economic consequential damages and z125554305
-lost profits business revenue goodwill anticipated savings even they arise immediate consequence the event that generated the damages
-suppliers and program developers the limitation and exclusion liability herein agreed applies not only the activities performed ibm but also the activities performed its suppliers and program developers and represents the maximum amount for which ibm well its suppliers and program developers are collectively responsible
-germany limitation liability the following replaces this section limitation liability its entirety ibm will liable without limit for loss damage caused breach express guarantee damages losses resulting bodily injury including death and damages caused intentionally gross negligence
-the event loss damage and frustrated expenditures caused slight negligence breach essential contractual obligations ibm will liable regardless the basis which licensee entitled claim damages from ibm including fundamental breach negligence misrepresentation other contract tort claim per claim only 500000 euro for the program that caused the loss damage
-number defaults which together result contribute substantially the same loss damage will treated one default
-the event loss damage and frustrated expenditures caused slight negligence ibm will not liable for indirect consequential damages even ibm was informed about the possibility such loss damage
-case delay ibms part ibm will pay licensee amount not exceeding the loss damage caused ibms delay and ibm will liable only respect the resulting damages that licensee suffers subject the provisions items and above
-general the following replaces the provisions 10f any claims resulting from this agreement are subject limitation period three years except stated section warranties this agreement
-the following replaces the provisions 10h right cause action for any third party created this agreement nor ibm responsible for any third party claims against licensee except the extent permitted section limitation liability for bodily injury including death damage real tangible personal property for which either case ibm legally liable that third party
-ireland warranties the following paragraph added the second paragraph this section warranties except expressly provided these terms and conditions section the sale goods act 1893 amended the sale goods and supply services act 1980 the 1980 act all conditions warranties express implied statutory otherwise are hereby excluded z125554305
-including without limitation any warranties implied the sale goods act 1893 amended the 1980 act including for the avoidance doubt section the 1980 act
-ireland and united kingdom agreement structure the following sentence added nothing this paragraph shall have the effect excluding limiting liability for fraud
-items for which ibm may liable the following replaces the first paragraph the subsection for the purposes this section default means any act statement omission negligence the part ibm connection with relation the subject matter agreement respect which ibm legally liable licensee whether contract tort
-number defaults which together result contribute substantially the same loss damage will treated one default
-circumstances may arise where because default ibm the performance its obligations under this agreement other liability licensee entitled recover damages from ibm
-regardless the basis which licensee entitled claim damages from ibm and except expressly required law without the possibility contractual waiver ibms entire liability for any one default will not exceed the amount any direct damages the extent actually suffered licensee immediate and direct consequence the default 500000 euro the equivalent local currency for the program that the subject the claim
-notwithstanding the foregoing the amount any damages for bodily injury including death and damage real property and tangible personal property for which ibm legally liable not subject such limitation
-items for which ibm not liable the following replaces items 72b and 72c special incidental exemplary indirect damages consequential damages wasted management time lost profits business revenue goodwill anticipated savings
-z125554305
+International License Agreement for Evaluation of Programs
+
+Part 1 — General Terms
+
+BY DOWNLOADING, INSTALLING, COPYING, ACCESSING, CLICKING ON AN
+"ACCEPT" BUTTON, OR OTHERWISE USING THE PROGRAM, LICENSEE AGREES TO
+THE TERMS OF THIS AGREEMENT. IF YOU ARE ACCEPTING THESE TERMS ON
+BEHALF OF LICENSEE, YOU REPRESENT AND WARRANT THAT YOU HAVE FULL
+AUTHORITY TO BIND LICENSEE TO THESE TERMS. IF YOU DO NOT AGREE TO
+THESE TERMS,
+
+° DO NOT DOWNLOAD, INSTALL, COPY, ACCESS, CLICK ON AN "ACCEPT" BUTTON,
+OR USE THE PROGRAM; AND
+
+° PROMPTLY RETURN THE UNUSED MEDIA AND DOCUMENTATION TO THE PARTY
+FROM WHOM IT WAS OBTAINED. IF THE PROGRAM WAS DOWNLOADED,
+DESTROY ALL COPIES OF THE PROGRAM.
+
+1. Definitions
+
+”Authorized Use” — the specified level at Which Licensee is authorized to execute or run the
+Program. That level may be measured by number of users, millions of service units (”MSUs”),
+Processor Value Units (”PVUs”), or other level of use specified by IBM.
+
+”IBM” — International Business Machines Corporation or one of its subsidiaries.
+
+”License Information” (”LI”) - a document that provides information and any additional terms
+specific to a Program. The Program’s LI can be found in the Program’s directory, by the use of
+a system command, or as a booklet included With the Program.
+
+"Program” — the following, including the original and all Whole or partial copies: 1)
+machine-readable instructions and data, 2) components, files, and modules, 3) audio-Visual
+content (such as images, text, recordings, or pictures), and 4) related licensed materials (such as
+keys and documentation).
+
+2. Agreement Structure
+
+This Agreement includes Part 1 — General Terms, Part 2 — Country-unique Terms (if any) and
+the LI and is the complete agreement between Licensee and IBM regarding the use of the
+Program. It replaces any prior oral or written communications between Licensee and IBM
+concerning Licensee’s use of the Program. The terms of Part 2 may replace or modify those of
+Part 1. To the extent of any conﬂict, the L1 prevails over both Parts.
+
+3. License Grant
+The Program is owned by IBM or an IBM supplier, and is copyrighted and licensed, not sold.
+
+IBM grants Licensee a limited, nonexclusive, nontransferable license to 1) download, install,
+and use the Program during the evaluation period up to the Authorized Use specified in the L1
+solely for internal evaluation, testing, or demonstration purposes on a trial basis; 2) make and
+install a reasonable number of copies to support such Authorized Use, and 3) make a backup
+copy, all provided that
+
+a. Licensee has lawfully obtained the Program and complies With the terms of this Agreement;
+
+b. the backup copy does not execute unless the backed-up Program cannot execute;
+
+C. Licensee reproduces all copyright notices and other legends of ownership on each copy, or
+partial copy, of the Program;
+
+d. Licensee maintains a record of all copies of the Program and ensures that anyone Who uses
+the Program (accessed either locally or remotely) 1) does so only on Licensee’s behalf and 2)
+complies With the terms of this Agreement;
+
+9. Licensee does not 1) use the Program for productive purposes or otherwise use, copy,
+modify, or distribute the Program except as expressly permitted in this Agreement; 2)
+
+2125554305 1
+
+reverse assemble, reverse compile, otherwise translate, or reverse engineer the Program,
+except as expressly permitted by law Without the possibility of contractual waiver; 3) use
+any of the Program’s components, files, modules, audio-Visual content, or related licensed
+materials separately from that Program; 4) sublicense, rent, or lease the Program; or 5) use
+the Program for commercial application hosting; and
+
+f. if Licensee obtains this Program as a Supporting Program, Licensee uses this Program only
+to support the Principal Program and subject to any limitations in the license to the Principal
+Program, or, if Licensee obtains this Program as a Principal Program, Licensee uses all
+Supporting Programs only to support this Program, and subject to any limitations in this
+Agreement. For purposes of this Item ”f,” a ”Supporting Program” is a Program that is part
+of another IBM Program (”Principal Program") and identified as a Supporting Program in
+the Principal Program’s LI. (To obtain a separate license to a Supporting Program Without
+these restrictions, Licensee should contact the party from Whom Licensee obtained the
+Supporting Program.)
+
+This license applies to each copy of the Program that Licensee makes.
+
+3.1 Updates, Fixes, and Patches
+
+When Licensee receives an update, fix, or patch to a Program, Licensee accepts any additional
+or different terms that are applicable to such update, fix, or patch that are specified in its LI. If
+no additional or different terms are provided, then the update, fix, or patch is subject solely to
+this Agreement. If the Program is replaced by an update, Licensee agrees to promptly
+discontinue use of the replaced Program.
+
+3.2 Term and Termination
+
+The evaluation period begins on the date Licensee agrees to the terms of this Agreement and
+ends upon the earliest of 1) the end of the duration or the date specified by IBM in either the
+License Information or a transaction document or 2) the date on Which the Program
+automatically disables itself. Licensee Will destroy the Program and all copies made of it Within
+ten days of the end of the evaluation period. If IBM specifies in the LI that Licensee may retain
+the Program, and Licensee elects to do so, then the Program Will be subject to a different license
+agreement, Which IBM Will provide to Licensee. In addition, a charge may apply.
+
+IBM may terminate Licensee’s license if Licensee fails to comply With the terms of this
+Agreement. If the license is terminated for any reason by either party, Licensee agrees to
+promptly discontinue use of and destroy all of Licensee’s copies of the Program. Any terms of
+this Agreement that by their nature extend beyond termination of this Agreement remain in
+effect until fulfilled, and apply to both parties’ respective successors and assignees.
+
+THE PROGRAM MAY CONTAIN A DISABLING DEVICE THAT WILL PREVENT IT
+FROM BEING USED AFTER THE EVALUATION PERIOD ENDS. LICENSEE AGREES
+NOT TO TAMPER WITH THE DISABLING DEVICE OR THE PROGRAM. LICENSEE
+SHOULD TAKE PRECAUTIONS TO AVOID ANY LOSS OF DATA THAT MIGHT RESULT
+WHEN THE PROGRAM CAN NO LONGER BE USED.
+
+4. Charges
+There is no charge for the use of the Program for the duration of the evaluation period.
+
+5. No Warranties
+
+SUBJECT TO ANY STATUTORY WARRANTIES THAT CANNOT BE EXCLUDED, IBM
+MAKES NO WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, REGARDING
+THE PROGRAM OR SUPPORT, IF ANY, INCLUDING, BUT NOT LIMITED TO, ANY
+IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY
+QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND TITLE, AND ANY WARRANTY
+OR CONDITION OF NON-INFRINGEMENT.
+
+SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF EXPRESS
+OR IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO
+LICENSEE. IN THAT EVENT, SUCH WARRANTIES ARE LIMITED IN DURATION TO
+
+2 2125—5543—05
+
+THE MINIMUM PERIOD REQUIRED BY LAW. NO WARRANTIES APPLY AFTER THAT
+PERIOD. SOME STATES OR JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW
+LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT
+APPLY TO LICENSEE. LICENSEE MAY HAVE OTHER RIGHTS THAT VARY FROM STATE
+TO STATE OR JURISDICTION TO JURISDICTION.
+
+THE DISCLAIMERS AND EXCLUSIONS IN THIS SECTION 5 ALSO APPLY TO ANY OF
+IBM’S PROGRAM DEVELOPERS AND SUPPLIERS.
+
+MANUFACTURERS, SUPPLIERS, OR PUBLISHERS OF NON-IBM PROGRAMS MAY
+PROVIDE THEIR OWN WARRANTIES.
+
+IBM DOES NOT PROVIDE SUPPORT OF ANY KIND, UNLESS IBM SPECIFIES
+OTHERWISE. IN SUCH EVENT, ANY SUPPORT PROVIDED BY IBM IS SUBJECT TO THE
+DISCLAIMERS AND EXCLUSIONS IN THIS SECTION 5.
+
+6. Licensee Data and Databases
+
+To assist Licensee in isolating the cause of a problem With the Program, IBM may request that
+Licensee 1) allow IBM to remotely access Licensee’s system or 2) send Licensee information or
+system data to IBM. However, IBM is not obligated to provide such assistance unless IBM and
+Licensee enter a separate written agreement under Which IBM agrees to provide to Licensee
+that type of support, Which is beyond IBM’s obligations in this Agreement. In any event, IBM
+uses information about errors and problems to improve its products and services, and assist
+With its provision of related support offerings. For these purposes, IBM may use IBM entities
+and subcontractors (including in one or more countries other than the one in which Licensee is
+located), and Licensee authorizes IBM to do so.
+
+Licensee remains responsible for 1) any data and the content of any database Licensee makes
+available to IBM, 2) the selection and implementation of procedures and controls regarding
+access, security, encryption, use, and transmission of data (including any personally-identifiable
+data), and 3) backup and recovery of any database and any stored data. Licensee Will not send
+or provide IBM access to any personally-identifiable information, Whether in data or any other
+form, and Will be responsible for reasonable costs and other amounts that IBM may incur
+relating to any such information mistakenly provided to IBM or the loss or disclosure of such
+information by IBM, including those arising out of any third party Claims.
+
+7. Limitation of Liability
+
+The limitations and exclusions in this Section 7 (Limitation of Liability) apply to the full extent
+they are not prohibited by applicable law Without the possibility of contractual waiver.
+
+7.1 Items for Which IBM May Be Liable
+
+Circumstances may arise Where, because of a default on IBM’s part or other liability, Licensee is
+entitled to recover damages from IBM. Regardless of the basis on Which Licensee is entitled to
+claim damages from IBM (including fundamental breach, negligence, misrepresentation, or
+other contract or tort claim), IBM’s entire liability for all claims in the aggregate arising from or
+related to each Program or otherwise arising under this Agreement Will not exceed the amount
+of any 1) damages for bodily injury (including death) and damage to real property and tangible
+personal property and 2) other actual direct damages up to US. $10,000 (or equivalent in local
+currency).
+
+This limit also applies to any of IBM’s Program developers and suppliers. It is the maximum
+for Which IBM and its Program developers and suppliers are collectively responsible.
+
+2125—5543—05 3
+
+7.2 Items for Which IBM Is Not Liable
+
+UNDER NO CIRCUMSTANCES IS IBM, ITS PROGRAM DEVELOPERS OR SUPPLIERS
+LIABLE FOR ANY OF THE FOLLOWING, EVEN IF INFORMED OF THEIR POSSIBILITY:
+
+a. LOSS OF, OR DAMAGE TO, DATA;
+
+b. SPECIAL, INCIDENTAL, EXEMPLARY, OR INDIRECT DAMAGES, OR FOR ANY
+ECONOMIC CONSEQUENTIAL DAMAGES; OR
+
+C. LOST PROFITS, BUSINESS, REVENUE, GOODWILL, OR ANTICIPATED SAVINGS.
+
+8. Compliance Verification
+
+For purposes of this Section 8 (Compliance Verification), ”Evaluation Program Terms” means 1)
+this Agreement and applicable amendments and transaction documents provided by IBM, and
+2 IBM software uolicies that ma be found at the IBM Software Policy website
+
+including but not limited to those policies concerning
+
+backup, sub-capacity pricing, and migration.
+
+The rights and obligations set forth in this Section 8 remain in effect during the period the
+Program is licensed to Licensee, and for two years thereafter.
+
+8.1 Verification Process
+
+Licensee agrees to create, retain, and provide to IBM and its auditors accurate written records,
+system tool outputs, and other system information sufficient to provide auditable verification
+that Licensee’s use of all Programs is in compliance With the Evaluation Program Terms,
+including, Without limitation, all of IBM's applicable licensing and pricing qualification terms.
+Licensee is responsible for 1) ensuring that it does not exceed its Authorized Use, and 2)
+remaining in compliance With Evaluation Program Terms.
+
+Upon reasonable notice, IBM may verify Licensee’s compliance With Evaluation Program Terms
+at all sites and for all environments in Which Licensee uses (for any purpose) Programs subject
+to Evaluation Program Terms. Such verification Will be conducted in a manner that minimizes
+disruption to Licensee’s business, and may be conducted on Licensee’s premises, during normal
+business hours. IBM may use an independent auditor to assist With such verification, provided
+IBM has a written confidentiality agreement in place With such auditor.
+
+8.2 Resolution
+
+IBM Will notify Licensee in writing if any such verification indicates that Licensee has used any
+Program in excess of its Authorized Use or is otherwise not in compliance With the Evaluation
+Program Terms. Licensee agrees to promptly pay directly to IBM the charges that IBM specifies
+in an invoice for 1) any such excess use, 2) support for such excess use for the lesser of the
+duration of such excess use or two years, and 3) any additional charges and other liabilities
+determined as a result of such verification.
+
+9. Third Party Notices
+
+The Program may include third party code that IBM, not the third party, licenses to Licensee
+under this Agreement. Notices, if any, for the third party code (”Third Party Notices”) are
+included for Licensee’s information only. These notices can be found in the Program’s
+NOTICES file(s). Information on how to obtain source code for certain third party code can be
+found in the Third Party Notices. If in the Third Party Notices IBM identifies third party code
+as ”Modifiable Third Party Code,” IBM authorizes Licensee to 1) modify the Modifiable Third
+Party Code and 2) reverse engineer the Program modules that directly interface With the
+Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee’s
+modifications to such third party code. IBM’s service and support obligations, if any, apply only
+to the unmodified Program.
+
+4 2125—5543—05
+
+10. General
+
+3. Nothing in this Agreement affects any statutory rights of consumers that cannot be waived
+or limited by contract.
+
+b. If any provision of this Agreement is held to be invalid or unenforceable, the remaining
+
+provisions of this Agreement remain in full force and effect.
+
+Licensee is prohibited from exporting the Program.
+
+Licensee authorizes International Business Machines Corporation and its subsidiaries (and
+
+their successors and assigns, contractors and IBM Business Partners) to store and use
+
+Licensee’s business contact information Wherever they do business, in connection With IBM
+
+products and services, or in furtherance of IBM’s business relationship With Licensee.
+
+9. Each party Will allow the other reasonable opportunity to comply before it claims that the
+other has not met its obligations under this Agreement. The parties Will attempt in good
+faith to resolve all disputes, disagreements, or Claims between the parties relating to this
+Agreement.
+
+1‘. Unless otherwise required by applicable law Without the possibility of contractual waiver or
+limitation: 1) neither party Will bring a legal action, regardless of form, for any claim arising
+out of or related to this Agreement more than two years after the cause of action arose; and
+2) upon the expiration of such time limit, any such claim and all respective rights related to
+the claim lapse.
+
+9. Neither Licensee nor IBM is responsible for failure to fulfill any obligations due to causes
+beyond its control.
+
+h. No right or cause of action for any third party is created by this Agreement, nor is IBM
+responsible for any third party claims against Licensee, except as permitted in Subsection
+7.1 (Items for Which IBM May Be Liable) above for bodily injury (including death) or
+damage to real or tangible personal property for Which IBM is legally liable to that third
+
+art .
+
+i. IE en}t]ering into this Agreement, neither party is relying on any representation not specified
+in this Agreement, including but not limited to any representation concerning: 1) the
+performance or function of the Program, other than as expressly warranted in Section 5 (No
+Warranties) above; 2) the experiences or recommendations of other parties; or 3) any results
+or savings that Licensee may achieve.
+
+j. IBM has signed agreements With certain organizations (called ”IBM Business Partners”) to
+promote, market, and support certain Programs. IBM Business Partners remain independent
+and separate from IBM. IBM is not responsible for the actions or statements of IBM Business
+Partners or obligations they have to Licensee.
+
+k. The license and intellectual property indemnification terms of Licensee’s other agreements
+With IBM (such as the IBM Customer Agreement) do not apply to Program licenses granted
+under this Agreement.
+
+.st
+
+11. Geographic Scope and Governing Law
+11.1 Governing Law
+
+Both parties agree to the application of the laws of the country in Which Licensee obtained the
+Program license to govern, interpret, and enforce all of Licensee’s and IBM’s respective rights,
+duties, and obligations arising from, or relating in any manner to, the subject matter of this
+Agreement, Without regard to conflict of law principles.
+
+The United Nations Convention on Contracts for the International Sale of Goods does not
+
+apply.
+11.2 Jurisdiction
+
+All rights, duties, and obligations are subject to the courts of the country in Which Licensee
+obtained the Program license.
+
+2125—5543—05 5
+
+Part 2 — Country-unique Terms
+
+For licenses granted in the countries specified below, the following terms replace or modify the
+referenced terms in Part 1. All terms in Part 1 that are not changed by these amendments
+remain unchanged and in effect. This Part 2 is organized as follows:
+
+° Multiple country amendments to Part 1, Section 11 (Governing Law and Jurisdiction);
+
+° Americas country amendments to other Agreement terms;
+
+° Asia Pacific country amendments to other Agreement terms; and
+
+° Europe, Middle East, and Africa country amendments to other Agreement terms.
+
+Multiple country amendments to Part 1, Section 11 (Governing Law and Jurisdiction)
+
+11.1 Governing Law
+
+The phrase ”the laws of the country in which Licensee obtained the Program license” in the first
+paragraph of 11.1 Governing Law is replaced by the following phrases in the countries below:
+
+AMERICAS
+
+(1)
+(2)
+(3)
+
+(4)
+
+In Canada: the laws in the Province of Ontario;
+in Mexico: the federal laws of the Republic of Mexico;
+
+in the United States, Anguilla, Antigua/Barbuda, Aruba, British Virgin Islands, Cayman
+Islands, Dominica, Grenada, Guyana, Saint Kitts and Nevis, Saint Lucia, Saint Maarten,
+and Saint Vincent and the Grenadines: the laws of the State of New York, United States;
+
+in Venezuela: the laws of the Bolivarian Republic of Venezuela;
+
+ASIA PACIFIC
+
+(5)
+(6)
+(7)
+
+(8)
+
+in Cambodia and Laos: the laws of the State of New York, United States;
+in Australia: the laws of the State or Territory in which the transaction is performed;
+
+in Hong Kong SAR and Macau SAR: the laws of Hong Kong Special Administrative
+Region (”SAR”);
+
+in Taiwan: the laws of Taiwan;
+
+EUROPE, MIDDLE EAST, AND AFRICA
+
+(9)
+
+(10)
+
+(11)
+(12)
+
+in Albania, Armenia, Azerbaijan, Belarus, Bosnia-Herzegovina, Bulgaria, Croatia,
+Former Yugoslav Republic of Macedonia, Georgia, Hungary, Kazakhstan, Kyrgyzstan,
+Moldova, Montenegro, Poland, Romania, Russia, Serbia, Slovakia, Tajikistan,
+Turkmenistan, Ukraine, and Uzbekistan: the laws of Austria;
+
+in Algeria, Andorra, Benin, Burkina Faso, Cameroon, Cape Verde, Central African
+Republic, Chad, Comoros, Congo Republic, Djibouti, Democratic Republic of Congo,
+Equatorial Guinea, French Guiana, French Polynesia, Gabon, Gambia, Guinea,
+Guinea-Bissau, Ivory Coast, Lebanon, Madagascar, Mali, Mauritania, Mauritius,
+Mayotte, Morocco, New Caledonia, Niger, Reunion, Senegal, Seychelles, Togo, Tunisia,
+Vanuatu, and Wallis and Futuna: the laws of France;
+
+in Estonia, Latvia, and Lithuania: the laws of Finland;
+
+in Angola, Bahrain, Botswana, Burundi, Egypt, Eritrea, Ethiopia, Ghana, Jordan, Kenya,
+
+Kuwait, Liberia, Malawi, Malta, Mozambique, Nigeria, Oman, Pakistan, Qatar, Rwanda,
+Sao Tome and Principe, Saudi Arabia, Sierra Leone, Somalia, Tanzania, Uganda, United
+Arab Emirates, the United Kingdom, West Bank/Gaza, Yemen, Zambia, and Zimbabwe:
+
+the laws of England; and
+
+2125-5543-05
+
+(13)
+
+in South Africa, Namibia, Lesotho, and Swaziland: the laws of the Republic of South
+Africa.
+
+11.2 Jurisdiction
+
+The following paragraph pertains to jurisdiction and replaces Subsection 11.2 (]urisdicti0n) as it applies
+for those countries identiﬁed below:
+
+All rights, duties, and obligations are subject to the courts of the country in Which Licensee
+obtained the Program license except that in the countries identified below all disputes arising
+out of or related to this Agreement, including summary proceedings, Will be brought before
+and subject to the exclusive jurisdiction of the following courts of competent jurisdiction:
+
+AMERICAS
+
+(1) In Argentina: the Ordinary Commercial Court of the city of Buenos Aires;
+
+(2) in Brazil: the court of Rio de Janeiro, R];
+
+(3) in Chile: the Civil Courts of Justice of Santiago;
+
+(4) in Ecuador: the civil judges of Quito for executory or summary proceedings (as
+applicable);
+
+(5) in Mexico: the courts located in Mexico City, Federal District;
+
+(6) in Peru: the judges and tribunals of the judicial district of Lima, Cercado;
+
+(7) in Uruguay: the courts of the city of Montevideo;
+
+(8) in Venezuela: the courts of the metropolitan area of the City of Caracas;
+
+EUROPE, MIDDLE EAST, AND AFRICA
+
+(9)
+(10)
+
+(11)
+
+(12)
+(13)
+(14)
+(15)
+(16)
+(17)
+(18)
+
+2125-5543—05
+
+in Austria: the court of law in Vienna, Austria (Inner-City);
+
+in Algeria, Andorra, Benin, Burkina Faso, Cameroon, Cape Verde, Central African
+Republic, Chad, Comoros, Congo Republic, Djibouti, Democratic Republic of Congo,
+Equatorial Guinea, France, French Guiana, French Polynesia, Gabon, Gambia, Guinea,
+Guinea-Bissau, Ivory Coast, Lebanon, Madagascar, Mali, Mauritania, Mauritius,
+Mayotte, Monaco, Morocco, New Caledonia, Niger, Reunion, Senegal, Seychelles, Togo,
+Tunisia, Vanuatu, and Wallis and Futuna: the Commercial Court of Paris;
+
+in Angola, Bahrain, Botswana, Burundi, Egypt, Eritrea, Ethiopia, Ghana, Jordan, Kenya,
+
+Kuwait, Liberia, Malawi, Malta, Mozambique, Nigeria, Oman, Pakistan, Qatar, Rwanda,
+Sao Tome and Principe, Saudi Arabia, Sierra Leone, Somalia, Tanzania, Uganda, United
+Arab Emirates, the United Kingdom, West Bank/Gaza, Yemen, Zambia, and Zimbabwe:
+
+the English courts;
+
+in South Africa, Namibia, Lesotho, and Swaziland: the High Court in Johannesburg;
+in Greece: the competent court of Athens;
+
+in Israel: the courts of Tel AViV—Jaffa;
+
+in Italy: the courts of Milan;
+
+in Portugal: the courts of Lisbon;
+
+in Spain: the courts of Madrid; and
+
+in Turkey: the Istanbul Central Courts and Execution Directorates of Istanbul, the
+Republic of Turkey.
+
+11.3 Arbitration
+
+The following paragraph is added as a new Subsection 11.3 (Arbitration) as it applies for those countries
+identiﬁed below. The provisions of this Subsection 11.3 prevail over those of Subsection 11.2
+(lurisdiction) t0 the extent permitted by the applicable governing law and rules of procedure:
+
+ASIA PACIFIC
+
+(1)
+
+(2)
+
+(3)
+
+In Cambodia, India, Laos, Philippines, and Vietnam:
+
+Disputes arising out of or in connection With this Agreement Will be finally settled by
+arbitration Which Will be held in Singapore in accordance With the Arbitration Rules of
+Singapore International Arbitration Center (”SIAC Rules”) then in effect. The arbitration
+award Will be final and binding for the parties without appeal and Will be in writing and
+set forth the findings of fact and the conclusions of law.
+
+The number of arbitrators will be three, With each side to the dispute being entitled to
+appoint one arbitrator. The two arbitrators appointed by the parties Will appoint a third
+arbitrator Who Will act as chairman of the proceedings. Vacancies in the post of chairman
+Will be filled by the president of the SIAC. Other vacancies Will be filled by the respective
+nominating party. Proceedings Will continue from the stage they were at When the
+vacancy occurred.
+
+If one of the parties refuses or otherwise fails to appoint an arbitrator Within 30 days of
+the date the other party appoints its, the first appointed arbitrator Will be the sole
+arbitrator, provided that the arbitrator was validly and properly appointed.
+
+All proceedings Will be conducted, including all documents presented in such
+proceedings, in the English language. The English language version of this Agreement
+prevails over any other language version.
+
+In the People’s Republic of China:
+
+In case no settlement can be reached, the disputes Will be submitted to China
+International Economic and Trade Arbitration Commission for arbitration according to the
+then effective rules of the said Arbitration Commission. The arbitration Will take place in
+Beijing and be conducted in Chinese. The arbitration award Will be final and binding on
+both parties. During the course of arbitration, this agreement Will continue to be
+performed except for the part Which the parties are disputing and Which is undergoing
+arbitration.
+
+In Indonesia:
+
+Each party Will allow the other reasonable opportunity to comply before it claims that the
+other has not met its obligations under this Agreement. The parties Will attempt in good
+faith to resolve all disputes, disagreements, or claims between the parties relating to this
+Agreement. Unless otherwise required by applicable law Without the possibility of
+contractual waiver or limitation, i) neither party Will bring a legal action, regardless of
+form, arising out of or related to this Agreement or any transaction under it more than
+two years after the cause of action arose; and ii) after such time limit, any legal action
+arising out of this Agreement or any transaction under it and all respective rights related
+to any such action lapse.
+
+Disputes arising out of or in connection With this Agreement shall be finally settled by
+arbitration that shall be held in Jakarta, Indonesia in accordance With the rules of Board of
+the Indonesian National Board of Arbitration (Badan Arbitrase Nasional Indonesia or
+”BANI”) then in effect. The arbitration award shall be final and binding for the parties
+Without appeal and shall be in writing and set forth the findings of fact and the
+conclusions of law.
+
+The number of arbitrators shall be three, With each side to the dispute being entitled to
+appoint one arbitrator. The two arbitrators appointed by the parties shall appoint a third
+
+2125-5543-05
+
+arbitrator Who shall act as chairman of the proceedings. Vacancies in the post of chairman
+shall be filled by the chairman of the BANI. Other vacancies shall be filled by the
+respective nominating party. Proceedings shall continue from the stage they were at When
+the vacancy occurred.
+
+If one of the parties refuses or otherwise fails to appoint an arbitrator within 30 days of
+the date the other party appoints its, the first appointed arbitrator shall be the sole
+arbitrator, provided that the arbitrator was validly and properly appointed.
+
+A11 proceedings shall be conducted, including all documents presented in such
+proceedings, in the English and / or Indonesian language.
+
+EUROPE, MIDDLE EAST, AND AFRICA
+
+(4)
+
+(5)
+
+In Albania, Armenia, Azerbaijan, Belarus, Bosnia-Herzegovina, Bulgaria, Croatia,
+Former Yugoslav Republic of Macedonia, Georgia, Hungary, Kazakhstan, Kyrgyzstan,
+Moldova, Montenegro, Poland, Romania, Russia, Serbia, Slovakia, Tajikistan,
+Turkmenistan, Ukraine, and Uzbekistan:
+
+A11 disputes arising out of this Agreement or related to its Violation, termination or nullity
+Will be finally settled under the Rules of Arbitration and Conciliation of the International
+Arbitral Center of the Federal Economic Chamber in Vienna (Vienna Rules) by three
+arbitrators appointed in accordance With these rules. The arbitration Will be held in
+Vienna, Austria, and the official language of the proceedings Will be English. The decision
+of the arbitrators Will be final and binding upon both parties. Therefore, pursuant to
+paragraph 598 (2) of the Austrian Code of Civil Procedure, the parties expressly waive the
+application of paragraph 595 (1) figure 7 of the Code. IBM may, however, institute
+proceedings in a competent court in the country of installation.
+
+In Estonia, Latvia, and Lithuania:
+
+A11 disputes arising in connection With this Agreement Will be finally settled in arbitration
+that Will be held in Helsinki, Finland in accordance With the arbitration laws of Finland
+then in effect. Each party Will appoint one arbitrator. The arbitrators Will then jointly
+appoint the chairman. If arbitrators cannot agree on the chairman, then the Central
+Chamber of Commerce in Helsinki Will appoint the chairman.
+
+AMERICAS COUNTRY AMENDMENTS
+
+CANADA
+
+7.1 Items for Which IBM May Be Liable
+
+The following replaces Item 1 in the first paragraph of this Subsection 7.1 (Items for Which IBM May
+Be Liable):
+
+1) damages for bodily injury (including death) and physical harm to real property and tangible
+personal property caused by IBM’s negligence; and
+
+10. General
+
+The following replaces Item 10h:
+
+h.
+
+No right or cause of action for any third party is created by this Agreement or any
+transaction under it, nor is IBM responsible for any third party claims against Licensee
+except as permitted by the Limitation of Liability section above for bodily injury
+(including death) or physical harm to real or tangible personal property caused by IBM’s
+negligence for which IBM is legally liable to that third party.
+
+2125—5543—05 9
+
+The following is added as Item 10.1:
+
+1. For purposes of this Item 10.1, ”Personal Data” refers to information relating to an
+identified or identifiable individual made available by one of the parties, its personnel or
+any other individual to the other in connection with this Agreement. The following
+provisions apply in the event that one party makes Personal Data available to the other:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+10
+
+General
+
+(a) Each party is responsible for complying with any obligations applying to it
+under applicable Canadian data privacy laws and regulations (”Laws”).
+
+(b) Neither party will request Personal Data beyond what is necessary to fulfill the
+purpose(s) for which it is requested. The purpose(s) for requesting Personal
+Data must be reasonable. Each party will agree in advance as to the type of
+Personal Data that is required to be made available.
+
+Security Safeguards
+
+(a) Each party acknowledges that it is solely responsible for determining and
+communicating to the other the appropriate technological, physical and
+organizational security measures required to protect Personal Data.
+
+(b) Each party will ensure that Personal Data is protected in accordance with the
+security safeguards communicated and agreed to by the other.
+
+(c) Each party will ensure that any third party to whom Personal Data is
+transferred is bound by the applicable terms of this section.
+
+((1) Additional or different services required to comply with the Laws will be
+deemed a request for new services.
+
+Use
+
+Each party agrees that Personal Data will only be used, accessed, managed,
+transferred, disclosed to third parties or otherwise processed to fulfill the purpose(s)
+for which it was made available.
+
+Access Requests
+
+(a) Each party agrees to reasonably cooperate with the other in connection with
+requests to access or amend Personal Data.
+
+(b) Each party agrees to reimburse the other for any reasonable charges incurred
+in providing each other assistance.
+
+(c) Each party agrees to amend Personal Data only upon receiving instructions to
+do so from the other party or its personnel.
+
+Retention
+
+Each party will promptly return to the other or destroy all Personal Data that is no
+longer necessary to fulfill the purpose(s) for which it was made available, unless
+otherwise instructed by the other or its personnel or required by law.
+
+Public Bodies Who Are Subject to Public Sector Privacy Legislation
+
+For Licensees who are public bodies subject to public sector privacy legislation, this
+Item 10.1 applies only to Personal Data made available to Licensee in connection
+with this Agreement, and the obligations in this section apply only to Licensee,
+except that: 1) section (2)(a) applies only to IBM; 2) sections (1)(a) and (4)(a) apply to
+both parties; and 3) section (4)(b) and the last sentence in (1)(b) do not apply.
+
+2125-5543-05
+
+PERU
+7. Limitation of Liability
+The following is added to the end of this Section 7 (Limitation of Liability):
+
+Except as expressly required by law Without the possibility of contractual waiver, Licensee and
+IBM intend that the limitation of liability in this Limitation of Liability section applies to
+damages caused by all types of claims and causes of action. If any limitation on or exclusion
+from liability in this section is held by a court of competent jurisdiction to be unenforceable
+With respect to a particular claim or cause of action, the parties intend that it nonetheless apply
+to the maximum extent permitted by applicable law to all other claims and causes of action.
+
+7.1 Items for Which IBM May Be Liable
+
+The following is added to the end of this Subsection 7 .1:
+
+In accordance With Article 1328 of the Peruvian Civil Code, the limitations and exclusions
+specified in this section Will not apply to damages caused by IBM’s willful misconduct (”dolo”)
+or gross negligence (”culpa inexcusable”).
+
+UNITED STATES OF AMERICA
+10. General
+
+The following is added to Section 10 as Item 10.1:
+
+1. US. Government Users Restricted Rights — Use, duplication or disclosure is restricted by
+the GSA IT Schedule 70 Contract With the IBM Corporation.
+
+The following is added to Item 10.e:
+
+Each party waives any right to a jury trial in any proceeding arising out of or related to this
+Agreement.
+
+ASIA PACIFIC COUNTRY AMENDMENTS
+
+AUSTRALIA
+
+5. No Warranties
+
+The following is added to the first paragraph of Section 5 (N0 Warranties):
+
+Although IBM specifies that there are no warranties, Licensee may have certain rights under
+the Competition and Consumer Act 2010 or other legislation and are only limited to the extent
+permitted by the applicable legislation.
+
+7.1 Items for Which IBM May Be Liable
+
+The following is added to Subsection 7.1 (Items for Which IBM May Be Liable):
+
+Where IBM is in breach of a condition or warranty implied by the Competition and Consumer
+Act 2010, IBM’s liability is limited to the repair or replacement of the goods, or the supply of
+equivalent goods. Where that condition or warranty relates to right to sell, quiet possession or
+clear title, or the goods are of a kind ordinarily obtained for personal, domestic or household
+use or consumption, then none of the limitations in this paragraph apply.
+
+2125—5543—05 11
+
+HONG KONG SAR, MACAU SAR, AND TAIWAN
+
+As applies to licenses obtained in Taiwan and the special administrative regions, phrases throughout this
+Agreement containing the word ”country” (for example, ”the country in which the original Licensee was
+granted the license” and ”the country in which Licensee obtained the Program license”) are replaced with
+the following:
+
+(1) In Hong Kong SAR: ”Hong Kong SAR”
+
+(2) In Macau SAR: ”Macau SAR” except in the Governing Law clause (Section 11.1)
+
+(3) In Taiwan: ”Taiwan.”
+INDIA
+7.1 Items for Which IBM May Be Liable
+
+The following replaces the terms of Items 1 and 2 0f the first paragraph:
+
+1) liability for bodily injury (including death) or damage to real property and tangible personal
+property Will be limited to that caused by IBM’s negligence; and 2) as to any other actual
+damage arising in any situation involving nonperforrnance by IBM pursuant to, or in any way
+related to the subject of this Agreement, IBM’s liability Will be limited to the charge paid by
+Licensee for the individual Program that is the subject of the claim.
+
+10. General
+
+The following replaces the terms of Item 10f:
+
+f. If no suit or other legal action is brought, Within three years after the cause of action
+arose, in respect of any claim that either party may have against the other, the rights of
+the concerned party in respect of such claim Will be forfeited and the other party Will
+stand released from its obligations in respect of such claim.
+
+INDONESIA
+3.2 Term and Termination
+The following is added to the last paragraph:
+
+Both parties waive the provision of article 1266 of the Indonesian Civil Code, to the extent the
+article provision requires such court decree for the termination of an agreement creating mutual
+obligations.
+
+JAPAN
+10. General
+
+The following is added as Item 10.1:
+
+1. Any doubts concerning this Agreement Will be initially resolved between us in good faith
+and in accordance With the principle of mutual trust.
+
+MALAYSIA
+7.2 Items for Which IBM Is Not Liable
+
+The word ”SPECIAL” in Item 7.217 is deleted.
+
+12 2125554305
+
+NEW ZEALAND
+5. No Warranties
+The following is added to the first paragraph of this Section 5 (N0 Warranties):
+
+Although IBM specifies that there are no warranties, Licensee may have certain rights under
+the Consumer Guarantees Act 1993 or other legislation Which cannot be excluded or limited.
+The Consumer Guarantees Act 1993 Will not apply in respect of any goods Which IBM
+
+provides, if Licensee requires the goods for the purposes of a business as defined in that Act.
+
+7. Limitation of Liability
+
+The following is added:
+
+Where Programs are not obtained for the purposes of a business as defined in the Consumer
+Guarantees Act 1993, the limitations in this Section are subject to the limitations in that Act.
+
+PHILIPPINES
+
+7.2 Items for Which IBM Is Not Liable
+
+The following replaces the terms of Item 7 .217:
+
+b. special (including nominal and exemplary damages), moral, incidental, or indirect
+damages or for any economic consequential damages; or
+
+SINGAPORE
+
+7.2 Items for Which IBM Is Not Liable
+
+The words ”SPECIAL” and ”ECONOMIC” are deleted from Item 7.217.
+10. General
+
+The following replaces the terms of Item 10h:
+
+h. Subject to the rights provided to IBM’s suppliers and Program developers as provided in
+Section 7 above (Limitation of Liability), a person Who is not a party to this Agreement
+Will have no right under the Contracts (Right of Third Parties) Act to enforce any of its
+terms.
+
+TAIWAN
+7.1 Items for Which IBM May Be Liable
+The following sentences are deleted:
+
+This limit also applies to any of IBM’s subcontractors and Program developers. It is the
+maximum for Which IBM and its subcontractors and Program developers are collectively
+responsible.
+
+EUROPE, MIDDLE EAST, AFRICA (EMEA) COUNTRY AMENDMENTS
+EUROPEAN UNION MEMBER STATES
+
+5. No Warranties
+
+The following is added to Section 5 (N0 Warranties):
+
+In the European Union (”EU”), consumers have legal rights under applicable national
+legislation governing the sale of consumer goods. Such rights are not affected by the provisions
+set out in this Section 5 (No Warranties).
+
+2125—5543—05 13
+
+EU MEMBER STATES AND THE COUNTRIES IDENTIFIED BELOW
+
+Iceland, Liechtenstein, Norway, Switzerland, Turkey, and any other European country that
+has enacted local data privacy or protection legislation similar to the EU model.
+
+10. General
+
+The following replaces Item 10.61:
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+14
+
+Definitions — For the purposes of this Item 10.d, the following additional definitions
+
+apply:
+
+(a)
+
+(b)
+
+(C)
+
+(d)
+
+(6)
+
+Business Contact Information — business-related contact information disclosed by
+Licensee to IBM, including names, job titles, business addresses, telephone numbers
+and email addresses of Licensee’s employees and contractors. For Austria, Italy and
+Switzerland, Business Contact Information also includes information about Licensee
+and its contractors as legal entities (for example, Licensee’s revenue data and other
+transactional information)
+
+Business Contact Personnel — Licensee employees and contractors to Whom the
+Business Contact Information relates.
+
+Data Protection Authority — the authority established by the Data Protection and
+Electronic Communications Legislation in the applicable country or, for non-EU
+countries, the authority responsible for supervising the protection of personal data in
+that country, or (for any of the foregoing) any duly appointed successor entity
+thereto.
+
+Data Protection 8: Electronic Communications Legislation — (i) the applicable local
+legislation and regulations in force implementing the requirements of EU Directive
+95 / 46 / EC (on the protection of individuals With regard to the processing of personal
+data and on the free movement of such data) and of EU Directive 2002 / 58 / EC
+(concerning the processing of personal data and the protection of privacy in the
+electronic communications sector); or (ii) for non-EU countries, the legislation
+
+and / or regulations passed in the applicable country relating to the protection of
+personal data and the regulation of electronic communications involving personal
+data, including (for any of the foregoing) any statutory replacement or modification
+thereof.
+
+IBM Group — International Business Machines Corporation of Armonk, New York,
+USA, its subsidiaries, and their respective Business Partners and subcontractors.
+
+Licensee authorizes IBM:
+
+(a)
+
+(b)
+
+to process and use Business Contact Information Within IBM Group in support of
+Licensee including the provision of support services, and for the purpose of
+furthering the business relationship between Licensee and IBM Group, including,
+Without limitation, contacting Business Contact Personnel (by email or otherwise)
+and marketing IBM Group products and services (the ”Specified Purpose”); and
+
+to disclose Business Contact Information to other members of IBM Group in pursuit
+of the Specified Purpose only.
+
+IBM agrees that all Business Contact Information Will be processed in accordance With the
+Data Protection & Electronic Communications Legislation and Will be used only for the
+Specified Purpose.
+
+To the extent required by the Data Protection & Electronic Communications Legislation,
+Licensee represents that (a) it has obtained (or Will obtain) any consents from (and has
+
+2125-5543-05
+
+issued (or Will issue) any notices to) the Business Contact Personnel as are necessary in
+order to enable IBM Group to process and use the Business Contact Information for the
+Specified Purpose.
+
+(5) Licensee authorizes IBM to transfer Business Contact Information outside the European
+Economic Area, provided that the transfer is made on contractual terms approved by the
+Data Protection Authority or the transfer is otherwise permitted under the Data Protection
+& Electronic Communications Legislation.
+
+AUSTRIA
+7. Limitation of Liability
+
+The following is added:
+
+The following limitations and exclusions of IBM’s liability do not apply for damages caused by
+gross negligence or willful misconduct.
+
+7.1 Items for Which IBM May Be Liable
+The following replaces the first sentence in the first paragraph:
+
+Circumstances may arise Where, because of a default by IBM in the performance of its
+
+obligations under this Agreement or other liability, Licensee is entitled to recover damages from
+IBM.
+
+In the second sentence of the first paragraph, delete entirely the parenthetical phrase:
+”(including fundamental breach, negligence, misrepresentation, or other contract or tort claim)”.
+7.2 Items for Which IBM Is Not Liable
+
+The following replaces Item 7 .2b:
+
+b. indirect damages or consequential damages; or
+
+BELGIUM, FRANCE, ITALY, AND LUXEMBOURG
+7. Limitation of Liability
+The following replaces the terms of Section 7 (Limitation of Liability) in its entirety:
+
+Except as otherwise provided by mandatory law:
+7.1 Items for Which IBM May Be Liable
+
+IBM’s entire liability for all claims in the aggregate for any damages and losses that may arise
+as a consequence of the fulfillment of its obligations under or in connection With this
+Agreement or due to any other cause related to this Agreement is limited to the compensation
+of only those damages and losses proved and actually arising as an immediate and direct
+
+consequence of the non-fulfillrnent of such obligations (if IBM is at fault) or of such cause, for a
+maximum of EUR 500,000 (five hundred thousand euro).
+
+The above limitation Will not apply to damages for bodily injuries (including death) and
+damages to real property and tangible personal property for Which IBM is legally liable.
+
+7.2 Items for Which IBM Is Not Liable
+
+UNDER NO CIRCUMSTANCES IS IBM OR ANY OF ITS PROGRAM DEVELOPERS
+LIABLE FOR ANY OF THE FOLLOWING, EVEN IF INFORMED OF THEIR POSSIBILITY:
+1) LOSS OF, OR DAMAGE TO, DATA; 2) INCIDENTAL, EXEMPLARY OR INDIRECT
+DAMAGES, OR FOR ANY ECONOMIC CONSEQUENTIAL DAMAGES; AND / OR 3)
+
+2125—5543—05 15
+
+LOST PROFITS, BUSINESS, REVENUE, GOODWILL, OR ANTICIPATED SAVINGS, EVEN
+IF THEY ARISE AS AN IMMEDIATE CONSEQUENCE OF THE EVENT THAT
+GENERATED THE DAMAGES.
+
+7.3 Suppliers and Program Developers
+
+The limitation and exclusion of liability herein agreed applies not only to the activities
+performed by IBM but also to the activities performed by its suppliers and Program developers,
+and represents the maximum amount for Which IBM as well as its suppliers and Program
+developers are collectively responsible.
+
+GERMANY
+
+7. Limitation of Liability
+
+The following replaces this Section 7 (Limitation of Liability) in its entirety:
+
+a. IBM Will be liable Without limit for 1) loss or damage caused by a breach of an express
+guarantee; 2) damages or losses resulting in bodily injury (including death); and 3)
+damages caused intentionally or by gross negligence.
+
+b. In the event of loss, damage and frustrated expenditures caused by slight negligence or in
+breach of essential contractual obligations, IBM Will be liable, regardless of the basis on
+Which Licensee is entitled to claim damages from IBM (including fundamental breach,
+negligence, misrepresentation, or other contract or tort claim), per claim only up to
+500,000 euro for the Program that caused the loss or damage. A number of defaults Which
+together result in, or contribute to, substantially the same loss or damage Will be treated
+as one default.
+
+c. In the event of loss, damage and frustrated expenditures caused by slight negligence, IBM
+will not be liable for indirect or consequential damages, even if IBM was informed about
+the possibility of such loss or damage.
+
+(1. In case of delay on IBM’s part: 1) IBM Will pay to Licensee an amount not exceeding the
+loss or damage caused by IBM’s delay and 2) IBM Will be liable only in respect of the
+resulting damages that Licensee suffers, subject to the provisions of Items a and b above.
+
+10. General
+
+The following replaces the provisions of 10f:
+
+f. Any claims resulting from this Agreement are subject to a limitation period of three years,
+except as stated in Section 5 (No Warranties) of this Agreement.
+
+The following replaces the provisions of 10.h:
+
+h. No right or cause of action for any third party is created by this Agreement, nor is IBM
+responsible for any third party claims against Licensee, except (to the extent permitted in
+Section 7 (Limitation of Liability)) for: i) bodily injury (including death); or ii) damage to
+real or tangible personal property for Which (in either case) IBM is legally liable to that
+third party.
+
+IRELAND
+5. N0 Warranties
+The following paragraph is added to the second paragraph of this Section 5 (N0 Warranties):
+
+Except as expressly provided in these terms and conditions, or Section 12 of the Sale of Goods
+Act 1893 as amended by the Sale of Goods and Supply of Services Act, 1980 (the ”1980 Act”), all
+conditions or warranties (express or implied, statutory or otherwise) are hereby excluded
+
+16 2125—5543—05
+
+including, Without limitation, any warranties implied by the Sale of Goods Act 1893 as
+amended by the 1980 Act (including, for the avoidance of doubt, Section 39 of the 1980 Act).
+
+IRELAND AND UNITED KINGDOM
+
+2. Agreement Structure
+
+The following sentence is added:
+
+Nothing in this paragraph shall have the effect of excluding or limiting liability for fraud.
+7.1 Items for Which IBM May Be Liable
+
+The following replaces the first paragraph of the Subsection:
+
+For the purposes of this section, a ”Default” means any act, statement, omission or negligence
+on the part of IBM in connection With, or in relation to, the subject matter of an Agreement in
+respect of Which IBM is legally liable to Licensee, Whether in contract or in tort. A number of
+Defaults Which together result in, or contribute to, substantially the same loss or damage Will
+be treated as one Default.
+
+Circumstances may arise Where, because of a Default by IBM in the performance of its
+obligations under this Agreement or other liability, Licensee is entitled to recover damages from
+IBM. Regardless of the basis on Which Licensee is entitled to claim damages from IBM and
+except as expressly required by law Without the possibility of contractual waiver, IBM’s entire
+liability for any one Default Will not exceed the amount of any direct damages, to the extent
+actually suffered by Licensee as an immediate and direct consequence of the Default, up to
+500,000 euro (or the equivalent in local currency) for the Program that is the subject of the
+claim. Notwithstanding the foregoing, the amount of any damages for bodily injury (including
+death) and damage to real property and tangible personal property for Which IBM is legally
+liable is not subject to such limitation.
+
+7.2 Items for Which IBM Is Not Liable
+
+The following replaces Items 7 .219 and 7.20:
+
+b. special, incidental, exemplary, or indirect damages or consequential damages; or
+c. wasted management time or lost profits, business, revenue, goodwill, or anticipated
+savings.
+
+2125—5543—05 17
+
