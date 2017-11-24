@@ -32,10 +32,16 @@ button {
   color: white;
   border-color: #D1B6E1;
   font-weight: bold;
+  cursor: pointer;
 }
 
 button:hover {
   background-color: rgba(0,0,0,0);
+  color: #D1B6E1;
+}
+
+button:active {
+  background-color: rgba(0,0,0,0.1);
   color: #D1B6E1;
 }
 
